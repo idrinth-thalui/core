@@ -1,0 +1,3 @@
+- You're too weak!
+- You are mine!
+- Fight me Milkdrinkers!
