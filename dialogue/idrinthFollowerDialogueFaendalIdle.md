@@ -1,0 +1,4 @@
+- Last time I was in Valenwood there was a bow shooting contest, ever participated in one?
+- I wish you good luck with your love. May it be blessed.
+- You're a good shot, even for your race.
+- Is keeping to the green pact hard in your life?
