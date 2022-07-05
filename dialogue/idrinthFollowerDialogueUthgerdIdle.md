@@ -1,0 +1,5 @@
+- Ooh, what're you gonna do, beat me to death?
+- You may wield a greatsword, but you need training, Uthgerd.
+- I'll make sure to keep an eye on you. Don't want any accidents.
+- I see you also like greatswords. What would you enchant yours with?
+- If you want to, we could train together for a bit.
