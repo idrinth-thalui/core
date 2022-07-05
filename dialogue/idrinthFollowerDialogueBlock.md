@@ -1,0 +1,3 @@
+- Trinimac protect me!
+- You'll fail!
+- Did you really think you could hit me?
