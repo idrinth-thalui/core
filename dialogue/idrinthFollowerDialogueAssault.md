@@ -1,0 +1,4 @@
+- Your shame knows no bounds!
+- Trinimac curse you!
+- Stop being a criminal!
+- You are a disgrace!
