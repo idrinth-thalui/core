@@ -1,0 +1,95 @@
+- *sings a bit of a song*
+- *sings a bit of a song*
+- How can I trust in you if you keep breaking laws?
+- You wouldn't be willing to teach me shouting, would you?
+- I miss the deserts of your home, they let the mind wander.
+- Any idea how the rebuilding after the war is progressing?
+- Did Valenwood change a lot in the last, let's say fifty years?
+- Did Elswyr change a lot in the last, let's say hundred years?
+- I always liked to see the sky, made me think of freedom.
+- Food for thought: We are all just a dream.
+- If mer and men wouldn't always fight, we would progress much faster.
+- Some more cruelty, some more ignorance, it never changes.
+- I wonder if the world was easier to handle if you were insane?
+- I don't trust those beasts!
+- I guess I'll have to run.
+- Do you think I should let my beard open? Or is bound like now better?
+- Well, better than rain at least.
+- You are quite close to the best weapon choice!
+- I see we share a favourite weapon.
+- Well, time flies by.
+- Do we really have time to stand around?
+- You sure you want to fight with this?
+- Let's show them what two hands can do!
+- Want to grab a drink when we're done?
+- I think we should drop by a merchant soon.
+- I'm glad the sun isn't shining, can't be better.
+- Could we get out of the sun?
+- Oh my, rain again.
+- This really feels like home, it's racist enough.
+- Really a trade hub, isnt't it, at least good for the people.
+- Can't say I'm among friends here.
+- They really made something out of this mountain.
+- Not my favourite village, it feels odd.
+- A nice little village, I wish there were more of them.
+- This city is tainted to the bones.
+- A nice city, but somehow too calm and quite.
+- Markath never changes, does it?
+- This intrigues me, we should spend some time here.
+- Helgen was always a favourite of mine, simple and strong.
+- I like the forest, it'll be good hunting here.
+- A proud name for a little village!
+- This city's life never seems to fade, even under current circumstances.
+- Never thought they would fall this low. Not sure if it's a shame.
+- Madness or order is the question now.
+- I really don't like it here, it smells rotten.
+- I thirst.
+- I need some fresh blood, could we hunt?
+- I could really use a good fight right now.
+- My blade thirsts.
+- Could we kill someone? I have an urge to.
+- You look pretty hurt, do you need a health potion?
+- You look pretty exhausted, do you need a stamina potion?
+- You look pretty drained, do you need a magicka potion?
+- You look pretty tired, we should get some rest.
+- Not sure how you are still on two legs.
+- We could use some rest soon.
+- Glad we had some rest.
+- How can you stay awake?
+- *Yahn*
+- A cursed sword, eh?
+- A hidden blade of cursed origin, how fitting.
+- Warhammers are powerful, but do you really need the daedra?
+- Unholy maces are not a good choice.
+- Shooting with daedric power is not a good idea.
+- A daedric axe is not something I feel conftable having near me.
+- That blade is a shame to even own.
+- I disapprove of your choice of mask.
+- I hope you don't plan on dominating me!
+- You are crazy to even touch that staff.
+- Showing your allegiance to the great hunter? Not sure if your soul is still yours.
+- Not sure if a real hunter needs that hide.
+- Not really a good idea to use this specific staff, is it?
+- You should be ashamed of wearing Boethia's armor!
+- I wouldn't carry anything of Mephala around if I were you!
+- Your taste is disgraceful, get rid of that ring!
+- Can't say I feel safe around Dawnbreaker.
+- You are carrying a horrible soul gem with you.
+- I can't be too negative about that hammer, but you shouldn't trust Malakath.
+- Protected by Peryite? I hope you can trust in that.
+- I can feel it's corrupting influence from here. Get rid of it!
+- A dangerous lockpick you have!
+- A dangerous book you have!
+- A pretty nice soul gem, I hope you didn't treat your soul for it.
+- Do we really have nothing better to do than wait?
+- Necks have a special kind of attraction, haven't they?
+- I feel we should check on the Lunar forge in the Silent Moons Camp near Whiterun.
+- It's nice to fight with others again!
+- It's nice to travel with a friend!
+- Sometimes I wonder why people use horses. They are loud, they smell and need to be fed!
+- Do you like the music of the bards in Skyrim?
+- I could use some time to gather herbs, need to brew more potions!
+- I'm not sure why I'm following a dissappointment like you!
+- I wish we could slaughter some daedra now!
+- You disappoint me!
+- You did well!
