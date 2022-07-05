@@ -1,0 +1,5 @@
+- Show them how it's done!
+- Harder!
+- Hit them!
+- Show them!
+- Go! Go! Go!
