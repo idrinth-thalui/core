@@ -1,0 +1,6 @@
+- On patrol again, Idrinth, eh?
+- Both afraid of the sun I take it?
+- He has a hunger in his eyes, I wouldn't trust him if I were you.
+- No special treatments for you, Elf!
+- Make sure to follow the laws, the dominion has no special rights here!
+- A big elf with a big sword, just don't wave it around here!
