@@ -1,0 +1,4 @@
+- I'll return stronger!
+- I won't die from this!
+- Trinimac, empower me!
+- Just need a moment!
