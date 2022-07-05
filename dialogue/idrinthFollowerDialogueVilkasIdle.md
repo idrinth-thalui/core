@@ -1,0 +1,4 @@
+- If you don't mind, could we spar a bit, Vilkas?
+- Good, that we aren't enemies, you are capable enough to threaten me.
+- You could be a great follower of Trinimac if you were a mer.
+- It smells a bit like wet dog here...
