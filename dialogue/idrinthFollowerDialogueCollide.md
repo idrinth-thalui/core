@@ -1,0 +1,5 @@
+- Won't happen again!
+- Ouch!
+- Out of my way!
+- Beg your pardon!
+- Sorry!
