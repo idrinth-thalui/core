@@ -1,0 +1,4 @@
+- Never thought I would fight alongside the dark brotherhood.
+- I can appreciate you being quick at killing at least.
+- Not sure, Cicero, who let you out of an assylum.
+- This clown is hard to ignore, I wish I could kill him.
