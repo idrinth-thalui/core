@@ -1,0 +1,3 @@
+- Weakness be cursed!
+- You won't kill me!
+- I'll be back!
