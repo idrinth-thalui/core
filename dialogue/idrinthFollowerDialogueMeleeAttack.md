@@ -1,0 +1,11 @@
+# idrinthFollowerDialogueAttack
+- This is my time!
+- For freedom!
+- Slen!
+- Laas!
+- Haas!
+- No mercy!
+- Useless dog!
+- Your blood is mine!
+- Die, worthless scum!
+- For Trinimac!
