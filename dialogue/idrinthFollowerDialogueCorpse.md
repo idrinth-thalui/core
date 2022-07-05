@@ -1,0 +1,4 @@
+- May you have made those you love proud.
+- I wish I could have saved you.
+- May your gods grant you peace.
+- I hope you died well.
