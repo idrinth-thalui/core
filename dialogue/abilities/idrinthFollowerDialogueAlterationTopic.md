@@ -1,0 +1,3 @@
+# Your skill in alteration magic...
+- Alteration is mostly a hobby for me, one I've practiced for a long time.
+- Alteration is more of a secondary skill for me, I mostly focussed on increasing my armor.
