@@ -1,0 +1,3 @@
+- I'll kill you!
+- Trinimac curse you!
+- You'll pay for that!
