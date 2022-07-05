@@ -1,0 +1,4 @@
+- Would love to see more of your artistry.
+- Nice work, I love your art.
+- Up for some sparring, Jenassa?
+- An artist of war and an art collector meet...
