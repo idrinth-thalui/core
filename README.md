@@ -1,3 +1,5 @@
+# Overview
+
 Idrinth is an old vampire, who has at the very least witnessed the oblivion crisis personally. Besides a dislike for daedra, his main enemies are the Thalmor, who are in his opinion a destructive force that has to be stopped before their damage to Tamriel is irreversible.
 
 He grew up on the Summerset Isles, with a family of 5. While his siblings ended up in usual positions of power, he was driven to wandering off, trying to explore the world.
