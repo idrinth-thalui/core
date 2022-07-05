@@ -1,0 +1,4 @@
+- If you get some ingredients while hunting, I'd happily buy them from you.
+- Is your bite worse than your bark?
+- You like hunting the Silver Hand as well, don't you?
+- It smells a bit like wet dog here...
