@@ -1,0 +1,6 @@
+- Your father's court is quite special in how long it survived.
+- Can't say I like your father, I'm glad you are less like him, Serana.
+- A daughter of Coldharbour, eh, has been a while since I met one. I'm sorry you had to go through that.
+- You missed a lot while you were hidden away, the Oblivion Crisis alone was interesting already.
+- Not sure if it's a good idea to be that public about vampirism, Serana.
+- You are followed by a vampire princess and a vampire paladin, sounds like a story.
