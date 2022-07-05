@@ -1,0 +1,3 @@
+- This is madness.
+- Fingers where I can cut them!
+- You dare?
