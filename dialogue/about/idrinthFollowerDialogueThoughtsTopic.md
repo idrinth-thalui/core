@@ -5,7 +5,7 @@
 - Werewolves. I wonder how my life would have been if I was one.
 - The Dragonborns. I've seen a lot of other powerful beings, but none like them.
 - Vampires, how come most are an evil to be rooted out?
-- The Aldmeri Dominion, it still surprises me how easily it was rebuild.
+- The Aldmeri Dominion, it still surprises me how easily it was rebuilt.
 - The Great War, I hope some wounds will heal before the second one.
 - My father, he was strict, but well meaning - something we could use right now.
 - My Birthplace, somehow those butterflies reminded me of my mother's garden.
@@ -16,7 +16,7 @@
 - It's smaller than I thought, but it's still impressive. I've never been here before.
 - Dwemer, I'm wondering if they are somewhere in Oblivion.
 - Giants, it's sad to see these majestic creatures treated like troublemakers.
-- I guess noone dares to attack them, the walls look unmaintained.
+- I guess no one dares to attack them, the walls look unmaintained.
 - This new capital looks decent, they are hiding their skeletons well.
-- This city was once kingly as the name suggest. It really doesn't deserve the title now.
+- This city was once kingly as the name suggests. It really doesn't deserve the title now.
 - It's nice to fight side by side with another Altmer again.
