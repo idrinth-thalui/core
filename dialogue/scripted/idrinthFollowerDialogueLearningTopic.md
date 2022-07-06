@@ -1,4 +1,4 @@
 # (Learning Magic)
-- This is exiting!
+- This is exciting!
 - I learned a lot today.
 - Oh, that's how it works!
