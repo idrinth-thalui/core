@@ -5,8 +5,8 @@
 - I miss the deserts of your home, they let the mind wander.
 - Any idea how the rebuilding after the war is progressing?
 - Did Valenwood change a lot in the last, let's say fifty years?
-- Did Elswyr change a lot in the last, let's say hundred years?
-- I always liked to see the sky, made me think of freedom.
+- Did Elsweyr change a lot in the last, let's say hundred years?
+- I always liked to see the sky, it made me think of freedom.
 - Food for thought: We are all just a dream.
 - If mer and men wouldn't always fight, we would progress much faster.
 - Some more cruelty, some more ignorance, it never changes.
@@ -16,24 +16,24 @@
 - Do you think I should let my beard open? Or is bound like now better?
 - Well, better than rain at least.
 - You are quite close to the best weapon choice!
-- I see we share a favourite weapon.
+- I see we share a favorite weapon.
 - Well, time flies by.
 - Do we really have time to stand around?
-- You sure you want to fight with this?
+- Are you sure you want to fight with this?
 - Let's show them what two hands can do!
 - Want to grab a drink when we're done?
 - I think we should drop by a merchant soon.
-- I'm glad the sun isn't shining, can't be better.
+- I'm glad the sun isn't shining, it can't be better.
 - Could we get out of the sun?
 - Oh my, rain again.
 - This really feels like home, it's racist enough.
-- Really a trade hub, isnt't it, at least good for the people.
+- Really a trade hub, isn't it, at least good for the people.
 - Can't say I'm among friends here.
 - They really made something out of this mountain.
-- Not my favourite village, it feels odd.
+- Not my favorite village, it feels odd.
 - A nice little village, I wish there were more of them.
 - This city is tainted to the bones.
-- A nice city, but somehow too calm and quite.
+- A nice city, but somehow too calm and quiet.
 - Markath never changes, does it?
 - This intrigues me, we should spend some time here.
 - Helgen was always a favourite of mine, simple and strong.
@@ -56,13 +56,13 @@
 - We could use some rest soon.
 - Glad we had some rest.
 - How can you stay awake?
-- *Yahn*
+- *Yawn*
 - A cursed sword, eh?
 - A hidden blade of cursed origin, how fitting.
 - Warhammers are powerful, but do you really need the daedra?
 - Unholy maces are not a good choice.
 - Shooting with daedric power is not a good idea.
-- A daedric axe is not something I feel conftable having near me.
+- A daedric axe is not something I feel comfortable having near me.
 - That blade is a shame to even own.
 - I disapprove of your choice of mask.
 - I hope you don't plan on dominating me!
@@ -75,7 +75,7 @@
 - Your taste is disgraceful, get rid of that ring!
 - Can't say I feel safe around Dawnbreaker.
 - You are carrying a horrible soul gem with you.
-- I can't be too negative about that hammer, but you shouldn't trust Malakath.
+- I can't be too negative about that hammer, but you shouldn't trust Malacath.
 - Protected by Peryite? I hope you can trust in that.
 - I can feel it's corrupting influence from here. Get rid of it!
 - A dangerous lockpick you have!
@@ -83,13 +83,13 @@
 - A pretty nice soul gem, I hope you didn't treat your soul for it.
 - Do we really have nothing better to do than wait?
 - Necks have a special kind of attraction, haven't they?
-- I feel we should check on the Lunar forge in the Silent Moons Camp near Whiterun.
+- Have you ever seen the Lunar Forge? It's close to Whiterun.
 - It's nice to fight with others again!
 - It's nice to travel with a friend!
 - Sometimes I wonder why people use horses. They are loud, they smell and need to be fed!
 - Do you like the music of the bards in Skyrim?
-- I could use some time to gather herbs, need to brew more potions!
-- I'm not sure why I'm following a dissappointment like you!
+- I could use some time to gather herbs, I need to brew more potions!
+- I'm not sure why I'm following a disappointment like you!
 - I wish we could slaughter some daedra now!
 - You disappoint me!
 - You did well!
