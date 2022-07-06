@@ -4,4 +4,4 @@
 - Certainly, for 15 gold.
 - Certainly, for 20 gold.
 - Certainly, for 25 gold.
-- No sorry, I have to few left.
+- No sorry, I have too few left.
