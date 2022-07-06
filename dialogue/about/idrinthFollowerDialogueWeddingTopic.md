@@ -3,4 +3,4 @@
 - Hopefully not!
 - Only to my sword now.
 - No, I once was.
-- Not anymore, it was a long time ago. I still love her tho! Would you return the ring?
+- Not anymore, it was a long time ago. I still love her though! Would you return the ring?
