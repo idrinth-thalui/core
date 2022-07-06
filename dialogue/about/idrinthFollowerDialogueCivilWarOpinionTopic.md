@@ -5,4 +5,4 @@
 - I'm glad you decided for a side, let's bring them victory!
 - The Imperials have a point in trying to stay united and strong.
 - The Stormcloaks have a point in wanting to pray to Talos and having a strong leader.
-- The Thalmor are the only ones benefitting from this war continuing.
+- The Thalmor are the only ones benefiting from this continuing war.
