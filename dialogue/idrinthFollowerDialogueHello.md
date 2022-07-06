@@ -1,13 +1,13 @@
 - What is it now?
 - May Trinimac guide you!
-- Hello fellow hunter.
+- Hello, fellow hunter.
 - Hello.
-- Hello brother in blood.
-- Hello sister in blood.
+- Hello, brother-in-blood.
+- Hello, sister-in-blood.
 - Disgrace, I'm listening!
-- Hello lizard
-- Hello daedra lover
-- Hello cannibal
-- Hello Milkdrinker?
-- Hello Housecat?
+- Hello, Lizard
+- Hello, Daedra lover
+- Hello, Cannibal
+- Hello, Milkdrinker?
+- Hello, Housecat?
 - Yes?
