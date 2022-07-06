@@ -83,7 +83,7 @@
 - A pretty nice soul gem, I hope you didn't treat your soul for it.
 - Do we really have nothing better to do than wait?
 - Necks have a special kind of attraction, haven't they?
-- I feel we should check on the Lunar Forge.
+- Have you ever seen the Lunar Forge? It's close to Whiterun.
 - It's nice to fight with others again!
 - It's nice to travel with a friend!
 - Sometimes I wonder why people use horses. They are loud, they smell and need to be fed!
