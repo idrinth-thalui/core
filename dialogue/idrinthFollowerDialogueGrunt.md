@@ -1,3 +1,3 @@
-- Ahrrg
-- Growl
-- Umph
+- Ahrrg!
+- Growl!
+- Umph!

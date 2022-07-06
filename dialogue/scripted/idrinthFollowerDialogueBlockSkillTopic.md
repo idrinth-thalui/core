@@ -3,4 +3,4 @@
 - You're still quite easy to hit!
 - If you want pointers let me know. Your blocking needs training.
 - You are hard to hit, that's for sure!
-- Now noone can hit you!
+- Now no one can hit you!
