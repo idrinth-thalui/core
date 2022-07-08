@@ -5,21 +5,10 @@
      <title>{% page.title %} | Idrinth Thalui</title>
   </head>
   <body>
-    {% assign navurl = page.url | remove: 'index.html' %}
+    {% assign doclist = site.data.samplelist.docs | sort: 'title'  %}
     <ul>
-    {% for item in include.nav %}
-        <li>
-            <a href="{{ item.url }}">
-                {% if item.url == navurl %}
-                    <strong>{{ item.text }}</strong>
-                {% else %}
-                    {{ item.text }}
-                {% endif %}
-            </a>
-        </li>
-        {% if item.subitems and navurl contains item.url %}
-            {% include nav.html nav=item.subitems %}
-        {% endif %}
+    {% for item in doclist %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
     </ul>
     <h1>{{ page.title }}</h1>
