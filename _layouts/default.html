@@ -1,24 +1,25 @@
 <!DOCTYPE HTML>
 <html>
-   <head>
-     <meta charset="UTF-8"/>
-     <title>Idrinth Thalui</title>
-     <link rel="stylesheet" href="/css/style.css">
-  </head>
-  <body>
-    <nav>
-    {% assign doclist = site.data.samplelist.docs | sort: 'title'  %}
-      <ul>
-      {% for item in doclist %}
-         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {% endfor %}
-      </ul>
-    </nav>
-    <article>
-      {{ content }}
-    </article>
-    <footer>
-      &copy; to Björn Büttner
-    </footer>
-  </body>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>{{ page.title }} | Idrinth Thalui</title>
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+    <body>
+        <nav>
+        {% assign doclist = site.data.samplelist.docs | sort: 'title'  %}
+            <ul>
+            {% for item in doclist %}
+                <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endfor %}
+            </ul>
+        </nav>
+        <h1>{{ page.title }}</h1>
+        <article>
+            {{ content }}
+        </article>
+        <footer>
+            &copy; to Björn Büttner
+        </footer>
+    </body>
 </html>
