@@ -1,2 +1,2 @@
 # About your swordsmanship...
-- I learned from many masters over the years, trying to master the art myself.
+- I've learned from many masters over the years, while trying to master the art myself.
