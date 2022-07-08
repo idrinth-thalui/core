@@ -3,3 +3,14 @@ defaults:
       path: ""
     values:
       layout: "default"
+include:
+- Readme.md
+- dialogue
+- dreams
+- gear
+- writings
+- xvasynth
+exclude:
+- _layout
+- .github
+- _config.yml
