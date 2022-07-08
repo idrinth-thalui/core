@@ -1,3 +1,3 @@
-# How can you turn into bats?
+# How do you turn into bats?
 - It's a combination of summoning bats and turning yourself into one.
-- I'm a vampire, it's an ability my blood gifted me.
+- Well, I'm a vampire. It's an ability which was... Gifted to me.
