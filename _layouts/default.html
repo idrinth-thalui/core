@@ -9,11 +9,10 @@
     </head>
     <body>
         <nav>
-            {% assign doclist = site.data.samplelist.docs | sort: 'title' %}
             <ul>
-            {% for item in doclist %}
+            {%- for item in site.data.samplelist.docs -%}
                 <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
-            {% endfor %}
+            {%- endfor -%}
             </ul>
         </nav>
         <h1>{{ page.title }}</h1>
