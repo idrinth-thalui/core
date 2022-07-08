@@ -1,16 +1,18 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
     <head>
         <meta charset="UTF-8"/>
         <title>{{ page.title }} | Idrinth Thalui</title>
-        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href={{ "/assets/css/style.css" | absolute_url }}>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
         <nav>
         {% assign doclist = site.data.samplelist.docs | sort: 'title'  %}
             <ul>
             {% for item in doclist %}
-                <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
             {% endfor %}
             </ul>
         </nav>
