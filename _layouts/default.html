@@ -49,16 +49,18 @@
                     </ul>
                 </li>
                 {%- endif -%}
-                <li>{{item.dir | trim("/") | replace("/", ":") }}
+                {%- if item.dir != "/" -%}
+                <li>{{item.dir | remove_first: "/" | replace: "/", ":" }}
                 {%- assign prevdir={item.dir} -%}
                     <ul>
                 {%- endif -%}
-                        <li><a href="{{ item.url | absolute_url }}">{{ item.title | default: item.name | replace (".md", "")  | replace (".MD", "") }}</a></li>
+                {%- endif -%}
+                        <li><a href="{{ item.url | absolute_url }}">{{ item.title | default: item.name | replace: ".md", "" }}</a></li>
                 {%- endif -%}
             {%- endfor -%}
             </ul>
         </nav>
-        <h2>{{ page.name | replace(".md", "")  | replace(".MD", "") }}</h2>
+        <h2>{{ page.name | replace: ".md", "" }}</h2>
         <article>
             {{ content }}
         </article>
