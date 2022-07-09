@@ -12,12 +12,13 @@
             <ul>
             {%- assign prevdir="" -%}
             {%- for item in site.pages -%}
-                {%- if item.dir neq prevdir -%}
+                {%- if item.dir != prevdir -%}
                 {%- if prevdir -%}
                     </ul>
                 </li>
                 {%- endif -%}
                 <li>{{item.dir }}
+                {%- assign prevdir={item.dir} -%}
                     <ul>
                 {%- endif -%}
                         <li><a href="{{ item.url | absolute_url }}">{{ item.title | default: item.name }}</a></li>
