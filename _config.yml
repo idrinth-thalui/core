@@ -14,4 +14,3 @@ exclude:
 - _layout
 - .github
 - _config.yml
-- assets
