@@ -69,7 +69,7 @@
                 </li>
                 {%- endif -%}
                 {%- if item.dir != "/" -%}
-                <li>{{item.dir | remove_first: "/" | replace: "/", ":" }}
+                <li>{{item.dir | remove_first: "/" | replace_first: "/", ":"  | remove_first: "/" }}
                 {%- assign prevdir={item.dir} -%}
                     <ul>
                 {%- endif -%}
