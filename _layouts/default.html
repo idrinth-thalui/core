@@ -5,7 +5,35 @@
         {%- seo -%}
         <link rel="stylesheet" href={{ "/assets/css/style.css" | absolute_url }}>
         <style>
-            
+            nav,footer {
+              background-color: #000;
+              overflow: hidden;
+              color: #fff;
+            }
+            nav, article, footer {
+              padding: 1em;
+            }
+            nav a,
+            nav a:hover,
+            nav: a:active,
+            nav a:focus,
+            nav a:visited{
+              color: fff;
+            }
+            nav > li,
+            nav > ul > li {
+              display: block;
+              float: left;
+              padding: 2px;
+            }
+            li > ul {
+              display: none;
+            }
+            li:hover > ul {
+              position: absolute;
+              display: block;
+              background-color: #000;
+            }
         </style>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
