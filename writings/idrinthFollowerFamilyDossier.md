@@ -1,5 +1,10 @@
 # Idrinth's Family Notes
 
+## Xinerna
+
+I am quite sure Xinerna is one of the strangest, but most brilliant minds I have encountered. I'm happy she is asking me for my opinions on Alteration magic, even if I'm sure she mastered it more than I did.
+It has been a few hundred years since we started, but somehow I fail to explain to her how to turn into a wolf. It's frustrating to both of us, especially since it comes so natural to me.
+
 ## Idileth the Crow
 
 I am not quite sure what made him become such an enemy to me. He was asking simple questions, that I had simple answers for and somehow still prefered the Thalmor's rotten answers over the truth. I noticed him hunting me a few days ago, his smell is still very similar to my brother's.
