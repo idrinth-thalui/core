@@ -1,4 +1,4 @@
 # Amulet of Trinimac
-A religious amulett, empored by an old and nearly forgotten god.
+A religious amulett, empowered by an old, nearly-forgotten god.
 
 Increases stamina and health recovery.

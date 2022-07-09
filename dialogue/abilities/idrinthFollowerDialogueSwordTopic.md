@@ -1,2 +1,3 @@
 # About your swordsmanship...
 - I've learned from many masters over the years, while trying to master the art myself.
+- When I first learned fighting, it was purely ceremonial sparring with greatswords. After I started to genuinely fight, I prefered shorter weapons and a stealthy approach. I've left that life behind me for a long time and returned to greatswords. They are the true weapon of a paladin, just like my patron god Trinimac wielded one as the Champion of Auri-El.
