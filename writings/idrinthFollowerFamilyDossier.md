@@ -1,5 +1,9 @@
 # Idrinth's Family Notes
 
+## Alenia
+
+Alenia is a special one, she seems to have the same interest in greatswords, that I have. I wonder if she'll find Trinimac as her major god as well. She'll certainly become a good warrior some day.
+
 ## Xinerna
 
 I am quite sure Xinerna is one of the strangest, but most brilliant minds I have encountered. I'm happy she is asking me for my opinions on Alteration magic, even if I'm sure she mastered it more than I did.
