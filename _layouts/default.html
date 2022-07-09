@@ -9,6 +9,7 @@
               background-color: #000;
               overflow: hidden;
               color: #fff;
+              background-image: linear-gradient(to bottom,rgba(255,255,255,0.1),rgba(255,255,255,0.15),rgba(255,255,255,0));
             }
             nav, article, footer {
               padding: 1em;
@@ -34,6 +35,24 @@
               display: block;
               background-color: #000;
             }
+            nav a {
+                color: #fff;
+            }
+            nav > ul > li {
+                border-radius: 2px;
+                background: rgba(255,255,255,0.1);
+                margin: 2px;
+            }
+            body > h2 {
+                text-align: right;
+                padding: 0;
+                color: #aaa;
+            }
+            article {
+                box-shadow: 2px 2px 3px 3px rgba(0,0,0,0.1);
+                margin: 5px;
+                border-radius: 1em;
+            }
         </style>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -55,7 +74,7 @@
                     <ul>
                 {%- endif -%}
                 {%- endif -%}
-                        <li><a href="{{ item.url | absolute_url }}">{{ item.title | default: item.name | replace: ".md", "" }}</a></li>
+                        <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
                 {%- endif -%}
             {%- endfor -%}
             </ul>
