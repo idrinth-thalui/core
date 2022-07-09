@@ -12,6 +12,7 @@
             <ul>
             {%- assign prevdir="" -%}
             {%- for item in site.pages -%}
+                {%- if idtem.dir != "assets" -%}
                 {%- if item.dir != prevdir -%}
                 {%- if prevdir -%}
                     </ul>
@@ -22,6 +23,7 @@
                     <ul>
                 {%- endif -%}
                         <li><a href="{{ item.url | absolute_url }}">{{ item.title | default: item.name }}</a></li>
+                {%- endif -%}
             {%- endfor -%}
             </ul>
         </nav>
