@@ -3,3 +3,9 @@
 - Think of them as the evil in the hearts of the Altmer. They conquer and kill and see no reason to let any none mer live. Also they lack individuality, they drive it out of everyone.
 - The Thalmor have been my enemies for as long as I can remember. They desire a return to the past, while I desire a better future for all of us. Worst of all, they will likely kill everyone for their goals.
 - The Thalmor are everything evil in us Altmer turned to the extreme. They won't rest until they conquer and control all. And that is the best case, worst case they will kill all none mer.
+- Alas, how far the Thalmor had strayed from their former selves. Under Queen Ayrenn they were the backbone of the Aldmeri Dominion, keeping us Altmer, Bosmer and Khajiit together.
+- In the olden days, the Thalmor protected the Isles and the ideals of the Aldmeri Dominion. And they stayed true to these goals. But now...
+- The Oblivion Crisis brought out the worst of the Thalmor. What you see is a mockery, nay a distortion of their ancient counterparts.
+- It grieves me to see so many bright young Altmer being turned and twisted by the vile new ways of the Thalmor. If only they had lived in the days of yore...
+- Once, many Bosmer and Khajiit were amongst the highest ranks of the Thalmor. Hard to imagine in these dark times. Now they are mere servants, if not less..
+- The Thalmor claim they uphold the superiority of themselves over all others. Even other Altmer. In the elden days, the Divine Prosecutors would have them imprisoned for heresy.
