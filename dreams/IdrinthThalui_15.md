@@ -1,0 +1,1 @@
+You are in an open area, desert winds blowing soft sand towards you. Next to you you see an enthusiastic Idrinth acting as if he wanted to sail in the wind while standing in the middle of a bloodbath. Dozens of Akaviri warriors slaughtered, most without having their weapons drawn. You awake gasping.
