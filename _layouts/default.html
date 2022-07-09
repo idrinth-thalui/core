@@ -4,6 +4,9 @@
         <meta charset="UTF-8"/>
         {%- seo -%}
         <link rel="stylesheet" href={{ "/assets/css/style.css" | absolute_url }}>
+        <style>
+            
+        </style>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
@@ -14,20 +17,20 @@
             {%- for item in site.pages -%}
                 {%- if item.url != "/assets/css/styles.css" -%}
                 {%- if item.dir != prevdir -%}
-                {%- if prevdir -%}
+                {%- if prevdir != "" -%}
                     </ul>
                 </li>
                 {%- endif -%}
-                <li>{{item.dir }}
+                <li>{{item.dir | trim("/") | replace("/", ":") }}
                 {%- assign prevdir={item.dir} -%}
                     <ul>
                 {%- endif -%}
-                        <li><a href="{{ item.url | absolute_url }}">{{ item.title | default: item.name }}</a></li>
+                        <li><a href="{{ item.url | absolute_url }}">{{ item.title | default: item.name | replace (".md", "")  | replace (".MD", "") }}</a></li>
                 {%- endif -%}
             {%- endfor -%}
             </ul>
         </nav>
-        <h2>{{ page.name | replace(".md", "") }}</h2>
+        <h2>{{ page.name | replace(".md", "")  | replace(".MD", "") }}</h2>
         <article>
             {{ content }}
         </article>
