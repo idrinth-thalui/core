@@ -1,2 +1,2 @@
 # Idrinth's Foebane Gauntlets
-The specifically made gauntlets are enchanted to let a master of the blade kill his enemies even faster.
+These uniquely-crafted and specially-enchanted gauntlets afford a master of the blade even more speed to annihilate their enemies with.
