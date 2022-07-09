@@ -12,7 +12,7 @@
             <ul>
             {%- assign prevdir="" -%}
             {%- for item in site.pages -%}
-                {%- if idtem.dir != "assets" -%}
+                {%- if item.dir != "/assets/" and item.dir != "/assets/css/" and -%}
                 {%- if item.dir != prevdir -%}
                 {%- if prevdir -%}
                     </ul>
