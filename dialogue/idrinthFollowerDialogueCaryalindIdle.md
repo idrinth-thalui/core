@@ -1,16 +1,16 @@
 - Be glad our mutual friend vouches for you, Thallery!
 - I'm not sure why I don't gut you like a fish!
-- The Pride of the Thalmor fleeing his perfect life, ludicrous!
+- The pride of the Thalmor fleeing his perfect life? Ludicrous!
 - For what your family has done, you should have killed yourself!
 - A dagger is a distasteful weapon, why not take a warrior's weapon, Thallery?
 - The Pride of the Thalmor fleeing his life, as if...
 - Not many can say, they actually left the Thalmor behind!
 - I wonder why you don't use any magic, Thallery.
-- I'm not sure if you are a wolf in sheep's clothing, Thallery
+- I'm not sure if you are a wolf in sheep's clothing, Thallery.
 - If you are serious about leaving the Thalmor, maybe this is your best chance.
 - Maybe you should try and practice one of the magic arts, Caryalind?
 - Maybe you want to learn some tricks from me? They could come in handy!
 - Your father is a dangerous man, you need to grow up to face him!
-- We should spend some time talking about our, the Aldmeri, history!
-- You may be the light, that is needed for the Altmer to survive.
-- I should introduce you to my Great-Grand-Niece, you two may become allies.
+- We should spend some time talking about our, no, the Aldmeri's, history!
+- You may be the light that is needed for the Altmer to survive.
+- I should introduce you to my great-grand-Niece, you two may become allies.
