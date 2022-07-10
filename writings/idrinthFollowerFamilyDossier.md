@@ -6,7 +6,7 @@ Alenia is a special one, she seems to have the same interest in greatswords, tha
 
 ## Xinerna
 
-I am quite sure Xinerna is one of the strangest, but most brilliant minds I have encountered. I'm happy she is asking me for my opinions on Alteration magic, even if I'm sure she mastered it more than I did.
+I am quite sure Xinerna is one of the strangest, yet most brilliant minds I have encountered. I'm happy she is asking me for my opinions on Alteration magic, even if I'm sure she mastered it more than I ever could.
 It has been a few hundred years since we started, but somehow I fail to explain to her how to turn into a wolf. It's frustrating to both of us, especially since it comes so natural to me.
 
 ## Idileth the Crow
