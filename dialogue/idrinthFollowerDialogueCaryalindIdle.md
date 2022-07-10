@@ -1,9 +1,10 @@
-- Be glad our mutual friend vouches for you, Thallary!
+- Be glad our mutual friend vouches for you, Thallery!
 - I'm not sure why I don't gut you like a fish...
-- The pride of the Thalmor fleeing his life, as if...
+- The Pride of the Thalmor fleeing his life, as if...
+- The Pride of the Thalmor fleeing his perfect life, ludicrous!
 - For what your family has done, you should have killed yourself!
 - Not many can say, they actually left the Thalmor behind...
-- I'm not sure if you are a wolf in sheep's clothing, Thallary
+- I'm not sure if you are a wolf in sheep's clothing, Thallery
 - If you are serious about leaving the Thalmor, maybe this is your best chance.
 - Maybe you want to learn some tricks from me? They could come in handy!
 - Your father is a dangerous man, you need to grow up to face him!
