@@ -93,3 +93,5 @@
 - I wish we could slaughter some daedra now!
 - You disappoint me!
 - You did well!
+- I wonder how the world would have been without the Oblivion Crisis...better maybe?
+- If the ancient Nord and Falmer wouldn't have clashed, we might have had a long peace...
