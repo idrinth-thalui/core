@@ -1,0 +1,4 @@
+- I wonder, have you ever visited my father's court before?
+- You have to tell me the truth about some of the things I read!
+- It feels weird, that there is no lady for you...there always is in stories!
+- Treat me with the respect I deserve, not like a spoiled brat!
