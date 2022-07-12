@@ -20,3 +20,4 @@
 - This new capital looks decent, they are hiding their skeletons well.
 - This city was once kingly as the name suggests. It really doesn't deserve the title now.
 - It's nice to fight side by side with another Altmer again.
+- The Falmer, it's sad how this once proud species lost their minds and souls.
