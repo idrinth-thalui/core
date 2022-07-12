@@ -1,0 +1,1 @@
+There is an Altmer warrior-merchant patrolling between Solitude and Riften. He is usually willing to help.
