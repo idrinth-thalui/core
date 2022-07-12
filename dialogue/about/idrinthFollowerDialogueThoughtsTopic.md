@@ -22,3 +22,4 @@
 - It's nice to fight side by side with another Altmer again.
 - The Falmer, it's sad how this once proud species lost their minds and souls.
 - Long ago Falmer were like us Altmer, a proud and noble people. The true kings of the North.
+- The Dwemer and Falmer, it is strange how quickly the Falmer turned into beasts after being helped by the Dwemer.
