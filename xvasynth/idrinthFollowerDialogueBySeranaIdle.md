@@ -2,3 +2,4 @@
 - You have to tell me the truth about some of the things I read!
 - It feels weird, that there is no lady for you...there always is in stories!
 - Treat me with the respect I deserve, not like a spoiled brat!
+- Oh my, Sun. Let's see our proud Altmer handle this...
