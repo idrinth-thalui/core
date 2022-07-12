@@ -1,4 +1,4 @@
 - I'm glad you are on our side, I don't want to be hit by that sword!
-- A honorable Altmer? I'm intrigued!
+- An honorable Altmer? I'm intrigued!
 - Could we spar later?
 - Do you like mead or rather elven wine?
