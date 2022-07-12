@@ -1,1 +1,1 @@
-Some Vampires hide their nature to fit in, others are open about what they are. Are you williing to face the hate?
+Some Vampires hide their nature to fit in, others are open about what they are. Make sure you know what you sign up for when getting vampirism.
