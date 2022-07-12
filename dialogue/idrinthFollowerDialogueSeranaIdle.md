@@ -4,3 +4,5 @@
 - You missed a lot while you were hidden away, the Oblivion Crisis alone was interesting already.
 - Not sure if it's a good idea to be that public about vampirism, Serana.
 - You are followed by a vampire princess and a vampire paladin, sounds like a story.
+- The sun is shining, let's wait for our princess to complain...
+- Nice snowfall, not too heavy. You want to be in a cave now, right, Serana?
