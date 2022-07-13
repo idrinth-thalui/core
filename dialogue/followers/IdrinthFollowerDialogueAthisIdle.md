@@ -1,0 +1,6 @@
+You have chosen a noble path, Athis. Do not sully it by your choice of weapons.
+Good to see a Dunmer upholding the warrior's honour. Are you from House Redoran, perchance?
+All too easy to fall into the darker ways of fighting when using daggers.
+Be a proud swordsman, you still will fight nimbly.
+Want to spar? Cloak and dagger will not help against greatswords.
+How do the Nords in Windhelm treat you? Do they dare to question your honour as Companion?
