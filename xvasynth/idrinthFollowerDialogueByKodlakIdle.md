@@ -1,0 +1,2 @@
+- Make sure you stay in control, Idrinth!
+- Don't let bloodlust overtake you.
