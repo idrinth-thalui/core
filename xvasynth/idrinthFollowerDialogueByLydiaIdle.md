@@ -2,3 +2,5 @@
 - An honorable Altmer? I'm intrigued!
 - Could we spar later?
 - Do you like mead or rather elven wine?
+- You are focussing on defence, just like I do. Why use a Greatsword?
+- Are you an actual priest of Trinimac or just a follower?
