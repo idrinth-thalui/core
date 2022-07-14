@@ -7,4 +7,7 @@
 - Talos, please finally answer him!
 - Could we please leave?
 - Any chance we could shut Heimskr up?
+- Now would be a perfect time for an Oblivion gate opening - though I fear the daedra hear him and turn to flee...
+- How do the Companions stand the constant preaching?
+- No wonder the Companions drink so much mead, being so close to Heimskr.
 - May Talos grant you and us peace...
