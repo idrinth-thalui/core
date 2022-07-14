@@ -1,5 +1,6 @@
-Keep up your training, Ria. You are getting better.
-Sure you want to fight with bigger swords? 
-Care to spar? I can show you a few new moves.
-Good to see you learning the lore, not just how to hold a weapon.
-You'll make a fine shield maiden some day.
+- Keep up your training, Ria. You are getting better.
+- Sure you want to fight with bigger swords? 
+- Care to spar? I can show you a few new moves.
+- Good to see you actually have an interest in the Companions besides fighting.
+- Good to see you learning the lore, not just how to hold a weapon.
+- You'll make a fine shield maiden some day.
