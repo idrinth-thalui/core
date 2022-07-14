@@ -1,0 +1,3 @@
+- I haven't been to Morrowind in a long time, how does it hold up?
+- Would you care to show me some tricks regarding Alchemy?
+- House Telvanni was never a favorite of mine, but it's an honorable position you hold!
