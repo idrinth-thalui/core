@@ -7,3 +7,4 @@
 - Talos, please finally answer him!
 - Could we please leave?
 - Any chance we could shut Heimskr up?
+- May Talos grant you and us peace...
