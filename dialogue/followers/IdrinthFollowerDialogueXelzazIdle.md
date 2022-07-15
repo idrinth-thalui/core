@@ -1,5 +1,5 @@
-- I haven't been to Morrowind in a long time, how does it hold up?
-- Would you care to show me some tricks regarding Alchemy?
-- House Telvanni was never a favorite of mine, but it's an honorable position you hold!
-- I remember your superior's namesake, king Helseth. he was... quite the intruiging person. And a passionate alchimist.
-- Your House must hold you in high esteem, if they choose an Argonian for this post.
+- I'm not sure who my favorite Argonian is here.
+- Glad to work with someone from Morrowind again.
+- It has been a while since I travelled with an Argonian.
+- I was never good at Alchemy, but I managed to brew some reasonable potions.
+- I still remember Argonians and Dunmer fighting...
