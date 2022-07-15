@@ -4,3 +4,4 @@
 - I've seen proud Hammerfell nobles. Nazeem isn't one of them.
 - He should go listen to Heimskr. At least one of them won't be talking, then.
 - Amazing how his pride fits through the city gates.
+- Do you get to the Hammerfell often? Of course you don't...
