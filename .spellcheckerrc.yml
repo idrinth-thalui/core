@@ -1,3 +1,11 @@
+files:
+- **/*.md
+- !**/node_modules/**/*.md
+plugins:
+- spell
+- indefinite-article
+- repeated-words
+quiet: true
 ignore:
 - Idrinth
 - daedric
@@ -41,3 +49,5 @@ ignore:
 - magicka
 - Markath
 - Summerset
+- Vampiric
+- Dwemer
