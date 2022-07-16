@@ -30,7 +30,7 @@
                                 {%- endif -%}
                             {%- endif -%}
                         {%- else -%}
-                            {%- if dir[1] != "" -%}
+                            {%- if prevdir[1] != "" -%}
                                     </ul>
                                 </li>
                             {%- endif -%}
@@ -38,6 +38,10 @@
                                 </li>
                                 <li>{{ dir[0] }}
                                     <ul>
+                            {%- if dir[1] != "" -%}
+                                <li>{{ dir[1] }}
+                                    <ul>
+                            {%- endif -%}
                                         <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
                         {%- endif -%}
                         {%- assign prevdir = dir -%}
