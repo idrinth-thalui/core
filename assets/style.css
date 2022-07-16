@@ -1,0 +1,67 @@
+nav,footer {
+  background-color: #000;
+  overflow: hidden;
+  color: #fff;
+  background-image: linear-gradient(to bottom,rgba(255,255,255,0.1),rgba(255,255,255,0.15),rgba(255,255,255,0));
+}
+nav, article, footer {
+  padding: 1em;
+}
+nav a,
+nav a:hover,
+nav: a:active,
+nav a:focus,
+nav a:visited{
+  color: fff;
+}
+nav > li,
+nav > ul > li {
+  display: block;
+  float: left;
+  padding: 2px;
+}
+li > ul {
+  display: none;
+}
+li:hover > ul {
+  position: absolute;
+  display: block;
+  background-color: #000;
+}
+nav a {
+    color: #fff;
+}
+nav > ul > li {
+    border-radius: 2px;
+    background: rgba(255,255,255,0.1);
+    margin: 2px;
+}
+body > h2 {
+    text-align: right;
+    padding: 0;
+    color: #aaa;
+}
+article {
+    box-shadow: 2px 2px 3px 3px rgba(0,0,0,0.1);
+    margin: 5px;
+    border-radius: 1em;
+}
+nav ul ul li {
+  display: block;
+  padding: 2px;
+}
+html {
+  height: 100%;
+}
+body {
+  display: grid;
+  height: 100%;
+  grid-template-columns: 1fr;
+  grid-template-rows: 5em 2em auto 4em;
+}
+footer {
+    text-align: center;
+}
+nav, article {
+    overflow-y: auto;
+}
