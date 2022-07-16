@@ -1,0 +1,9 @@
+{
+  "name": "@idrinth/idrinth-thalui",
+  "dependencies": {
+    "markdown-spellcheck": "*"
+  },
+  "scripts": {
+    "test": "mdspell -r --en-gb '**/*.md' '!**/node_modules/**/*.md'"
+  }
+}
