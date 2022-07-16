@@ -1,0 +1,2 @@
+- You ever wondered what Shor's Stone is exactly?
+- This was once home to the headquarters of the Companions, Fallowstone Hall.
