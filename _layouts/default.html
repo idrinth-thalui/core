@@ -35,19 +35,19 @@
                                 {%- endif -%}
                             {%- endif -%}
                         {%- else -%}
-                            {%- if prevdir[1] != "" -%}
+                            {%- if prevdir[1] -%}
                                     </ul>
                                 </li>
                             {%- endif -%}
-                            {%- if prevdir[0] != "" -%}
+                            {%- if prevdir[0] -%}
                                     </ul>
                                 </li>
                             {%- endif -%}
-                            {%- if nowdir[0] != "" -%}
+                            {%- if nowdir[0] -%}
                                 <li>{{ nowdir[0] }}
                                     <ul>
                             {%- endif -%}
-                            {%- if nowdir[1] != "" -%}
+                            {%- if nowdir[1] -%}
                                 <li>{{ nowdir[1] }}
                                     <ul>
                             {%- endif -%}
