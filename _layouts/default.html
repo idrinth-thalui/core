@@ -13,21 +13,35 @@
             <img src="{{ "/assets/logo_small.png" | absolute_url }}" alt="logo"/>
             <nav>
                 <ul>
-                {%- assign prevdir="" -%}
+                {%- assign prevdir=","|split "," -%}
                 {%- for item in site.pages -%}
                     {%- if item.url != "/assets/css/style.css" -%}
-                    {%- if item.dir != prevdir -%}
-                    {%- if prevdir != "" -%}
-                        </ul>
-                    </li>
-                    {%- endif -%}
-                    {%- if item.dir != "/" -%}
-                    <li>{{item.dir | remove_first: "/" | replace_first: "/", ":"  | remove_first: "/" }}
-                    {%- assign prevdir={item.dir} -%}
-                        <ul>
-                    {%- endif -%}
-                    {%- endif -%}
-                            <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
+                        {%- assign dir = item.dir | remove_first: "/" | replace_first: "/", ":"  | remove_first: "/" | split ":" -%}
+                        {%- if dir[0] == prevdir[0] -%}
+                            {%- if dir[0] == prevdir[0] -%}
+                                {%- if dir[1] == prevdir[1] -%}
+                                    <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
+                                {%- else -%}
+                                    {%- if dir[1] != "" -%}
+                                        </ul>
+                                    </li>
+                                    {%- endif -%}
+                                    <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
+                                {%- endif -%}
+                            {%- endif -%}
+                        {%- else -%}
+                               {%- if dir[1] != "" -%}
+                                    </ul>
+                                </li>
+                                {%- endif -%}
+                                    </ul>
+                                </li>
+                                <li>{{ dir[0] }}
+                                    <ul>
+                                        <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
+                            {%- endif -%}
+                        {%- endif -%}
+                        {%- assigne prevdir = dir -%}
                     {%- endif -%}
                 {%- endfor -%}
                 </ul>
