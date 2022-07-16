@@ -1,6 +1,6 @@
 files:
-- **/*.md
-- !**/node_modules/**/*.md
+- '**/*.md'
+- '!**/node_modules/**/*.md'
 plugins:
 - spell
 - indefinite-article
