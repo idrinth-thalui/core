@@ -41,7 +41,7 @@
                                         <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
                             {%- endif -%}
                         {%- endif -%}
-                        {%- assigne prevdir = dir -%}
+                        {%- assign prevdir = dir -%}
                     {%- endif -%}
                 {%- endfor -%}
                 </ul>
