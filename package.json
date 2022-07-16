@@ -7,6 +7,6 @@
     "retext-repeated-words": "*"
   },
   "scripts": {
-    "test": "spellchecker --files '**/*.md' '!**/node_modules/**/*.md' --plugins spell indefinite-article repeated-words"
+    "test": "spellchecker"
   }
 }
