@@ -4,6 +4,6 @@
     "markdown-spellcheck": "*"
   },
   "scripts": {
-    "test": "mdspell -r --en-gb '**/*.md' '!**/node_modules/**/*.md'"
+    "test": "mdspell --report --ignore-numbers --en-gb '**/*.md' '!**/node_modules/**/*.md'"
   }
 }
