@@ -71,7 +71,9 @@ nav, article {
 li:hover {
   text-decoration: underline;
 }
-li:hover li:hover ul {
-  left: 6em;
-  top: 0em
+nav ul ul li {
+  float: left;
+}
+nav li li li {
+  float: none;
 }
