@@ -1,0 +1,20 @@
+name: CI Spellcheck
+
+on:
+  push:
+    branches:
+    - master
+  pull_request:
+    branches: 
+    - master
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.4.1
+      - name: Install 
+        run: npm install 
+      - name: Check Spelling
+        run: npm test
