@@ -1,6 +1,8 @@
 files:
 - '**/*.md'
 - '!**/node_modules/**/*.md'
+- '!dialogue/idrinthFollowerDialogueGrunt.md'
+- '!dialogue/idrinthFollowerDialogueOutOfBreath.md'
 plugins:
 - spell
 - indefinite-article
