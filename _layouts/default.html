@@ -17,37 +17,7 @@
                 {%- for item in site.pages -%}
                     {%- if item.url != "/assets/css/style.css" -%}
                         {%- assign dir = item.dir | remove_first: "/" | replace_first: "/", ":"  | remove_first: "/" | split ":" -%}
-                        {%- if dir[0] == prevdir[0] -%}
-                            {%- if dir[0] == prevdir[0] -%}
-                                {%- if dir[1] == prevdir[1] -%}
-                                    <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
-                                {%- else -%}
-                                    {%- if dir[1] != "" -%}
-                                        </ul>
-                                    </li>
-                                    {%- endif -%}
-                                    <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
-                                {%- endif -%}
-                            {%- endif -%}
-                        {%- else -%}
-                            {%- if prevdir[1] != "" -%}
-                                    </ul>
-                                </li>
-                            {%- endif -%}
-                            {%- if prevdir[0] != "" -%}
-                                    </ul>
-                                </li>
-                            {%- endif -%}
-                            {%- if dir[0] != "" -%}
-                                <li>{{ dir[0] }}
-                                    <ul>
-                            {%- endif -%}
-                            {%- if dir[1] != "" -%}
-                                <li>{{ dir[1] }}
-                                    <ul>
-                            {%- endif -%}
-                                        <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
-                        {%- endif -%}
+                        
                         {%- assign prevdir = dir -%}
                     {%- endif -%}
                 {%- endfor -%}
