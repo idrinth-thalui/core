@@ -68,3 +68,10 @@ footer {
 nav, article {
     overflow-y: auto;
 }
+li:hover {
+  text-decoration: underline;
+}
+li:hover li:hover ul {
+  left: 6em;
+  top: 0em
+}
