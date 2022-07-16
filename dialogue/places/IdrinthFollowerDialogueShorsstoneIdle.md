@@ -1,2 +1,3 @@
 - You ever wondered what Shor's Stone is exactly?
 - This was once home to the headquarters of the Companions, Fallowstone Hall.
+- The Worm Cult stole Wuuthrad from here to resurrect the giant Sinmur. In the end, they didn't succeed.
