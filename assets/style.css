@@ -34,7 +34,7 @@ li:hover > ul {
 nav a {
     color: #fff;
 }
-nav > ul > li {
+nav li {
     border-radius: 2px;
     background: rgba(255,255,255,0.1);
     margin: 2px;
