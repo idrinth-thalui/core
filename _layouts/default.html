@@ -13,8 +13,6 @@
             <img src="{{ "/assets/logo_small.png" | absolute_url }}" alt="logo"/>
             <nav>
                 <ul>
-                {%- assign prevdir[0]="" -%}
-                {%- assign prevdir[1]="" -%}
                 {%- for item in site.pages -%}
                     {%- if item.url != "/assets/css/style.css" -%}
                         {%- assign nowdir = {item.dir | remove_first: "/" | replace_first: "/", ":"  | remove_first: "/" | split ":"} -%}
