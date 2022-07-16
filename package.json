@@ -1,9 +1,12 @@
 {
   "name": "@idrinth/idrinth-thalui",
   "dependencies": {
-    "markdown-spellcheck": "*"
+    "spellchecker-cli": "*",
+    "retext-spell": "*",
+    "retext-indefinite-article": "*",
+    "retext-repeated-words": "*",
   },
   "scripts": {
-    "test": "mdspell --report --ignore-numbers --en-gb '**/*.md' '!**/node_modules/**/*.md'"
+    "test": "spellchecker --files '**/*.md' '!**/node_modules/**/*.md' --plugins spell indefinite-article repeated-words"
   }
 }
