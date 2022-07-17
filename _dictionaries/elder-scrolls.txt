@@ -1,6 +1,7 @@
 Bosmer
 Kodlak
-Baar Dau
+Baar
+Dau
 Molag Bal
 Argonian
 Akaviri
@@ -11,6 +12,7 @@ daedric
 daedra
 Daedra
 Thalmor
+Thalmor's
 Tamriel
 Mephala
 Trinimac
@@ -29,6 +31,7 @@ Helgen
 Dunmer
 Vivec
 Bosmer
+Bosmer's
 justiciar
 Milkdrinkers
 Laas
@@ -39,6 +42,7 @@ Nord
 Whiterun
 Peryite
 Boethia
+Boethia's
 Dawnbreaker
 magicka
 Markath
