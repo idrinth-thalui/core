@@ -30,7 +30,6 @@
 - Can't say I'm among friends here.
 - They really made something out of this mountain.
 - Not my favorite village, it feels odd.
-- A nice little village, I wish there were more of them.
 - A nice city, but somehow too calm and quiet.
 - Markath never changes, does it?
 - This intrigues me, we should spend some time here.
