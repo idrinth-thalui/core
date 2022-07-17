@@ -26,7 +26,6 @@
 - I'm glad the sun isn't shining, it can't be better.
 - Could we get out of the sun?
 - Oh my, rain again.
-- This really feels like home, it's racist enough.
 - Really a trade hub, isn't it, at least good for the people.
 - Can't say I'm among friends here.
 - They really made something out of this mountain.
