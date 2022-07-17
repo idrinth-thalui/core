@@ -1,0 +1,5 @@
+- Ah, Windhelm, city of Ysgramor. Soaked with Snow Elven blood.
+- The old stones still echo with the pain of their builders.
+- Being here always makes me uneasy - and not because of drunken louts like Rolff.
+- As shabby as it it, the Gray Quarter feels more homely to me.
+- Care to join me in the New Gnisis Cornerclub? Been a while since I tasted genuine Morrowind cuisine.
