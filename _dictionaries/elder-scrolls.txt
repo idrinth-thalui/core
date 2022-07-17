@@ -1,58 +1,53 @@
-- Calenith
-- Covir
-- cuirass
-- Bosmer
-- Kodlak
-- Baar Dau
-- Molag Bal
-- Argonian
-- Akaviri
-- lich
-- Malacath
-- Thalmor
-- Khajiit
-- daedric
-- daedra
-- Thalmor
-- Tamriel
-- Mephala
-- Trinimac
-- Coldharbour
-- Valenwood
-- Cyrodiil
-- Altmer
-- Aldmer
-- Aldmeri
-- Skyrim
-- Milkdrinker
-- Housecat
-- Elsweyr
-- mer
-- Helgen
-- Dunmer
-- Vivec
-- Bosmer
-- justiciar
-- Milkdrinkers
-- Laas
-- Slen
-- Haas
-- Falmer
-- Nord
-- Whiterun
-- Peryite
-- Boethia
-- Dawnbreaker
-- magicka
-- Markath
-- Summerset
-- Dwemer
-- Altmeri
-- Riften
-- Windhelm
-- jarl
-- Stormcloak
-- Ulfric
-- Talos
-- Stormcloaks
-- Auri-El
+Bosmer
+Kodlak
+Baar Dau
+Molag Bal
+Argonian
+Akaviri
+Malacath
+Thalmor
+Khajiit
+daedric
+daedra
+Thalmor
+Tamriel
+Mephala
+Trinimac
+Coldharbour
+Valenwood
+Cyrodiil
+Altmer
+Aldmer
+Aldmeri
+Skyrim
+Milkdrinker
+Housecat
+Elsweyr
+mer
+Helgen
+Dunmer
+Vivec
+Bosmer
+justiciar
+Milkdrinkers
+Laas
+Slen
+Haas
+Falmer
+Nord
+Whiterun
+Peryite
+Boethia
+Dawnbreaker
+magicka
+Markath
+Summerset
+Dwemer
+Altmeri
+Riften
+Windhelm
+Stormcloak
+Ulfric
+Talos
+Stormcloaks
+Auri-El
