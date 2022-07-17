@@ -9,6 +9,7 @@ plugins:
 - repeated-words
 quiet: true
 ignore:
+- Khajiit
 - Idrinth
 - daedric
 - daedra
