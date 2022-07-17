@@ -1,1 +1,1 @@
-Your eyes open to a vision of the warm seas. Letting your view wander, you recognize Idrinth working at a harbour, handling heavy lifting. Seemingly busy with the task, noone watches the people moving around the docks. As a striking Khajiit catches your eye, you awake.
+Your eyes open to a vision of the warm seas. Letting your view wander, you recognize Idrinth working at a harbor, handling heavy lifting. Seemingly busy with the task, no one watches the people moving around the docks. As a striking Khajiit catches your eye, you awake.
