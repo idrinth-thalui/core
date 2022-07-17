@@ -10,10 +10,32 @@ plugins:
 quiet: true
 ignore:
 - Calenith
+- bloodlust
+- Covir
+- Flamebreaker
+- Weaponbane Cuirass
+- cuirass
+- Bosmer's
+- vampirism
+- Greatblade
+- Foebane
+- Kodlak
+- Baar Dau
+- Molag Bal
+- Argonian
+- warcries
+- hoofprints
+- Warhammers
+- axe
+- Akaviri
+- lich
+- Malacath
 - Thalmor's
 - Idileth
 - Xinerna
 - Alenia
+- Greatsword
+- greatsword
 - greatswords
 - Khajiit
 - Idrinth
