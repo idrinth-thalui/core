@@ -12,4 +12,5 @@ greatswords
 elven
 lockpick
 vampiric
+Vampiric
 jarl
