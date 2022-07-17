@@ -56,3 +56,11 @@ Ulfric
 Talos
 Stormcloaks
 Auri-El
+Tullius
+Mede
+Dawnstar
+Falkreath
+Markarth
+Morthal
+Winterhold
+Athis
