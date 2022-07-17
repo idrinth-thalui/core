@@ -9,6 +9,12 @@ plugins:
 - repeated-words
 quiet: true
 ignore:
+- Calenith
+- Thalmor's
+- Idileth
+- Xinerna
+- Alenia
+- greatswords
 - Khajiit
 - Idrinth
 - daedric
