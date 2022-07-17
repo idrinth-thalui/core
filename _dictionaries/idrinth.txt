@@ -1,6 +1,7 @@
 Covir
 Flamebreaker
 Weaponbane
+Foebane
 Cuirass
 Idrinth
 Thalui
