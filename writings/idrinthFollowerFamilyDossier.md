@@ -11,7 +11,7 @@ It has been a few hundred years since we started, but somehow I fail to explain 
 
 ## Idileth the Crow
 
-I am not quite sure what made him become such an enemy to me. He was asking simple questions, that I had simple answers for and somehow still prefered the Thalmor's rotten answers over the truth. I noticed him hunting me a few days ago, his smell is still very similar to my brother's.
+I am not quite sure what made him become such an enemy to me. He was asking simple questions, that I had simple answers for and somehow still preferred the Thalmor's rotten answers over the truth. I noticed him hunting me a few days ago, his smell is still very similar to my brother's.
 It seems he has also followed me to Skyrim, something I did not expect. I need to do something about him before he becomes a real  problem, but on the other hand I don't want to harm family if I can help it.
 
 ## Calenith
