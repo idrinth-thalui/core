@@ -9,6 +9,7 @@ Thalmor
 Khajiit
 daedric
 daedra
+Daedra
 Thalmor
 Tamriel
 Mephala
