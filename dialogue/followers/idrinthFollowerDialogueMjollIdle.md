@@ -1,4 +1,4 @@
-- You should really try some elven weapons and orc armor, it will make your fights easier.
+- You should really try some elven weapons and orc armour, it will make your fights easier.
 - If you ever need someone to hunt thieves with, let me know, Mjoll.
 - How did you come up with Lioness, wouldn't a bear or wolf fit Skyrim better?
 - A proud warrior with a two-handed sword, brings back old memories.
