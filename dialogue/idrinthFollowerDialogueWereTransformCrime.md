@@ -2,3 +2,7 @@
 - Let's hunt!
 - Nice teeth!
 - You're quite fluffy!
+- Let's hunt tonight!
+- Good puppy!
+- Good boy!
+- Good girl!
