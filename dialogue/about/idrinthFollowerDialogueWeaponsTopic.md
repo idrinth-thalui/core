@@ -1,4 +1,4 @@
-# What weapons are your favourites?
+# What weapons are your favorites?
 - Any kind of melee weapon, I like to spill the blood of my enemies.
 - Not fangs, I can tell you that. Try getting Khajiit fur out of them!
 - I follow Trinimac, so take a wild guess!
