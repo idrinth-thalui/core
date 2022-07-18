@@ -1,1 +1,2 @@
 - A nice little village, I wish there were more of them.
+- Watching the stream from the jetty is relaxing.
