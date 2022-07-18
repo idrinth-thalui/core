@@ -1,7 +1,7 @@
 # What about your family?
 - I don't have the best relationship with my blood family. We disapprove of each other's god.
 - My blood mother, a Nord, had a thing for mer. A lot of my brothers and sisters are mer.
-- My blood family has spread through all of Tamriel, it's not unlikely we will meet one of those Molag Bal worshippers.
+- My blood family has spread through all of Tamriel, it's not unlikely we will meet one of those Molag Bal worshipers.
 - My family doesn't share my last name, since that is more of a title given to me.
 - There is no family in Skyrim right now as far as I know.
 - My former wife and I split after a few years, but stayed in contact.
