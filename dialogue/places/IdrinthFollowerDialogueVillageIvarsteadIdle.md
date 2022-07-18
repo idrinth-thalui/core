@@ -1,0 +1,4 @@
+- Last inn ere climbing the fabled 7.000 steps. Far less pilgrims now, though.
+- Ivarstead was saved by the Vestige from an evil necromancer. By Trinimac, ever heard of a good necromancer?
+- This village reminds me of a cottage in the woods of Auridon, back when... *sigh*
+- I remember the village being larger. War has taken it's toll.
