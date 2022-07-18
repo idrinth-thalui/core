@@ -23,11 +23,11 @@
                                 {%- if nowdir[1] == prevdir[1] -%}
                                     <li><a href="{{ item.url | absolute_url }}">{{ item.name | replace: ".md", "" }}</a></li>
                                 {%- else -%}
-                                    {%- if prevdir[1] != "" -%}
+                                    {%- if prevdir[1] -%}
                                         </ul>
                                     </li>
                                     {%- endif -%}
-                                    {%- if nowdir[1] != "" -%}
+                                    {%- if nowdir[1] -%}
                                     <li>{{ nowdir[1] }}
                                         <ul>
                                     {%- endif -%}
