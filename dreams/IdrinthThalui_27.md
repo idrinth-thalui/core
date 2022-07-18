@@ -1,0 +1,1 @@
+Your eyes see an oasis within a great desert. It seems to be very close. Thirsty you stumble towards it, not seeming to make any progress. Dragging on you move slower and slower until you collapse. As your eyes close, you awake, feeling thirsty.
