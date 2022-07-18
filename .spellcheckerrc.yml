@@ -13,3 +13,5 @@ dictionaries:
 - _dictionaries/elder-scrolls.txt
 - _dictionaries/fantasy.txt
 - _dictionaries/idrinth.txt
+ignore:
+- Uff
