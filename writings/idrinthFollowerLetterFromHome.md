@@ -5,7 +5,7 @@ I've been told by my mother, that you have been someone to ask for guidance for 
 
 I have an issue with my marriage plans, while my parents want me to marry an Altmer, who is from a good family and has a great deal of power, my heart goes to my former Bosmer best friend, who has neither a good enough family nor power or money.
 
-I'm not sure what to do now, can I really dissappoint my parents that much? Can I live with myself if I don't follow my heart?
+I'm not sure what to do now, can I really disappoint my parents that much? Can I live with myself if I don't follow my heart?
 
 Please help me,
 

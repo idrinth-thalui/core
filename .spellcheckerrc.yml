@@ -1,0 +1,17 @@
+files:
+- '**/*.md'
+- '!**/node_modules/**/*.md'
+- '!dialogue/idrinthFollowerDialogueGrunt.md'
+- '!dialogue/idrinthFollowerDialogueOutOfBreath.md'
+language: en-GB
+plugins:
+- spell
+- indefinite-article
+- repeated-words
+quiet: true
+dictionaries:
+- _dictionaries/elder-scrolls.txt
+- _dictionaries/fantasy.txt
+- _dictionaries/idrinth.txt
+ignore:
+- Uff
