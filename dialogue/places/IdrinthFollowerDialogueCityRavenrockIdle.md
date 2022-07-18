@@ -1,0 +1,3 @@
+- Last time I was here, this was a thriving Imperial military post. With far less ash.
+- No wonder so many Morrowind plants grow here now. Fits in with the Dunmer architecture.
+- House Redoran is my favourite Dunmer House - they are reliable, fierce warriors.
