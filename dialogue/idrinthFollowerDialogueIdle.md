@@ -16,7 +16,7 @@
 - Do you think I should let my beard open? Or is bound like now better?
 - Well, better than rain at least.
 - You are quite close to the best weapon choice!
-- I see we share a favorite weapon.
+- I see we share a favourite weapon.
 - Well, time flies by.
 - Do we really have time to stand around?
 - Are you sure you want to fight with this?
@@ -28,7 +28,7 @@
 - Oh my, rain again.
 - Can't say I'm among friends here.
 - They really made something out of this mountain.
-- Not my favorite village, it feels odd.
+- Not my favourite village, it feels odd.
 - A nice city, but somehow too calm and quiet.
 - Markath never changes, does it?
 - This intrigues me, we should spend some time here.
@@ -65,7 +65,7 @@
 - Showing your allegiance to the great hunter? Not sure if your soul is still yours.
 - Not sure if a real hunter needs that hide.
 - Not really a good idea to use this specific staff, is it?
-- You should be ashamed of wearing Boethia's armor!
+- You should be ashamed of wearing Boethia's armour!
 - I wouldn't carry anything of Mephala around if I were you!
 - Your taste is disgraceful, get rid of that ring!
 - Can't say I feel safe around Dawnbreaker.
