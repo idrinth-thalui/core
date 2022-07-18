@@ -2,7 +2,8 @@ Bosmer
 Kodlak
 Baar
 Dau
-Molag Bal
+Molag
+Bal
 Argonian
 Akaviri
 Malacath
@@ -74,3 +75,23 @@ Ria
 Njada
 Redoran
 Nords
+Altmer's
+Magnus
+Psijic
+Fellglow
+Saarthal
+Julianos
+Atmoran
+Dwemer's
+Auridon
+Firsthold
+Vulkhel
+Artaeum
+Dragonborns
+Argonians
+Thallery
+Aldmeri's
+Jenassa
+J'zargo
+Mjoll
+Serana
