@@ -26,7 +26,6 @@
 - I'm glad the sun isn't shining, it can't be better.
 - Could we get out of the sun?
 - Oh my, rain again.
-- Can't say I'm among friends here.
 - They really made something out of this mountain.
 - Not my favourite village, it feels odd.
 - A nice city, but somehow too calm and quiet.
