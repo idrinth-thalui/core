@@ -1,7 +1,7 @@
-- Pride in gold is wasted, you can quickly loose it. 
+- Pride in gold is wasted, you can quickly lose it. 
 - Have you been to Hammerfell often? Of course you haven't...
-- He advises the Jarl - on eating cabbage or leeks today.
+- He advises the Jarl, so he claims. More like he advises on whether he should eat cabbages or leeks tonight.
 - I've seen proud Hammerfell nobles. Nazeem isn't one of them.
 - He should go listen to Heimskr. At least one of them won't be talking, then.
-- Amazing how his pride fits through the city gates.
-- Do you get to the Hammerfell often? Of course you don't...
+-  It's amazing how his pride fits through the city gates.
+- Do you get to Hammerfell often? Of course you don't...
