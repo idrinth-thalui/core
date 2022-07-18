@@ -1,0 +1,12 @@
+{
+  "name": "@idrinth/idrinth-thalui",
+  "dependencies": {
+    "spellchecker-cli": "*",
+    "retext-spell": "*",
+    "retext-indefinite-article": "*",
+    "retext-repeated-words": "*"
+  },
+  "scripts": {
+    "test": "spellchecker"
+  }
+}

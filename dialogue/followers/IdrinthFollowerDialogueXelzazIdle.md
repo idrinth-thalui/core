@@ -1,4 +1,4 @@
-- I'm not sure who my favorite Argonian is here.
+- I'm not sure who my favourite Argonian is here.
 - Glad to work with someone from Morrowind again.
 - It has been a while since I travelled with an Argonian.
 - I was never good at Alchemy, but I managed to brew some reasonable potions.
