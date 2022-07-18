@@ -2,3 +2,6 @@
 - It's fun fighting side by side with another Altmer. Just wish you were a better warrior.
 - Not sure if Trinimac would approve of your weapon choice, Nebarra!
 - Don't hurt Nebarra! He still needs to grow!
+- Here, take a healing potion, you look like you could use one!
+- Don't worry, I'll protect you, Nebarra!
+- How many bandits did you kill, Nebarra?
