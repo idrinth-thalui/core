@@ -3,4 +3,4 @@ It is of the utmost urgency, that we destroy the shameful smithy of men located 
 
 Meet with a second unit near the stables in Whiterun before advancing to it !
 
-May Auriel guide you
+May Auri-El guide you
