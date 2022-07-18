@@ -3,6 +3,7 @@ files:
 - '!**/node_modules/**/*.md'
 - '!dialogue/idrinthFollowerDialogueGrunt.md'
 - '!dialogue/idrinthFollowerDialogueOutOfBreath.md'
+language: en-GB
 plugins:
 - spell
 - indefinite-article
