@@ -1,4 +1,3 @@
-# idrinthFollowerDialogueAttack
 - This is my time!
 - For freedom!
 - Slen!

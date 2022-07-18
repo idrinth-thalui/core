@@ -1,1 +1,1 @@
-Trinimac is an elven god who favors greatswords and hates mankind.
+Trinimac is an elven god who favours greatswords and hates mankind.

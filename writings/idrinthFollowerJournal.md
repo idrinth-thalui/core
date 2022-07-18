@@ -3,7 +3,7 @@
 ### Day 1
 I spend a long time this night listening to wolves and trying to imitate their howls. It is hard for my throat to form these sounds correctly.
 ### Day 4
-I had the first little success tonight I believe, at least one wolf stared at me from a save distance after I practiced my howling.
+I had the first little success tonight I believe, at least one wolf stared at me from a save distance after I practised my howling.
 ### Day 5
 The same wolf reappeared, this time coming closer. I will bring him some food tomorrow.
 ### Day 9
@@ -20,7 +20,7 @@ So far no progress, I can not even seem to make fur appear. Will try mixing in b
 ### Day 7
 Some progress, I ended up walking around with fur on my hands for almost a day. Had to hide from a lot of people due to werewolf suspicion.
 ### Day 19
-While today was not as good as yesterday, I managed to reduce the magica cost for adding fur a bit by instead of making it from nothing  using the hair I already have as a baseline.
+While today was not as good as yesterday, I managed to reduce the magicka cost for adding fur a bit by instead of making it from nothing using the hair I already have as a baseline.
 ### Day 27
 I managed to give me a snout like a wolf, took a couple hours until it faded back. I certainly made the Khajiit barmaid scream, when I showed my teeth with a smile. Didn't intend for that to happen, she's fine again now, calmed down quickly after I explained what I was doing.
 ### Day 41
@@ -35,6 +35,6 @@ I managed to get the spell under control for now, should come in handy if I have
 ### Day 1
 I have arrived in Skyrim, the land of the famous Thu'um. It is cold and close to an open war with it's own population. I have not heard a mention of the Thu'um yet, is it a forgotten art?
 ### Day 6
-I've been told of the Graybeards, peaceful masters of the Thu'um. They don't quite match what I need, maybe I can get access to Ulfrik Stormcloak?
+I've been told of the Graybeards, peaceful masters of the Thu'um. They don't quite match what I need, maybe I can get access to Ulfric Stormcloak?
 ### Day 17
 Windhelm is by far to unfriendly to elves to stay there for long. I will need to first make a name for myself and then try to befriend the jarl to learn from him.

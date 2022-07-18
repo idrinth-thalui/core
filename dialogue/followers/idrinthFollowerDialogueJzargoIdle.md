@@ -1,4 +1,4 @@
 - You are quite sturdy for a mage, J'zargo.
 - I envy you, still so much to learn about magic.
 - I see you can also cast some restoration spells. Care to compare notes?
-- Magic and heavy armor is a strange combination.
+- Magic and heavy armour is a strange combination.
