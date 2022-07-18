@@ -1,6 +1,6 @@
 # What are you thinking about?
 - The gods, isn't it weird how inactive some of them are?
-- Magic, I specialized in restoration, but I'm thinking about learning more.
+- Magic, I specialised in restoration, but I'm thinking about learning more.
 - Combat, I wonder if I should use more or less magic.
 - Werewolves. I wonder how my life would have been if I was one.
 - The Dragonborns. I've seen a lot of other powerful beings, but none like them.
