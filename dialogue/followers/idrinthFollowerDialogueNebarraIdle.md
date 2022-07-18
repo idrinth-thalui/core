@@ -1,4 +1,4 @@
 - Hey Nebarra, are you sure you don't have Bosmer blood in you? You are so small!
-- It's fun fighting side by side with another Aldmer. Just wish you were a better warrior.
+- It's fun fighting side by side with another Altmer. Just wish you were a better warrior.
 - Not sure if Trinimac would approve of your weapon choice, Nebarra!
 - Don't hurt Nebarra! He still needs to grow!
