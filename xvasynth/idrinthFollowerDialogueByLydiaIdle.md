@@ -1,6 +1,6 @@
 - I'm glad you are on our side, I don't want to be hit by that sword!
-- An honorable Altmer? I'm intrigued!
+- An honourable Altmer? I'm intrigued!
 - Could we spar later?
 - Do you like mead or rather elven wine?
-- You are focussing on defence, just like I do. Why use a Greatsword?
+- You are focusing on defence, just like I do. Why use a Greatsword?
 - Are you an actual priest of Trinimac or just a follower?
