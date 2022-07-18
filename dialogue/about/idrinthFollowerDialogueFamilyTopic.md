@@ -7,7 +7,7 @@
 - My former wife and I split after a few years, but stayed in contact.
 - My sister may be long dead, but she had children. Some of her descendants are still alive and well. They sometimes send letters asking for advice and talking about their lives.
 - I lost my wife to time, she died of old age, never accepting the blood kiss.
-- My former wife was once the center of my life.
+- My former wife was once the centre of my life.
 - My father died because he worked too hard, never took enough of a break.
 - My mother is dead, she lived a long, fulfilling life.
 - I never had children, just never had the chance to get any.

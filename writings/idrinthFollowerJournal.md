@@ -3,7 +3,7 @@
 ### Day 1
 I spend a long time this night listening to wolves and trying to imitate their howls. It is hard for my throat to form these sounds correctly.
 ### Day 4
-I had the first little success tonight I believe, at least one wolf stared at me from a save distance after I practiced my howling.
+I had the first little success tonight I believe, at least one wolf stared at me from a save distance after I practised my howling.
 ### Day 5
 The same wolf reappeared, this time coming closer. I will bring him some food tomorrow.
 ### Day 9

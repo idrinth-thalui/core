@@ -1,6 +1,7 @@
 Covir
 Flamebreaker
 Weaponbane
+Foebane
 Cuirass
 Idrinth
 Thalui
@@ -13,3 +14,5 @@ Alenia
 Xinerna
 Idileth
 Calenith
+Caryalind
+Thalui's
