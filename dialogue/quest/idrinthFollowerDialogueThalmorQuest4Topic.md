@@ -1,2 +1,2 @@
 # All the Thalmor are dead...
-- Yes, all of them here. We need to get a guard, maybe from Whiterun, to check on it regulary.
+- Yes, all of them here. We need to get a guard, maybe from Whiterun, to check on it regularly.
