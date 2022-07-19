@@ -7,6 +7,7 @@
 - Not many can say, they actually left the Thalmor behind!
 - I wonder why you don't use any magic, Thallery.
 - I'm not sure if you are a wolf in sheep's clothing, Thallery.
+- If you are serious about leaving the Thalmor, make hay while the sun shines.
 - If you are serious about leaving the Thalmor, maybe this is your best chance.
 - Maybe you should try and practice one of the magic arts, Caryalind?
 - If you want to learn some proper weapon, I'll help you!
