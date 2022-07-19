@@ -6,3 +6,6 @@
 - Good puppy!
 - Good boy!
 - Good girl!
+- Are we going to a dog show now?
+- Should I also turn into a wolf?
+- Do you want me to wolf out?
