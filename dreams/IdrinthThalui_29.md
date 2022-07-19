@@ -1,0 +1,1 @@
+Your eyes open wide as you notice the open sea ahead of you. Standing on a ship's deck, you stare ahead, trying to make out land. A storm rises in the distance, getting closer and closer. As it starts throwing lightning at the small elven ship and the ship starts shaking you awake from falling out of bed.
