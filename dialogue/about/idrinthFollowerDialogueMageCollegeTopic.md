@@ -1,4 +1,5 @@
 # What do you think about the College of Winterhold?
+
 - The Eye of Magnus is an interesting artefact. Too bad it has been taken away by the Psijic Order. I can't say I trust them enough to keep it and us safe.
 - The Staff of Magnus is an interesting artefact. I never thought the College would ever get something this exiting!
 - The Augur seems to be an interesting creature. I'll spend some time here in the future to try and study him. He's way more interesting than most mages of flesh and bone, wouldn't you agree?
