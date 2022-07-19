@@ -4,9 +4,11 @@
     "spellchecker-cli": "*",
     "retext-spell": "*",
     "retext-indefinite-article": "*",
-    "retext-repeated-words": "*"
+    "retext-repeated-words": "*",
+    "markdownlint-cli2": "*"
   },
   "scripts": {
-    "test": "spellchecker"
+    "spelling": "spellchecker",
+    "markdown": "markdownlint-cli2"
   }
 }
