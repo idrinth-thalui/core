@@ -1,9 +1,10 @@
-name: CI Spellcheck
+name: CI
 
 on:
   push:
     branches:
     - master
+    - test
   pull_request:
     branches: 
     - master
@@ -17,4 +18,14 @@ jobs:
       - name: Install 
         run: npm install 
       - name: Check Spelling
-        run: npm test
+        run: npm run-script spelling
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.4.1
+      - name: Install 
+        run: npm install 
+      - name: Check Markdown
+        run: npm run-script markdown
