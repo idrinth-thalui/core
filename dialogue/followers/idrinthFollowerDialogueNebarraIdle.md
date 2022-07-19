@@ -6,8 +6,8 @@
 - Don't worry, I'll protect you, Nebarra!
 - How many bandits did you kill, Nebarra?
 - How does it feel having fought for the wrong Side?
-- I don't like your eating habbits, it's strange at best...to eat with a helmet on.
+- I don't like your eating habits, it's strange at best...to eat with a helmet on.
 - You are spilling way too much of your drinks on your helmet, you need a bib!
 - I'm curious, why not take off that helmet once in a while?
 - How exactly do you eat with the helmet on? Don't you get food stuck?
-- Isn't it unconftable to sleep with a helmet on? I even take my circlet off.
+- Isn't it unconfortable to sleep with a helmet on? I even take my circlet off.
