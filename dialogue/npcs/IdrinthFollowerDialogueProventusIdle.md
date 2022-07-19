@@ -1,0 +1,2 @@
+- Not sure how he fits in here, his Jarl must be very lenient.
+- I applaud Proventus Avenicci for holding on to his position.
