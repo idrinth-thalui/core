@@ -9,6 +9,6 @@
   },
   "scripts": {
     "spelling": "spellchecker",
-    "markdown": "markdownlint-cli2  '**/*.md' '#node_modules'"
+    "markdown": "markdownlint-cli2"
   }
 }
