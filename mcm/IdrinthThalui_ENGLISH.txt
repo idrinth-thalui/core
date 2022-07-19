@@ -1,0 +1,41 @@
+﻿$LogPage	Like-Logs
+$LogsHeaderTime	Time
+$LogsHeaderData	Text
+$StatPage	Statistics
+$SkillsHeader	Skills
+$AttributesHeader	Attributes
+$SkillTwoHanded	Two-Handed
+$AttributeHealth	Health
+$SkillLightArmor	Light Armor
+$SkillAlteration	Alteration
+$AttributeStamina	Stamina
+$SkillRestoration	Restoration
+$SkillBlock	Block
+$AttributeMagicka	Magicka
+$AttributeArmor	Armor
+$LocationHeader	Location
+$StatusHeader	Status
+$LevelLabel	Level
+$FavorLabel	Favor
+$IsCurrentFollowerLabel	Is current Follower
+$CurrentRaceLabel	Current Race
+$LastSeenLabel	Last seen in
+$shoutsHeardHeader	Words of Power heard
+$shoutsUsedHeader	Words of Power used
+$InventoryPage	Inventory
+$InventoryHeaderArmors	Armor
+$CuirassLabel	Cuirass
+$GlovesLabel	Gloves
+$BootsLabel	Boots
+$InventoryHeaderWeapons	Weapons
+$SwordLabel	Greatsword
+$InventoryHeaderPotions	Potions
+$Health01PotionLabel	Health 1
+$Health02PotionLabel	Health 2
+$Health03PotionLabel	Health 3
+$Health04PotionLabel	Health 4
+$Health05PotionLabel	Health 5
+$Health06PotionLabel	Health 6
+$InventoryHeaderFood	Food
+$WolfFeedLabel	Wolf's Feed
+$BloodPotionLabel	Blood Potion
