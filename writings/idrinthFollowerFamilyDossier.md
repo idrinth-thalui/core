@@ -2,7 +2,7 @@
 
 ## Calith
 
-Calith has started to write to me as a little girl, her problems seem to be small and easily solved. Her main issue seems to be how distant and alove her parents are. They likely desired a boy and aren't happy with a girl I'm guessing.
+Calith has started to write to me as a little girl, her problems seem to be small and easily solved. Her main issue seems to be how distant and aloof her parents are. They likely desired a boy and aren't happy with a girl I'm guessing.
 I'll continue to write with her for sure, it's fun to have such a clean and pure mind to talk to.
 
 ## Xelian the Crow
