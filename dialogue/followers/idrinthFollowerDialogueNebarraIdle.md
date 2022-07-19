@@ -1,1 +1,13 @@
 - Hey Nebarra, are you sure you don't have Bosmer blood in you? You are so small!
+- It's fun fighting side by side with another Altmer. Just wish you were a better warrior.
+- Not sure if Trinimac would approve of your weapon choice, Nebarra!
+- Don't hurt Nebarra! He still needs to grow!
+- Here, take a healing potion, you look like you could use one!
+- Don't worry, I'll protect you, Nebarra!
+- How many bandits did you kill, Nebarra?
+- How does it feel having fought for the wrong Side?
+- I don't like your eating habits, it's strange at best...to eat with a helmet on.
+- You are spilling way too much of your drinks on your helmet, you need a bib!
+- I'm curious, why not take off that helmet once in a while?
+- How exactly do you eat with the helmet on? Don't you get food stuck?
+- Isn't it uncomfortable to sleep with a helmet on? I even take my circlet off.
