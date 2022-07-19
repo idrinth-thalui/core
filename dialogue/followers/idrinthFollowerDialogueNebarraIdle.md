@@ -5,3 +5,7 @@
 - Here, take a healing potion, you look like you could use one!
 - Don't worry, I'll protect you, Nebarra!
 - How many bandits did you kill, Nebarra?
+- How does it feel having fought for the wrong Side?
+- I don't like your eating habbits, it's strange at best...to eat with a helmet on.
+- You are spilling way too much of your drinks on your helmet, you need a bib!
+- I'm curious, why not take off that helmet once in a while?
