@@ -1,4 +1,5 @@
 # How did you become a vampire?
+
 - I was infected by a disease and died from it, before being reborn stronger and faster.
 - It was actually on my first trip to Tamriel from the Summerset Isles.
 - I didn't go looking for it, that's certain.
