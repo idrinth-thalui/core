@@ -1,4 +1,5 @@
 # What about your family?
+
 - I don't have the best relationship with my blood family. We disapprove of each other's god.
 - My blood mother, a Nord, had a thing for mer. A lot of my brothers and sisters are mer.
 - My blood family has spread through all of Tamriel, it's not unlikely we will meet one of those Molag Bal worshippers.

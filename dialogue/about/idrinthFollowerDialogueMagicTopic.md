@@ -1,4 +1,5 @@
 # What do you think about magic?
+
 - Some Nords consider magic unnatural. For all I have experienced, it is part of all of us.
 - I wouldn't trust those dealing with brainless undead or daedra, otherwise it's a great help.
 - I prefer restoration and alteration, but the other schools have their value as well.

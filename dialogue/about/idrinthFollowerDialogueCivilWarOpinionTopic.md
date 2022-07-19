@@ -1,4 +1,5 @@
 # What's your opinion on the current civil war?
+
 - I'm happy we managed to free those prisoners from the fort.
 - Good thing, that we got the faked courier's orders into enemy hands.
 - A good thing we captured the enemy's weapon shipment, isn't it?
