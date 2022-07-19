@@ -1,4 +1,5 @@
 # What are you thinking about?
+
 - The gods, isn't it weird how inactive some of them are?
 - Magic, I specialised in restoration, but I'm thinking about learning more.
 - Combat, I wonder if I should use more or less magic.

@@ -1,5 +1,5 @@
 - Kyne's Grove once was home to a great shrine to Kyne, tended by the Keepers of the Grove.
 - Building a lumber mill here... the name could've given them a clue.
-- There was an arena here. Wonder where it's gone? 
+- There was an arena here. Wonder where it's gone?
 - Did you know that this place also bore the name of Dragonwood?
 - So Sahloknir was the reason this place was called Dragonwood.
