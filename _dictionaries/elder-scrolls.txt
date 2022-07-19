@@ -20,6 +20,8 @@ Trinimac
 Coldharbour
 Valenwood
 Cyrodiil
+Proventus
+Avenicci
 Altmer
 Aldmer
 Aldmeri
