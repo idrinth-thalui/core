@@ -1,3 +1,4 @@
 - This city's jarl is way too weak to rule. I hope he grows a backbone.
 - I like the forest, it'll be good hunting here.
 - This city was considered part of Cyrodiil for a long time.
+- I hope you are not picking a grave for us on the heroes' graveyard.
