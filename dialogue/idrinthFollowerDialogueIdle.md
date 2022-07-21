@@ -31,7 +31,6 @@
 - A nice city, but somehow too calm and quiet.
 - Markath never changes, does it?
 - This intrigues me, we should spend some time here.
-- I like the forest, it'll be good hunting here.
 - A proud name for a little village!
 - This city's life never seems to fade, even under current circumstances.
 - Never thought they would fall this low. Not sure if it's a shame.
