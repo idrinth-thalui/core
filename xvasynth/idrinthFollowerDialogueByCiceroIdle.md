@@ -1,0 +1,3 @@
+- You remind me of an old story I've heard.
+- Isn't a large sword bad? A small one is easier to hide!
+- Your looks don't hide you well, Bloodsucker!
