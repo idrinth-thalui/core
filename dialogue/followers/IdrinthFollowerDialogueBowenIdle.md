@@ -1,0 +1,1 @@
+- You picked a good school of magic, Bowen. Want to exchange notes?
