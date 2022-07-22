@@ -4,6 +4,7 @@ Baar
 Dau
 Molag
 Bal
+Draugr
 Aedra
 Mundus
 Auri-El's

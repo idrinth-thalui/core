@@ -1,0 +1,3 @@
+- I really don't like it here, it smells rotten.
+- These old tombs contain a lot of lost knowledge.
+- I have seen many Draugr, but these ones really seem to protect something.
