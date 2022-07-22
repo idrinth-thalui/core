@@ -37,6 +37,9 @@ Elsweyr
 mer
 Helgen
 Dunmer
+Wuunferth
+Unliving
+Draugr
 Vivec
 Bosmer
 Bosmer's
