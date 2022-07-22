@@ -28,3 +28,4 @@ Levelup
 elden
 LevelUp
 wartorn
+slaughtered
