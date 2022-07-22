@@ -1,3 +1,5 @@
 - You're too weak!
 - You are mine!
 - Fight me Milkdrinkers!
+- You can't make me bleed!
+- Why are you children fighting me?
