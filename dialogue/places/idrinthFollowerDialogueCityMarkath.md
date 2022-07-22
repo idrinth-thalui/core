@@ -1,1 +1,10 @@
-- Markath never changes, does it?
+- Markarth never changes, does it?
+- There once was a shrine of Hircine in the city.
+- The Dwemer city looked different. It was rebuilt this way during the Alessian Empire.
+- The Reachmen named the city Markarth. It means "above the Karth". Simple, yet concise.
+- Tiber Septim founded the Imperial College of the Voice here. Wish it would still exist.
+- Many come here for the temple. 
+- Nowadays more silver than blood flows here. 
+- The Grey Host once rampaged here - a vile army of undead. I'm glad I'm not one of them.
+- Cidhna Mine is still open? 
+- Sometimes I'm startled at seeing humans here - my first visit was when the Dwemer were still here.
