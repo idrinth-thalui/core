@@ -1,0 +1,1 @@
+Your eyes glance over the front rows of an army, feeling tiny and insignificant in comparison. Suddenly a hand grabs your shoulder, spinning around, you see Idrinth with a slight smile on his face among Orsimer. Feeling a bit reassured, you turn back to your enemies. As they set themselves into motion you awake.
