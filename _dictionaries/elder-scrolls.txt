@@ -5,6 +5,9 @@ Dau
 Molag
 Bal
 Draugr
+Aedra
+Mundus
+Auri-El's
 Septim's
 Horkerface
 Argonian
@@ -35,6 +38,9 @@ Elsweyr
 mer
 Helgen
 Dunmer
+Wuunferth
+Unliving
+Draugr
 Vivec
 Bosmer
 Bosmer's

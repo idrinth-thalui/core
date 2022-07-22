@@ -7,6 +7,7 @@ hoofprints
 Warhammers
 axe
 lich
+Lich
 Greatsword
 greatsword
 greatswords
@@ -28,3 +29,4 @@ Levelup
 elden
 LevelUp
 wartorn
+slaughtered
