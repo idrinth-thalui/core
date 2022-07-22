@@ -1,0 +1,7 @@
+- Let's go!
+- Let's hunt!
+- See you around!
+- May Trinimac bless you!
+- Leave me in peace already!
+- Enough of your questions!
+- Now go!
