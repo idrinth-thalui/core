@@ -2,3 +2,4 @@
 - Legend says that Aumriel, a Pale Lady haunts the moors at night. A lost Snow Elf soul, perhaps?
 - This constant mist is depressing.
 - Too soggy for my taste, but a thriving garden for any alchemist.
+- A nice city, but somehow too calm and quiet.
