@@ -29,7 +29,6 @@
 - They really made something out of this mountain.
 - Not my favourite village, it feels odd.
 - This intrigues me, we should spend some time here.
-- A proud name for a little village!
 - This city's life never seems to fade, even under current circumstances.
 - Never thought they would fall this low. Not sure if it's a shame.
 - Madness or order is the question now.
