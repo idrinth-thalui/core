@@ -5,10 +5,18 @@
 - Hello, brother-in-blood.
 - Hello, sister-in-blood.
 - Disgrace, I'm listening!
-- Hello, Lizard
-- Hello, Daedra lover
-- Hello, Cannibal
+- Hello, Lizard.
+- Hello, Daedra lover.
+- Hello, Cannibal.
 - Hello, Milkdrinker?
 - Hello, Housecat?
 - Yes?
 - Hello Horkerface.
+- Greetings!
+- Hail!
+- May you be blessed!
+- Hello cousin.
+- Hello brother.
+- Hello sister.
+- Hello great-cousin.
+- Hello child of Trinimac!
