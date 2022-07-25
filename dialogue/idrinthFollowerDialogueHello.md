@@ -18,3 +18,5 @@
 - Hello cousin.
 - Hello brother.
 - Hello sister.
+- Hello great-cousin.
+- Hello child of Trinimac!
