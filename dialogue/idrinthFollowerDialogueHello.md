@@ -15,3 +15,6 @@
 - Greetings!
 - Hail!
 - May you be blessed!
+- Hello cousin.
+- Hello brother.
+- Hello sister.
