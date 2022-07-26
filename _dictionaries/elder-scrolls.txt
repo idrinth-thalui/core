@@ -21,6 +21,7 @@ dunmer
 daedra
 Daedra
 Thalmor
+Numidium
 Thalmor's
 Tamriel
 Mephala
