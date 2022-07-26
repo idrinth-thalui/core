@@ -39,3 +39,6 @@ $Health06PotionLabel	Heilung 6
 $InventoryHeaderFood	Nahrung
 $WolfFeedLabel	Wolfsfutter
 $BloodPotionLabel	Bluttrank
+$IdrinthThalui_SettingsPage	Einstellungen
+$IdrinthThalui_xVASynth	xVASynth
+$IdrinthThalui_EnableXvaSynth	Kommentare einschalten
