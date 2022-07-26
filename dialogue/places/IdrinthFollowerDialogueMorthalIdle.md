@@ -3,3 +3,4 @@
 - This constant mist is depressing.
 - Too soggy for my taste, but a thriving garden for any alchemist.
 - A nice city, but somehow too calm and quiet.
+- The Jarl here is special, her whole family is.
