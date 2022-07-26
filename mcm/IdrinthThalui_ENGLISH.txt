@@ -39,3 +39,6 @@ $Health06PotionLabel	Health 6
 $InventoryHeaderFood	Food
 $WolfFeedLabel	Wolf's Feed
 $BloodPotionLabel	Blood Potion
+$IdrinthThalui_SettingsPage	Settings
+$IdrinthThalui_xVASynth	xVASynth
+$IdrinthThalui_EnableXvaSynth	Enable comments
