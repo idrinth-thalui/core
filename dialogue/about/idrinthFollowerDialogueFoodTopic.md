@@ -8,3 +8,4 @@
 - There are few kinds of food I haven't tried, but simple meals are fine by me.
 - Give me a hearty Nord stew over a posh Breton 9-course-meal anytime.
 - I'm quite fond of Morrowind cuisine.
+- A good piece of meat with some seasoning is never a bad choice.
