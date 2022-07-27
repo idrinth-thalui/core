@@ -2,3 +2,6 @@
 - Trinimac curse you!
 - Stop being a criminal!
 - You are a disgrace!
+- Stop!
+- What are you doing?
+- Why?
