@@ -69,6 +69,9 @@
 - Have you ever seen the Lunar Forge? It's close to Whiterun.
 - It's nice to fight with others again!
 - It's nice to travel with a friend!
+- I'm happy today, must be our friendship.
+- Would you like to talk later?
+- I would love to know more about you!
 - Sometimes I wonder why people use horses. They are loud, they smell and need to be fed!
 - Do you like the music of the bards in Skyrim?
 - I could use some time to gather herbs, I need to brew more potions!
