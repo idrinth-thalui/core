@@ -1,1 +1,4 @@
 - This city is tainted to the bones.
+- This city is owned by it's Meadery.
+- The guards claim to hunt thieves, I'm not so sure about that here.
+- The Temple of Mara is a nice place for a wedding.
