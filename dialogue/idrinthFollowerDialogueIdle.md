@@ -26,7 +26,6 @@
 - I'm glad the sun isn't shining, it can't be better.
 - Could we get out of the sun?
 - Oh my, rain again.
-- They really made something out of this mountain.
 - Not my favourite village, it feels odd.
 - This intrigues me, we should spend some time here.
 - This city's life never seems to fade, even under current circumstances.
