@@ -1,44 +1,46 @@
-﻿$LogPage	Beliebtheitslogs
-$LogsHeaderTime	Zeit
-$LogsHeaderData	Text
-$StatPage	Statistiken
-$SkillsHeader	Fähigkeiten
-$AttributesHeader	Attribute
-$SkillTwoHanded	Zweihändig
-$AttributeHealth	Gesundtheit
-$SkillLightArmor	Leichte Rüstung
-$AttributeStamina	Ausdauer
-$SkillRestoration	Wiederherstellung
-$AttributeMagicka	Magicka
-$SkillBlock	Blocken
-$SkillAlteration	Veränderung
-$AttributeArmor	Rüstung
-$LocationHeader	Ort
-$StatusHeader	Status
-$LevelLabel	Level
-$FavorLabel	Beliebtheit
-$IsCurrentFollowerLabel	Ist aktueller Begleiter
-$CurrentRaceLabel	Aktuelle Rasse
-$LastSeenLabel	Zuletzt gesehen in
-$shoutsHeardHeader	Worte der Macht gehört
-$shoutsUsedHeader	Worte der Macht genutzt
-$InventoryPage	Inventar
-$InventoryHeaderArmors	Rüstungen
-$CuirassLabel	Brustpanzer
-$GlovesLabel	Handshuhe
-$BootsLabel	Schuhe
-$InventoryHeaderWeapons	Waffen
-$SwordLabel	Zweihänder
-$InventoryHeaderPotions	Tränke
-$Health01PotionLabel	Heilung 1
-$Health02PotionLabel	Heilung 2
-$Health03PotionLabel	Heilung 3
-$Health04PotionLabel	Heilung 4
-$Health05PotionLabel	Heilung 5
-$Health06PotionLabel	Heilung 6
-$InventoryHeaderFood	Nahrung
-$WolfFeedLabel	Wolfsfutter
-$BloodPotionLabel	Bluttrank
+$IdrinthThalui_LogPage	Beliebtheitslogs
+$IdrinthThalui_LogsHeaderTime	Zeit
+$IdrinthThalui_LogsHeaderData	Text
+$IdrinthThalui_StatPage	Statistiken
+$IdrinthThalui_SkillsHeader	Fähigkeiten
+$IdrinthThalui_AttributesHeader	Attribute
+$IdrinthThalui_SkillTwoHanded	Zweihändig
+$IdrinthThalui_AttributeHealth	Gesundtheit
+$IdrinthThalui_SkillLightArmor	Leichte Rüstung
+$IdrinthThalui_AttributeStamina	Ausdauer
+$IdrinthThalui_SkillRestoration	Wiederherstellung
+$IdrinthThalui_AttributeMagicka	Magicka
+$IdrinthThalui_SkillBlock	Blocken
+$IdrinthThalui_SkillAlteration	Veränderung
+$IdrinthThalui_AttributeArmor	Rüstung
+$IdrinthThalui_LocationHeader	Ort
+$IdrinthThalui_StatusHeader	Status
+$IdrinthThalui_LevelLabel	Level
+$IdrinthThalui_FavorLabel	Beliebtheit
+$IdrinthThalui_IsCurrentFollowerLabel	Ist aktueller Begleiter
+$IdrinthThalui_CurrentRaceLabel	Aktuelle Rasse
+$IdrinthThalui_LastSeenLabel	Zuletzt gesehen in
+$IdrinthThalui_shoutsHeardHeader	Worte der Macht gehört
+$IdrinthThalui_shoutsUsedHeader	Worte der Macht genutzt
+$IdrinthThalui_InventoryPage	Inventar
+$IdrinthThalui_InventoryHeaderArmors	Rüstungen
+$IdrinthThalui_CuirassLabel	Brustpanzer
+$IdrinthThalui_GlovesLabel	Handshuhe
+$IdrinthThalui_BootsLabel	Schuhe
+$IdrinthThalui_InventoryHeaderWeapons	Waffen
+$IdrinthThalui_SwordLabel	Zweihänder
+$IdrinthThalui_InventoryHeaderPotions	Tränke
+$IdrinthThalui_Health01PotionLabel	Heilung 1
+$IdrinthThalui_Health02PotionLabel	Heilung 2
+$IdrinthThalui_Health03PotionLabel	Heilung 3
+$IdrinthThalui_Health04PotionLabel	Heilung 4
+$IdrinthThalui_Health05PotionLabel	Heilung 5
+$IdrinthThalui_Health06PotionLabel	Heilung 6
+$IdrinthThalui_InventoryHeaderFood	Nahrung
+$IdrinthThalui_WolfFeedLabel	Wolfsfutter
+$IdrinthThalui_BloodPotionLabel	Bluttrank
 $IdrinthThalui_SettingsPage	Einstellungen
 $IdrinthThalui_xVASynth	xVASynth
 $IdrinthThalui_EnableXvaSynth	Kommentare einschalten
+$IdrinthThalui_Comments	Idrinths Kommentare
+$IdrinthThalui_CommentRate	Kommentarrate
