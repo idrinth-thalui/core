@@ -30,7 +30,6 @@
 - This intrigues me, we should spend some time here.
 - This city's life never seems to fade, even under current circumstances.
 - Never thought they would fall this low. Not sure if it's a shame.
-- Madness or order is the question now.
 - I thirst.
 - I need some fresh blood, could we hunt?
 - I could really use a good fight right now.
