@@ -1,1 +1,3 @@
 - My favourite kind of place! I like the service here!
+- Guess they didn't find the way to Sovngarde.
+- Isn't there a saying about sleeping when you are dead? They clearly don't know it.
