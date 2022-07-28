@@ -6,3 +6,5 @@
 - You are followed by a vampire princess and a vampire paladin, sounds like a story.
 - The sun is shining, let's wait for our princess to complain...
 - Nice snowfall, not too heavy. You want to be in a cave now, right, Serana?
+- You know, some fresh blood in your veins would do you good, Serana!
+- I wonder, how much have you really seen in your unlife?
