@@ -1,1 +1,6 @@
 - I feel sorry for these desperate souls.
+- The war hits Skyrim hard. So many had to turn to banditry.
+- Their need must be great to attack us.
+- Did they flee their burned farms or the army's strictness?
+- Booby trapping their lair...they act like cowards, not fighters.
+-
