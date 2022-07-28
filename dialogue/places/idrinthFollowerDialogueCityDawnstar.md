@@ -1,0 +1,2 @@
+- I like the coast here, the sea reminds me of old times.
+- This city's life never seems to fade, even under current circumstances.
