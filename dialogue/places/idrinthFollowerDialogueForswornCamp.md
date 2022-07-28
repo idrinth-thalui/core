@@ -1,1 +1,4 @@
-- If they were not worshipping Daedra, I'd happy to help them reclaim their home.
+- If they were not worshipping Daedra, I'd be happy to help them reclaim their home.
+- Ages ago there were Wild Elves, now there are wild Bretons.
+- Be wary of the clans led by hagravens. 
+- Briarhearts - a truly daedric way to become stronger...
