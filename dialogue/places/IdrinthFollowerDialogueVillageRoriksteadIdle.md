@@ -1,3 +1,4 @@
 - Rich farmland - a blessing from the gods in wartorn times.
 - This village was definitely not named after Rorik - I remember this place from the Second Age.
 - I doubt that anyone here will name their son Ragnar.
+- Not my favourite village, it feels odd.

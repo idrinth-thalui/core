@@ -23,7 +23,6 @@
 - Let's show them what two hands can do!
 - Want to grab a drink when we're done?
 - I think we should drop by a merchant soon.
-- Not my favourite village, it feels odd.
 - This intrigues me, we should spend some time here.
 - I thirst.
 - I need some fresh blood, could we hunt?
