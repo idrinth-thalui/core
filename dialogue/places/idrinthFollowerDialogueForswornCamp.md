@@ -1,0 +1,1 @@
+- If they were not worshipping Daedra, I'd happy to help them reclaim their home.
