@@ -1,0 +1,1 @@
+- You know, I never worked in a mine before. I always found something else to do!
