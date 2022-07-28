@@ -1,0 +1,3 @@
+- I'm glad the sun isn't shining, it can't be better.
+- Could we get out of the sun?
+- Oh my, rain again.
