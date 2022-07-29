@@ -1,5 +1,5 @@
 - Beware of the chaurus. Their poison is vicious.
-- Gather all chaurus eggs you can find. Less of them hatching and swarming aroung.
+- Gather all chaurus eggs you can find. Less of them hatching and swarming around.
 - How far have you fallen, my kinsmen?
 - People think they are some kind of goblins. They are not.
 - The once proud Snow Elves, reduced to mere animals... it breaks my heart.
