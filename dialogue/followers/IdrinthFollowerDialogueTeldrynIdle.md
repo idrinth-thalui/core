@@ -1,0 +1,11 @@
+- You're from Blacklight? A truly magnificient city, the pride of House Redoran.
+- Glad to have a seasoned fighter at my side.
+- A little ease on the flame spells, my Dunmer friend...
+- Ah, yes, Jiub. Helped him once to clear out a cliff racer colony pestering the farmfolk.
+- Wish you could have seen the old Dwemer cities in their old glory.
+- Excellent swordsmanship there, my Dunmer friend.
+- By Trinimac, I assure you I'm not one of those filthy bloodsuckers.
+- We should share battle stories by a bottle of sujamma.
+- How fares Morrowind after the Red Year? The Red Mountain is still more active than ever before.
+- I take it you defended Blacklight during the Argonian Invasion?
+- 
