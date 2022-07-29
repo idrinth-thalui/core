@@ -176,4 +176,8 @@ Penitus
 Oculatus
 hagraven
 Breton
-
+chaurus
+Xarxes
+Phynaster
+Syrabane
+Jephre
