@@ -1,0 +1,2 @@
+You find yourself in the midst of battle, surrounded by all sides. A tall elf in white-gold shiny armour appears,
+felling the enemies like wheat with his greatsword. He smiles at you, and you recognize Idrinth. You feel invigorated.
