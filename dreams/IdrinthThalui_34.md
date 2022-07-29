@@ -1,0 +1,3 @@
+You charge into battle, praising Malacath. Your blood boils in your veins. A tall Altmer faces you, vampire fangs bared. It is Idrinth,
+and the mighty strokes of his greatsword brings you down to your knees. You feel his fangs in your neck, and you faint... 
+You awake in cold sweat.
