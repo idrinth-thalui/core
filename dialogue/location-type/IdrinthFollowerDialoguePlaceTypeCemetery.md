@@ -1,0 +1,3 @@
+- May their rest not be disturbed by a filthy necromancer.
+- The dead are never fully gone as long as we remember them. *sigh*
+- 
