@@ -1,0 +1,4 @@
+- I doubt they will ever accept me as blood-kin. They prefer the Scorned One over the Paladin of Auri-El.
+- Their ancestors were loyal followers of Trinimac, marked by the thrice-cursed Prince of Plots.
+- I wonder how many of them once were Snow Elves?
+- The Orsimer chose this name themselves. 
