@@ -1,0 +1,6 @@
+- I'm not cut out for farm work. But I appreciate the farmers.
+- Hard work, hard life. Even harder with the civil war. And now dragons...
+- I admire their courage not to seek shelter in one of the fortified cities.
+- Good the crops are still growing. 
+- Horse manure and cow dung... oh, well, I smelled worse.
+- 
