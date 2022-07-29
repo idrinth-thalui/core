@@ -1,0 +1,3 @@
+- No dragons for millennia, and now they're swarming like skeevers. Big firebreathing ones.
+- Majestic beings. Alas, their ego is even bigger than their bodies.
+- Now THAT is a worthy opponent to fight. Our battle will be legendary!
