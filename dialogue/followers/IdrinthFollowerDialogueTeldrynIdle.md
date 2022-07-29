@@ -10,4 +10,7 @@
 - I take it you defended Blacklight during the Argonian Invasion?
 - You're worth every septim, my Dunmer friend.
 - Whoa, Teldryn, watch where you summon your flame atronach!
--
+- I miss riding silt striders. I heard there is one left on Solstheim?
+- I always wanted to ride a guar, but... how does it feel?
+- Are you affiliated with House Redoran or a freelancer?
+- I take Azura is your patron goddess? The one of the Reclamations I respect.
