@@ -1,3 +1,8 @@
 - My favourite kind of place! I like the service here!
 - Guess they didn't find the way to Sovngarde.
 - Isn't there a saying about sleeping when you are dead? They clearly don't know it.
+- I'm sure we'll meet draugr soon.
+- I've been in such crypts before. The draugr sure are restless now.
+- They must have awakened with their old dragon masters.
+- Were those not walking the halls the ones following the Nordic gods?
+- The candles are lit. The draugr are awake.
