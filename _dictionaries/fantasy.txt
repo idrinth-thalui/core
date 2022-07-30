@@ -32,3 +32,5 @@ wartorn
 slaughtered
 Meadery
 unlife
+spellcaster
+
