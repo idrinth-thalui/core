@@ -1,5 +1,1 @@
-- I'm sure we'll meet draugr soon.
-- I've been in such crypts before. The draugr sure are restless now.
-- They must have awakened with their old dragon masters.
-- Were those not walking the halls the ones following the Nordic gods?
-- The candles are lit. The draugr are awake.
+
