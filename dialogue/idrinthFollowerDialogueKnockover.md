@@ -1,3 +1,5 @@
-- Damn.
-- My bad.
-- Oh, how clumsy of me.
+- Be cautious!
+- Watch your step!
+- As clumsy as a giant.
+- Stop wrecking the place!
+- By Trinimac, pay attention!

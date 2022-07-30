@@ -1,1 +1,1 @@
-- The old nords built impressive monuments.
+- The old Nords built impressive monuments.
