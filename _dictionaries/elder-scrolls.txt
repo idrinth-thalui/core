@@ -40,6 +40,7 @@ Altmer
 Aldmer
 Aldmeri
 Skyrim
+Aprax
 Milkdrinker
 Housecat
 Elsweyr
