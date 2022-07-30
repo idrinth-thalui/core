@@ -84,7 +84,7 @@ Winterhold
 Athis
 Morrowind
 Trinimac's
-Athis
+Alduin
 Torvar
 Farkas
 Vilkas
@@ -195,3 +195,7 @@ atronach
 Slek
 Aprex
 Jeran
+Odahviing
+Paarthurnax
+Athis
+septims
