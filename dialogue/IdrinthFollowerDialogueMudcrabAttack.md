@@ -1,0 +1,6 @@
+- Trying to eat me? I'll eat you!
+- Volunteering for dinner, little crab?
+- I've seen far bigger ones!
+- Tiny crab tries to pinch me?
+- Hey! I was just walking here!
+- Pesky little mudcrabs!

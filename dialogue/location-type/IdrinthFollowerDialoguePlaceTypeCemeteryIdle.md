@@ -1,0 +1,5 @@
+- May their rest not be disturbed by a filthy necromancer.
+- The dead are never fully gone as long as we remember them. *sigh*
+- Wish I could visit her grave once more...
+- So much sadness in this place.
+- This war will add many more graves, I fear.
