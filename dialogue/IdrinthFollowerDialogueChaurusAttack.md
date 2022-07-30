@@ -1,0 +1,5 @@
+- Spitting venom at me? I'll end you!
+- Overgrown earwig!
+- Your chitin armour won't save you!
+- To think somone would EAT you- disgusting!
+- Your chitin armour is no match for my blade!
