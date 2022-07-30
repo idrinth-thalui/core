@@ -3,4 +3,3 @@
 - Wish I could visit her grave once more...
 - So much sadness in this place.
 - This war will add many more graves, I fear.
--
