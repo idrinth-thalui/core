@@ -5,6 +5,7 @@ Dau
 Molag
 Bal
 Draugr
+draugr
 Aedra
 Mundus
 Auri-El's
@@ -176,4 +177,16 @@ Penitus
 Oculatus
 hagraven
 Breton
-
+chaurus
+Xarxes
+Phynaster
+Syrabane
+Jephre
+Blacklight
+Teldryn
+Sujamma
+Shein
+Flin
+septim
+Jiub
+atronach
