@@ -26,6 +26,8 @@ Numidium
 Thalmor's
 Tamriel
 Mephala
+Bretons
+hagravens
 Trinimac
 skeevers
 Coldharbour
@@ -84,7 +86,7 @@ Winterhold
 Athis
 Morrowind
 Trinimac's
-Athis
+Alduin
 Torvar
 Farkas
 Vilkas
@@ -192,3 +194,10 @@ Flin
 septim
 Jiub
 atronach
+Slek
+Aprex
+Jeran
+Odahviing
+Paarthurnax
+Athis
+septims
