@@ -17,6 +17,7 @@ Akaviri
 Malacath
 Thalmor
 Khajiit
+Dremora
 daedric
 dunmer
 daedra
