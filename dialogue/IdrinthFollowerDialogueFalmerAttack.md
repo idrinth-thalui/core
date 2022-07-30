@@ -1,4 +1,5 @@
 - May you find rest, fallen kin.
-- Let me end your wretched existance.
+- Let me end your wretched existence.
 - Trinimac guide your soul.
 - Let me end your suffering.
+- 
