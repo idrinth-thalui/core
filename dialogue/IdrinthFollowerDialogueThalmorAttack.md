@@ -1,0 +1,11 @@
+- Die, Thalmor scum!
+- Xarxes will not record your foul deeds!
+- Trinimac, watch me erase this disgrace!
+- May your family forget your existence!
+- Your name will be forgotten!
+- Down with the Thalmor!
+- Fear me, Thalmor!
+- I will feast on your blood!
+- Slek! Nebarra! Aprax! Jeran!
+- To Oblivion with you!
+- I will end you, traitor!
