@@ -29,6 +29,7 @@ Mephala
 Trinimac
 Coldharbour
 Valenwood
+Sovngarde
 Cyrodiil
 Proventus
 Avenicci
