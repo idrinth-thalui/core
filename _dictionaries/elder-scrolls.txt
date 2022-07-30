@@ -30,6 +30,7 @@ Trinimac
 skeevers
 Coldharbour
 Valenwood
+Sovngarde
 Cyrodiil
 Proventus
 Avenicci
