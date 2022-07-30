@@ -7,4 +7,3 @@
 - What evil fate befell you, kinsmen?
 - Gathering Falmer ears feels like cannibalism. Even if they are reduced to mere animals.
 - Their souls have turned white. *sigh*
-- 
