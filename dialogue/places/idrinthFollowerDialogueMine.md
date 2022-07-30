@@ -1,4 +1,4 @@
 - You know, I never worked in a mine before. I always found something else to do!
 - Looks like hard work. I prefer swinging my sword.
 - What kind of ore is found in this mine?
-- You want to dig some ore? 
+- You want to dig for some ore?
