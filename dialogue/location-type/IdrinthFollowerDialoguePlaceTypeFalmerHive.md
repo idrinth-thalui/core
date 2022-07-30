@@ -1,0 +1,9 @@
+- Beware of the chaurus. Their poison is vicious.
+- Gather all chaurus eggs you can find. Less of them hatching and swarming around.
+- How far have you fallen, my kinsmen?
+- People think they are some kind of goblins. They are not.
+- The once proud Snow Elves, reduced to mere animals... it breaks my heart.
+- Xarxes ceased to record their lives ages ago.
+- What evil fate befell you, kinsmen?
+- Gathering Falmer ears feels like cannibalism. Even if they are reduced to mere animals.
+- Their souls have turned white. *sigh*
