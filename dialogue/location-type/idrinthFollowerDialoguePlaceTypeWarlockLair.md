@@ -1,0 +1,5 @@
+- Warlocks are near, it smells of old books!
+- I've never seen a group of warlocks without an elf.
+- No wonder the Nords of Skyrim fear magic. Between the Thalmor and these rogue apprentices...
+- Keep an eye out for scrolls and spell tomes.
+- Is that all you got? Pathetic!
