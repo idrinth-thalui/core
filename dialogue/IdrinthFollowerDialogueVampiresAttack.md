@@ -1,0 +1,5 @@
+- Filthy vampire!
+- I will end you, scion of Molag Bal!
+- Trinimac will enjoy your demise!
+- You prowled your last night!
+- To Coldharbour with you!
