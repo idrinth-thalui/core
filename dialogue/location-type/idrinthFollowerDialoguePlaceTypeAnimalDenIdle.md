@@ -1,0 +1,6 @@
+- I like it here, it's naturally beautiful.
+- Smells like an animal den.
+- Spiderwebs! Last time they got stuck in my beard!
+- You'll often find mushrooms in here. Make sure to gather them.
+- Ah, away from that unpleasant weather.
+- I wonder how big this cave is.

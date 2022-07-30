@@ -1,0 +1,4 @@
+- This was once way more beautiful, but it survived all this time.
+- My hapless cousins prowling these halls...heartbreaking.
+- These automatons are in remarkable good shape, given their age.
+- I wonder if the Dwemer can see what happened to their cities?
