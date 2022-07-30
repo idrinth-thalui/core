@@ -1,0 +1,5 @@
+- Meet my blade, kitty!
+- Come at me, walking rug!
+- Your hunting days are over, kitty!
+- A good exercise killing you!
+- Your fangs don't impress me!

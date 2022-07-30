@@ -32,3 +32,6 @@ wartorn
 slaughtered
 Meadery
 unlife
+spellcaster
+furball
+Yeech
