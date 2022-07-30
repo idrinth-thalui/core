@@ -5,6 +5,7 @@ Dau
 Molag
 Bal
 Draugr
+draugr
 Aedra
 Mundus
 Auri-El's
