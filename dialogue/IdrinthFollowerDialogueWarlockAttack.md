@@ -1,0 +1,5 @@
+- Your magic won't save you!
+- What evil are you hiding? I will end it!
+- Your daedric minions can't save you!
+- My blade will end you, foul spellcaster!
+- I will put you down!
