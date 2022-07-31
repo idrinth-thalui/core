@@ -1,0 +1,6 @@
+- I'll teach you trying to rob me!
+- Never should have attacked me!
+- Die, brigands!
+- I'm a warrior of Trinimac, not easy prey!
+- My blade will feast on you, thugs!
+- You want my septims? You'll get my blade!

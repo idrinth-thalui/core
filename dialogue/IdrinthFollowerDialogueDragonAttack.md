@@ -1,0 +1,6 @@
+- Trinimac, what a worthy opponent!
+- You will fall to my blade, child of Auri-El!
+- Your Thu'um can't stop me!
+- Fall, servant of Alduin!
+- For the glory of Trinimac!
+- I do not fear your fire!
