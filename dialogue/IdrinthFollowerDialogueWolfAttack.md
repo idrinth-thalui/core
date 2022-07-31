@@ -1,0 +1,4 @@
+- Do not fight me, little one!
+- Give way ere I slay you!
+- Attack me and I will show no mercy!
+- Do not force me to fight you!

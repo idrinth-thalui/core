@@ -1,0 +1,6 @@
+- Your use of the Thu'um won't save you!
+- Back to rest, dragon worshipper!
+- No honour in killing you again!
+- Down with you, poor excuse of a Nord!
+- And stay dead this time!
+- You won't rise again!
