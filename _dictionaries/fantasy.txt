@@ -21,6 +21,8 @@ Jarl
 undead
 Elven
 amongst
+farmfolk
+striders
 Greatswords
 scrunitize
 unsuspicious
