@@ -21,6 +21,8 @@ Jarl
 undead
 Elven
 amongst
+farmfolk
+striders
 Greatswords
 scrunitize
 unsuspicious
@@ -33,3 +35,6 @@ slaughtered
 Meadery
 unlife
 furball
+spellcaster
+furball
+Yeech
