@@ -1,7 +1,7 @@
 - Flea-riddled vermin!
 - I'll stop you spreading more diseases!
 - Disgusting little pests!
-- Your charred hide is more worth than your life!
+- Your charred hide is worth more than your life!
 - Nasty little critters!
 - Die, pantry raiders!
 - Dirty cheese-nibblers!
