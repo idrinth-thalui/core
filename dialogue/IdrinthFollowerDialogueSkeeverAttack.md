@@ -1,9 +1,9 @@
- - Flea-riddled vermin!
- - I'll stop you spreading more diseases!
- - Disgusting little pests!
- - Your charred hide is more worth than your life!
- - Nasty little critters!
- - Die, pantry raiders!
- - Dirty cheese-nibblers!
- - No wonder everyone has Ataxia! You're everywhere!
- - Trinimac curse you, you're sullying my blade!
+- Flea-riddled vermin!
+- I'll stop you spreading more diseases!
+- Disgusting little pests!
+- Your charred hide is more worth than your life!
+- Nasty little critters!
+- Die, pantry raiders!
+- Dirty cheese-nibblers!
+- No wonder everyone has Ataxia! You're everywhere!
+- Trinimac curse you, you're sullying my blade!
