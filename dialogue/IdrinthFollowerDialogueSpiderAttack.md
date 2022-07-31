@@ -1,0 +1,6 @@
+- This is for your webs in my beard!
+- Nasty eight-legged vermin!
+- Jumping at me? I'll teach you!
+- You will not wrap me up in your web!
+- Yeech! I've got spiderweb on my blade!
+- Your poison won't stop me!
