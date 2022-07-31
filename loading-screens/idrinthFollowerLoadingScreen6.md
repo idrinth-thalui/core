@@ -1,1 +1,1 @@
-Long ago, the Altmer's current gods walked among them. Not all gods where integrated into the eight divines when they were reformed.
+Long ago, the Altmeri gods walked among the Elves. However, some of their gods were excluded from the eight Divines when they were organized.

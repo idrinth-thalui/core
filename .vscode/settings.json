@@ -1,0 +1,22 @@
+{
+    "cSpell.customDictionaries": {
+        "TES Disctionary": {
+            "name": "TES Disctionary",
+            "path": "${workspaceFolder}/_dictionaries/elder-scrolls.txt",
+            "addWords": true,
+            "scope": "workspace"
+        },
+        "Fantasy Dictionary": {
+            "name": "Fantasy Dictionary",
+            "path": "${workspaceFolder}/_dictionaries/fantasy.txt",
+            "addWords": true,
+            "scope": "workspace"
+        },
+        "Idrinth Dictionary": {
+            "name": "Idrinth Dictionary",
+            "path": "${workspaceFolder}/_dictionaries/idrinth.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}

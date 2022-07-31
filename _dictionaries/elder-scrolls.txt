@@ -210,3 +210,5 @@ guar
 Solstheim
 Azura
 striders
+Sanguinare
+Vampiris

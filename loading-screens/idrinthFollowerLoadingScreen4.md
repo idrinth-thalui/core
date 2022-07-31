@@ -1,1 +1,1 @@
-If you made a mistake and have a bounty, Idrinth Thalui or the Thief Guild in Riften can pay off that bounty.
+If you've incurred a bounty in one of the holds, an Altmer by the name of Idrinth Thalui or Riften's Thieves Guild can help bolt it from the books.
