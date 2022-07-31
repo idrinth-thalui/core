@@ -1,4 +1,3 @@
 - Rest in pieces!
 - My blade will end you!
-- Back to your grave!
-- 
+- Back to your grave! 
