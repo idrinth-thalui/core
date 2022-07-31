@@ -1,0 +1,6 @@
+- Keep your claws away from me, hideous hag!
+- Your magic won't save you, ugly crow!
+- No mercy for daedra-loving witches!
+- Trinimac smite you, cursed one!
+- Your evil magic is no match for my blade!
+- Die, ruffled crone!
