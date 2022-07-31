@@ -1,0 +1,4 @@
+- I did not take your honey, move along!
+- Stay back or feel my blade!
+- You want to fight me? Trinimac be praised!
+- You'll make a fine winter coat!
