@@ -17,6 +17,7 @@ Akaviri
 Malacath
 Thalmor
 Khajiit
+Dremora
 daedric
 dunmer
 daedra
@@ -26,6 +27,8 @@ Numidium
 Thalmor's
 Tamriel
 Mephala
+Bretons
+hagravens
 Trinimac
 skeevers
 Coldharbour
@@ -34,10 +37,12 @@ Sovngarde
 Cyrodiil
 Proventus
 Avenicci
+mudcrabs
 Altmer
 Aldmer
 Aldmeri
 Skyrim
+Aprax
 Milkdrinker
 Housecat
 Elsweyr
@@ -56,6 +61,10 @@ Laas
 Slen
 Haas
 Falmer
+guar
+Reclamations
+Solstheim
+Azura
 Nord
 Whiterun
 Peryite
@@ -84,7 +93,7 @@ Winterhold
 Athis
 Morrowind
 Trinimac's
-Athis
+Alduin
 Torvar
 Farkas
 Vilkas
@@ -192,3 +201,16 @@ Flin
 septim
 Jiub
 atronach
+Slek
+Aprex
+Jeran
+Odahviing
+Paarthurnax
+Athis
+septims
+farmfolk
+Reclamations
+guar
+Solstheim
+Azura
+striders

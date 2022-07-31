@@ -1,0 +1,6 @@
+- I am NOT after your mammoths! Or your mammoth cheese!
+- So you choose to fight? You've chosen death!
+- I will end you, giant!
+- You may be bigger than me, but I will be victorious!
+- You want to fight? Feel my blade!
+- Trinimac will bless me for your death!
