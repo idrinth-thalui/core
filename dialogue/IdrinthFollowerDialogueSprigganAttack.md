@@ -1,0 +1,4 @@
+- Stand back, Guardian! I mean you no harm.
+- May Jephre have mercy with you, Guardian of Kyne!
+- I will kill you if I have to!
+- Retreat or taste my blade!
