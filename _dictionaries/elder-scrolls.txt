@@ -61,6 +61,10 @@ Laas
 Slen
 Haas
 Falmer
+guar
+Reclamations
+Solstheim
+Azura
 Nord
 Whiterun
 Peryite
