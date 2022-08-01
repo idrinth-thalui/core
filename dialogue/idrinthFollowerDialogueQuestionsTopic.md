@@ -1,7 +1,7 @@
 # Can I ask you something?
 
 - I'm not sure you are even able to.
-- Allright, bother me!
+- Alright, bother me!
 - Why don't you ask someone else?
 - I guess I'll answer this once.
 - Well, why not?
