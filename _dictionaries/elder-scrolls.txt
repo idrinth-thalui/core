@@ -185,6 +185,7 @@ Alessian
 Reachmen
 Cidhna
 Underkeep
+Riften's
 Penitus
 Oculatus
 hagraven
@@ -215,3 +216,5 @@ guar
 Solstheim
 Azura
 striders
+Sanguinare
+Vampiris
