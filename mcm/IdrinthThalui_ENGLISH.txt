@@ -44,3 +44,7 @@ $IdrinthThalui_SettingsPage	Settings
 $IdrinthThalui_xVASynth	xVASynth
 $IdrinthThalui_Comments	Idrinth's Comments
 $IdrinthThalui_EnableXvaSynth	Enable comments
+$IdrinthThalui_Scripts	Scripts
+$IdrinthThalui_DisableRedressing	Disable automatic redressing
+$IdrinthThalui_Finder	Search and Find
+$IdrinthThalui_EnableFinder	Enable search quest
