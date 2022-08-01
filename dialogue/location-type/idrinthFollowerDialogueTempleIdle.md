@@ -1,3 +1,3 @@
-- I'm not sure if I'm welcome here. Trinimac is not I think.
+- I'm not sure if I'm welcome here. Trinimac is not...I think.
 - You can feel the faith of the people here.
 - The air here feels heavy.
