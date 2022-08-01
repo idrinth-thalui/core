@@ -9,9 +9,9 @@
 - Why not? Go ahead.
 - I won't stop you...
 - I guess I'll answer this once.
-- Go ahead, be nody!
+- Go ahead, be nosy!
 - Well, why not?
-- You need to know ecerything, don't you?
+- You need to know everything, don't you?
 - I'll be an open book for you!
 - No rest from your questions, is there?
 - Well, you already did. What else do you want to know?
