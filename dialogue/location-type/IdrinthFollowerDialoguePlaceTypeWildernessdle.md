@@ -1,0 +1,3 @@
+- Some fresh air, finally!
+- Glad to be out of the city!
+- I wonder how long it will survive as free as it is.
