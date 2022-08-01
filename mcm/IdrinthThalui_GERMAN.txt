@@ -44,3 +44,7 @@ $IdrinthThalui_xVASynth	xVASynth
 $IdrinthThalui_EnableXvaSynth	Kommentare einschalten
 $IdrinthThalui_Comments	Idrinths Kommentare
 $IdrinthThalui_CommentRate	Kommentarrate
+$IdrinthThalui_Scripts	Scripte
+$IdrinthThalui_DisableRedressing	Automatisches Ankleiden ausschalten
+$IdrinthThalui_Finder	Suche und Finde
+$IdrinthThalui_EnableFinder	Suchquest anschalten
