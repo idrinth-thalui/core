@@ -1,0 +1,3 @@
+- You are not trying to lock me in, are you?
+- Not very secure, is it?
+- A waste of space, either a crime is worth a fine, a banishment or death.
