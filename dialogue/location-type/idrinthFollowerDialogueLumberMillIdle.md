@@ -1,3 +1,3 @@
-- Honest work, reasonable risks. Maybe something for my retirement?
+- Honest work with reasonable risks. Maybe something for my retirement?
 - I like the woods around here...
-- It's a simple life, I sometimes envy.
+- It's a simple life, one that I sometimes envy.
