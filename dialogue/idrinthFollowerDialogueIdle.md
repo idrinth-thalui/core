@@ -14,7 +14,6 @@
 - I don't trust those beasts!
 - I guess I'll have to run.
 - Do you think I should let my beard open? Or is bound like now better?
-- Well, better than rain at least.
 - You are quite close to the best weapon choice!
 - I see we share a favourite weapon.
 - Well, time flies by.
