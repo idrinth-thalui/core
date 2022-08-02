@@ -1,3 +1,7 @@
 - Some fresh air, finally!
 - Glad to be out of the city!
-- I wonder how long it will survive as free as it is.
+- I wonder how long this land will survive as free as it is.
+- I prefer roaming the plains over the cities.
+- A nice stroll in the woods...
+- What a beautiful night sky.
+- In the mood for a little hunting trip?
