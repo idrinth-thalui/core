@@ -18,4 +18,3 @@
 - I can barely see my hand in front of my eyes.
 - I'm not a Snow Elf...
 - Any longer in this snowstorm and I turn into an icicle.
-- 
