@@ -1,0 +1,4 @@
+- Finally some rest...
+- I could really use some wine.
+- I'll see you later!
+- I'll get myself something to drink.
