@@ -18,3 +18,8 @@
 - I can barely see my hand in front of my eyes.
 - I'm not a Snow Elf...
 - Any longer in this snowstorm and I turn into an icicle.
+- Oh my, rain again.
+- Could we get out of the sun?
+- I'm glad the sun isn't shining, it can't be better.
+- Glad the rain is washing my armour clean!
+- Some snow is nice, it makes the landscape more beautiful.
