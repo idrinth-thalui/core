@@ -5,4 +5,3 @@
 - A nice stroll in the woods...
 - What a beautiful night sky.
 - In the mood for a little hunting trip?
-- 
