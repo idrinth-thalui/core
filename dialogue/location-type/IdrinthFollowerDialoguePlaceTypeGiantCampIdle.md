@@ -1,0 +1,3 @@
+- We shouldn't be here...
+- Angering Giants brings no benefit.
+- Hunting Mammoths is not a good sport!
