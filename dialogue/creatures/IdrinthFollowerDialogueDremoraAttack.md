@@ -1,0 +1,4 @@
+- Die Dremora!
+- Back to Oblivion with you!
+- Back to your master with you!
+- Leave Nirn!
