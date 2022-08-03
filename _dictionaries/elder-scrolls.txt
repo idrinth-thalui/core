@@ -31,6 +31,8 @@ Mephala
 Bretons
 hagravens
 Trinimac
+Orsimer
+orsimer
 skeevers
 Coldharbour
 Valenwood
