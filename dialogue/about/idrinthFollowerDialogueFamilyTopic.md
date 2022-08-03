@@ -12,3 +12,5 @@
 - My father died because he worked too hard, never took enough of a break.
 - My mother is dead, she lived a long, fulfilling life.
 - I never had children, just never had the chance to get any.
+- My love for chimer cuisine is based on my family. My former wife was a good cook. Now dunmer cuisine is the closest it gets.
+- My brother rose far in military ranks in a short timeframe. He profitted a lot from the orsimer leaving.
