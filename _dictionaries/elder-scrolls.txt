@@ -5,6 +5,7 @@ Baar
 Dau
 Molag
 Bal
+Sovengard
 Draugr
 draugr
 Aedra
