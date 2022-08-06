@@ -1,5 +1,5 @@
 - This was it. No more travels with you.
-- You were well taught by the Thalmor doctrine. A shame for our ancestors. 
+- You were well taught by the Thalmor doctrine. A shame for our ancestors.
 - A typical Nord, I expected more... But I'm just an Elf, right?
 - Embarrassing for a Dunmer, you are no House Redoran material.
 - A Bosmer sinking this low is disappointing.
@@ -8,7 +8,6 @@
 - Bretons are truly silver-tongued. Playing all sides, "diplomat"?
 - Who ever thought Redguards were noble warriors? They were wrong.
 - Fork-tongued Argonian. I knew you were coldblooded.
-- Imperials. As long as you win, morals don't matter. 
+- Imperials. As long as you win, morals don't matter.
 - You were destined for greatness, Dragonborn, yet you failed.
-- I gave you a second chance. There will be no third. 
--
+- I gave you a second chance. There will be no third.
