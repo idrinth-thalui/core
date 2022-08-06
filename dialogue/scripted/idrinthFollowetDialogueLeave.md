@@ -10,4 +10,6 @@
 - Fork-tongued Argonian. I knew you were coldblooded.
 - Imperials. As long as you win, morals don't matter.
 - You were destined for greatness, Dragonborn, yet you failed.
-- I gave you a second chance. There will be no third.
+- I gave you a chance. You wasted it and my time.
+- No Sovengard for someone like you.
+- You have truly been formed by a Daedra, not Trinimac.
