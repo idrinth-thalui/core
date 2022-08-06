@@ -1,0 +1,5 @@
+- This was it. No more travels with you.
+- You have Thalmor blood in you for sure 
+- A typical Nord, I expected more...
+- Embarrassing for a Dunmer, you are no House Redoran material.
+- A Bosmer sinking this low is disappointing.
