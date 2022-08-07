@@ -1,8 +1,8 @@
 ## Castle Volkihar
 
-V: Ah, another new blood coming to the court. Let me introduce myself, I'm Lord Harkon's primary advisor Vingalmo.
+V: Ah, another new blood coming to the court. Let me introduce myself, I'm Lord Harkon's primary adviser Vingalmo.
 
-I: Oh, you share a name with the Author of Treatise on the Altmer Antedecent.
+I: Oh, you share a name with the Author of Treatise on the Altmer Antecedent.
 
 V: Yes, I am that author. I've been alive for a long time, you would do well in pledging your weapon to Lord Harkon through me.
 
@@ -18,4 +18,4 @@ I: I also wouldn't want to dishonour anyone. My weapons will remain sheathed whi
 
 V: I am just warning you, that others may not be as polite and civilized as I am.
 
-I: Oh, brother, I don't have to worry about such accidents under your watchful eyes, do I? After all as Lord Harkon's primary advisor, no one would dare move against you...
+I: Oh, brother, I don't have to worry about such accidents under your watchful eyes, do I? After all as Lord Harkon's primary adviser, no one would dare move against you...
