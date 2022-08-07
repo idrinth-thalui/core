@@ -1,2 +1,1 @@
-You run through a dark, foggy landscape. From everywhere dissonant tunes start haunting you, leading you on, driving you away.
-Panting, you stumble over a twisted root. The preying music comes closer, filling your ears, your soul... You awake in fear.
+You run through a dark, foggy landscape. From everywhere dissonant tunes start haunting you, leading you on, driving you away. Panting, you stumble over a twisted root. The preying music comes closer, filling your ears, your soul... You awake in fear.
