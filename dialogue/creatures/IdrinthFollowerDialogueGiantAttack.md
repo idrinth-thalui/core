@@ -4,3 +4,5 @@
 - You may be bigger than me, but I will be victorious!
 - You want to fight? Feel my blade!
 - Trinimac will bless me for your death!
+- Suffer the consequences for your actions!
+- The taller the are, the further they fall!
