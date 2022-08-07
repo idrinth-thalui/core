@@ -1,4 +1,4 @@
-# Scene 1
+## Scene 1
 
 I: Are you an actual Paladin? I've last seen one in my childhood. Blessed by the Ancestors and protecting everyone around them.
 
@@ -10,7 +10,7 @@ C: First cleanse the chapel of my brother please.
 
 I: Consider it done, neither my friend nor I tend to disappoint.
 
-# Scene 2
+## Scene 2
 
 I: You know my request, Knight-Paladin. Would you grant it?
 
