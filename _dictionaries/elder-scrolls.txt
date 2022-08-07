@@ -10,6 +10,7 @@ Draugr
 draugr
 Aedra
 Mundus
+Dimhollow
 Auri-El's
 Septim's
 Telvanni
