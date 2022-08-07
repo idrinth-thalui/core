@@ -4,7 +4,7 @@ I: How are you after you rest? It would drive me insane to be locked up for hund
 
 S: How would you know?
 
-I: I've spent a few hundred years locked in service to my bloodmother. In hindsight it feels like I was locked up as well.
+I: I've spent a few hundred years locked in service to my blood-mother. In hindsight it feels like I was locked up as well.
 
 S: I agreed to this. It was important to my mother!
 
