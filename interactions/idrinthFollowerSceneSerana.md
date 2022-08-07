@@ -20,6 +20,6 @@ I: If you ever need someone to talk to, I can offer myself. I've seen a lot in m
 
 S: I...I don't know what you are talking about!
 
-I: Then let me be clearer. I've seen Nords ruling in your parents' human time and witnessed a possible Daughter of Coldharbour's sacrifice. I'm not proud to have let it happen, it still haunts my nights.
+I: Then let me be more clear. I've seen Nords ruling in your parents' human time and witnessed a possible Daughter of Coldharbour's sacrifice. I'm not proud to have let it happen, it still haunts my nights.
 
 S: I...will think about it.
