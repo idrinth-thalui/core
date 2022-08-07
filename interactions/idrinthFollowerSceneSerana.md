@@ -1,4 +1,4 @@
-## Scene 1
+## Dimhollow
 
 I: How are you after you rest? It would drive me insane to be locked up for hundreds of years.
 
