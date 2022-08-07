@@ -19,3 +19,5 @@ I: I also wouldn't want to dishonour anyone. My weapons will remain sheathed whi
 V: I am just warning you, that others may not be as polite and civilised as I am.
 
 I: Oh, brother, I don't have to worry about such accidents under your watchful eyes, do I? After all as Lord Harkon's primary adviser, no one would dare move against you...
+
+V: We Altmer know well how to behave in court. Not unlike some of our more feral... human siblings. Orthjolf for example. I do advise to be wary of him, brother.
