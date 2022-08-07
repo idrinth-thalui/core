@@ -5,4 +5,4 @@
 - You want to fight? Feel my blade!
 - Trinimac will bless me for your death!
 - Suffer the consequences for your actions!
-- The taller the are, the further they fall!
+- The taller they are, the further they fall!
