@@ -38,3 +38,5 @@ furball
 spellcaster
 furball
 Yeech
+skald
+skalds
