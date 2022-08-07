@@ -1,2 +1,2 @@
-You walk trough a meadow, covered with wildflowers. The soft breeze carries the gentle sound of distant music, and the sun warms your skin.
+You walk through a meadow, covered with wildflowers. The soft breeze carries the gentle sound of distant music, and the sun warms your skin.
 You softly hum the tune while you walk on, filled with happiness. You awake refreshed.
