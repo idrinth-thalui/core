@@ -16,6 +16,6 @@ V: I wouldn't backstab you, you are a guest of the court, not an enemy.
 
 I: I also wouldn't want to dishonour anyone. My weapons will remain sheathed while I'm under your and Lord Harmon's protection. Although killing me with kindness could take a while...
 
-V: I am just warning you, that others may not be as polite and civilized as I am.
+V: I am just warning you, that others may not be as polite and civilised as I am.
 
 I: Oh, brother, I don't have to worry about such accidents under your watchful eyes, do I? After all as Lord Harkon's primary adviser, no one would dare move against you...
