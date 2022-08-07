@@ -10,11 +10,11 @@ I: I always wanted to know how the author of that book came to make so many mist
 
 V: You are brave to insult me like that. Are you sure you can win this little game?
 
-I: I've been in courts like this before. Backstabbing without being seen is no art I am unfamiliar with 
+I: I've been in courts like this before. Backstabbing without being seen is no art I am unfamiliar with, even if I obviously never participated myself. I would not sink that low...
 
-V: I wouldn't backstab you, You are a guest of the court, not an enemy.
+V: I wouldn't backstab you, you are a guest of the court, not an enemy.
 
-I: Killing me with kindness could take a while...
+I: I also wouldn't want to dishonour anyone. My weapons will remain sheathed while I'm under your and Lord Harmon's protection. Although killing me with kindness could take a while...
 
 V: I am just warning you, that others may not be as polite and civilized as I am.
 
