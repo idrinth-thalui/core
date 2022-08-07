@@ -12,6 +12,7 @@ Bal
 Sovengard
 Draugr
 draugr
+Orthjolf
 Aedra
 Mundus
 Auri-El's
