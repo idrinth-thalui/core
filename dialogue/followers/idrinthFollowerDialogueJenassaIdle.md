@@ -2,4 +2,4 @@
 - Nice work, I love your art.
 - Up for some sparring, Jenassa?
 - An artist of war and an art collector meet...
-- You are a talent, if you ever want to share tricks, I'd be all ears.
+- You are a natural. If you ever want to share tricks, I'm all ears.
