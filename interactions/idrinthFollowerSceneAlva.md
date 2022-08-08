@@ -1,4 +1,4 @@
-## Morthal, if player is no Vampire 
+## Morthal, if player is no Vampire
 
 I: You should have yourself looked at. You look ill.
 
@@ -6,7 +6,7 @@ A: I've never felt better!
 
 I: Some illnesses hide well I guess...
 
-## Morthal, if player is Vampire
+## Morthal, if player is a Vampire
 
 I: Young blood there may still be time to cure you.
 
