@@ -5,4 +5,3 @@
 - His sister loves him dearly. May her faith in him not be tested.
 - Seen him once in the swamps, taking down a roaming chaurus.
 - I'd rather not talk to him. He's too interested in me.
--
