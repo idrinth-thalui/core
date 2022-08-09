@@ -1,6 +1,6 @@
 ## Warm
 
-- Ah, nice and cozy!
+- Ah, nice and cosy!
 
 ## Conformable
 
