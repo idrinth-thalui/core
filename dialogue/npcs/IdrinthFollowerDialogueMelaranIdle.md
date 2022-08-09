@@ -4,4 +4,4 @@
 - Now that he's promoted to court wizard, I hope my suspicions aren't true.
 - If he's a Thalmor spy, the Solitude court has a big problem.
 - From personal wizard to Thane - I wonder if he took over Erikur's wealth, too.
-- Erikur's business in the hands of a Thalmor - a frightening thought. 
+- Erikur's business in the hands of a Thalmor - a frightening thought.
