@@ -12,7 +12,7 @@
 
 ## Very Cold
 
-- You look underdressed for the weather here...
+- You look under dressed for the weather here...
 
 ## Freezing
 
