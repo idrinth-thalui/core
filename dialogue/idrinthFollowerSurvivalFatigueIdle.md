@@ -1,4 +1,4 @@
-## Refresed
+## Refreshed
 
 - You look completely awake. I guess you slept well.
 
