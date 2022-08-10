@@ -7,6 +7,7 @@ Molag
 Bal
 Sovengard
 Draugr
+Stuhn
 draugr
 Orthjolf
 Aedra
