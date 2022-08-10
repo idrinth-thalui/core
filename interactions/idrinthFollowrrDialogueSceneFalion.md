@@ -1,6 +1,6 @@
 ## Falion's House
 
-F: I recognize you from some old paintings and I know your kind.
+F: I recognise you from some old paintings and I know your kind.
 
 I: You are familiar with Altmer? And you have seen family members of mine?
 
