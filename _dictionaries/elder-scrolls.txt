@@ -7,6 +7,7 @@ Molag
 Bal
 Sovengard
 Draugr
+Stuhn
 draugr
 Orthjolf
 Aedra
@@ -233,6 +234,7 @@ Belethor
 Belethor's
 Falion
 Falion's
+Laila
 Dengeir
 Dengeir's
 Thadgeir
