@@ -6,3 +6,4 @@
 - I'm a vampire like you, who has enjoyed long travels through Tamriel.
 - I'm just an Altmer who has travelled Tamriel for a long time.
 - I'm just an ordinary citizen reacting to the world around me.
+- I'm an ancient evil, barely kept in check by my faith in Trinimac.
