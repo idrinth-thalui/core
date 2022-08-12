@@ -9,3 +9,5 @@
 - Cidhna Mine is still open?
 - Sometimes I'm startled at seeing humans here - my first visit was when the Dwemer were still here.
 - I wonder if the Automatons in the Underkeep are still functional?
+- I've shunned the city since High Justiciar Ondolemar was assigned here, after the "Markarth Incident".
+- 
