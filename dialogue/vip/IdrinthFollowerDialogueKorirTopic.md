@@ -1,2 +1,1 @@
-I heard Korir is blaming the College for the destruction of Winterhold, and openly against all Mer. A bitter man, 
-residing in a broken town.
+- I heard Korir is blaming the College for the destruction of Winterhold, and openly against all Mer. A bitter man, residing in a broken town.
