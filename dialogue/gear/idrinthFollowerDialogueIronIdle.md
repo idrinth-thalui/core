@@ -1,0 +1,2 @@
+- You are either very poor or very foolish. Iron stands no chance against chance against most enemies.
+- Basic metal, it may be a good idea to upgrade!
