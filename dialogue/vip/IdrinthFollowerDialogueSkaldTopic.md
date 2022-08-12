@@ -1,0 +1,2 @@
+Skald would lead the Stormcloaks into battle himself if he were younger. He worships Ulfric as if he's Talos' second coming. 
+Not a good place for elves. Or Imperials.
