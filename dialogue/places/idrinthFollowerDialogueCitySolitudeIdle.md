@@ -14,7 +14,8 @@
 - The Blue Palace looks more beautiful than Ysgramor's palace in Windhelm.
 - Ah, Solitude, home of the cursed Wolf Queen.
 - The Thalmor have their headquarters right here, close to Castle Dour.
-- The Gray March onse razed the city.
+- The Gray March once razed the city.
 - Pelagius III. was king of Solitude before becoming the Mad Emperor.
 - It feels a bit like Cyrodiil. Except for the cold.
 - Solitude is a lot more gleeful than one might expect.
+- Many suspect Taarie and Endarie to be Thalmor spies. I do not.
