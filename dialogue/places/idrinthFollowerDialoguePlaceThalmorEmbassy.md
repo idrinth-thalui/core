@@ -1,3 +1,4 @@
 - Can't say I'm among friends here.
-- Trinimac, give me the strenght to stay calm.
+- Trinimac, give me the strength to stay calm.
 - My blood boils for their blood.
+- Traitors to your ancestors.
