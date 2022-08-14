@@ -2,3 +2,5 @@
 - I like the forest, it'll be good hunting here.
 - This city was considered part of Cyrodiil for a long time.
 - I hope you are not picking a grave for us on the heroes' graveyard.
+- Too many graves...and so many of them fresh.
+- I guess everyone living here develops a gloomy humour.
