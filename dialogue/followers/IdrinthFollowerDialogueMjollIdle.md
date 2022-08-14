@@ -3,7 +3,7 @@
 - You're putting honour first, like a true Nord should be. Most do not.
 - Care for some sparring? I can teach you a few moves.
 - Venturing into a Dwemer ruin alone - that was brave. And foolish.
-- Soo.. Aerin saved you. Quite the tale.
+- So...Aerin saved you. Quite the tale.
 - You wield a fine blade. May it last longer than my glass sword.
 - You're very tolerant towards other races. A rare trait for Nords, and a welcomed one.
 - If you'd be an Altmer, you would make a fine warrior of Trinimac.
