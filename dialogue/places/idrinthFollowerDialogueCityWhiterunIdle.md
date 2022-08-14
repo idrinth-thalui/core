@@ -11,13 +11,15 @@
 - Better not show your face in the Huntsman after killing Elrindir's brother.
 - Arcadia sells potions and ingredients. And is very keen on detecting illnesses. Last time she told me I had droops.
 - Belethor buys and sells everything. I'm not sure he's joking about his sister.
+- If you tell me Belethor is an Ayleid, I would believe it.
 - Farengar, the court mage, sells scrolls and soul gems he doesn't need.
 - Anoriath truly is a good hunter.
 - Last time Camilla's daughter Mila took over the stand for a while. It was refreshing to buy goods from the young lady.
 - Ah, the Gray-Manes. Many of them were the Skyforge's smiths.
 - Eorlund keeps his best weapons and armour for the Companions.
-- Ancient rumors says that Kyne took over the Skyforge from Trinimac, as the Thrice-cursed felled him. Explains why the Snow Elves feared it.
-- Kyne has imprisoned an ancient evil beneath her fangs, ancient stories go.
+- Ancient rumours says that Kyne took over the Skyforge from Trinimac, as the Thrice-cursed felled him. Explains why the Snow Elves feared it.
+- Kyne has imprisoned an age-old evil beneath her fangs, ancient stories go.
+- Is the Skyforge's guardian a hawk or an eagle?
 - Fralia is a kind soul towards everyone. She always treated me with the same respect as her fellow Nords.
 - The Bannered Mare has always a free room to spare.
 - The temple of Kynareth is a good place to meditate. And you don't hear Heimskr.
