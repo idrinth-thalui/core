@@ -5,5 +5,5 @@
 - A nice city, but somehow too calm and quiet.
 - The Jarl here is special, her whole family is.
 - Lami is quite versed in alchemy, be sure to browse her shop from time to time.
-- Falion has a shop here, if you're looking for new scrolls or books. 
+- Falion has a shop here, if you're looking for new scrolls or books.
 - I may not like Falion, but he'll buy those surplus staves off you.
