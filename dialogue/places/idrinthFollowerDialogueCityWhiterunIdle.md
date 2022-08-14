@@ -4,7 +4,7 @@
 - Ah, what a heartbreaking sight. I remember the Gildergreen in full bloom.
 - A good thing you restored the Gildergreen. Brightens the whole city.
 - From death comes life. A good choice you made. I look forward seeing the sapling grew to old beauty.
-- Surrounded by farms an good hunting grounds. You'll always find fresh food here.
+- Surrounded by farms and good hunting grounds. You'll always find fresh food here.
 - Adrianne is an excellent blacksmith.
 - Adrianne is an excellent blacksmith. But the Nords only see Proventus' daughter in her.
 - Ah, the Drunken Huntsman. A cozy little place to spend the evening. And get hunting equipment.
