@@ -1,5 +1,5 @@
 - She's Falion's sister. And the nicer one of the siblings.
 - Her heart is indeed big if she let Lurbuk stay in her inn.
 - She believes her brother would do no harm to Morthal. May she be right.
-- She always keeps a bottle of Alto wine stashed away for me. 
-- She deserves a nicer place to live in than a foggy swamp. 
+- She always keeps a bottle of Alto wine stashed away for me.
+- She deserves a nicer place to live in than a foggy swamp.
