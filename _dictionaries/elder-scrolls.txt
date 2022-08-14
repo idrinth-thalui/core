@@ -278,3 +278,6 @@ Vignar's
 Whiterun's
 Hulda
 Hulda's
+Bannered
+Ayleid
+Ayleids
