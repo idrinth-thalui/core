@@ -40,4 +40,3 @@ furball
 Yeech
 skald
 skalds
-cozy
