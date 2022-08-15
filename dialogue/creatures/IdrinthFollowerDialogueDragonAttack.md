@@ -4,3 +4,6 @@
 - Fall, servant of Alduin!
 - For the glory of Trinimac!
 - I do not fear your fire!
+- Die dragon!
+- I'll feast on your blood, lizard!
+- Back to your makers, Dova!
