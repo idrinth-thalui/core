@@ -6,4 +6,4 @@
 - I do not fear your fire!
 - Die dragon!
 - I'll feast on your blood, lizard!
-- Back to your makers, Dova!
+- Back to your makers, Dovah!
