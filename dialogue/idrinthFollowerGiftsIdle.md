@@ -16,4 +16,4 @@
 ## Alto Vine
 
 - Thank you for the vine, I'll enjoy it.
-- It's weird, that you would part with a good vintage like this!
+- It's weird that you would part with a good vintage like this!
