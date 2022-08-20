@@ -80,4 +80,3 @@
 - Foxes are kind, they'll show you interesting locations.
 - Good to have you fighting at my side.
 - I'd rather walk behind you, can't trust your aim.
-- 
