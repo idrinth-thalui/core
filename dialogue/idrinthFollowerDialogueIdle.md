@@ -73,3 +73,16 @@
 - You did well!
 - I wonder how the world would have been without the Oblivion Crisis...better maybe?
 - If the ancient Nord and Falmer wouldn't have clashed, we might have had a long peace...
+- Wisps are harmless if left alone. Poor innocent souls...
+- Farmers offer painted cows to the giants of Skyrim to live in peace with them.
+- Most mammouths and giants don't attack if you sheate your weapons and walk slowly around them.
+- Wispmothers are the remnants of Snow Elven women who tried to save their children and themselves from the Atmorans by magic rituals. They did not succeed.
+- Slaughterfish are a nuisance. They even follow you on land.
+- Most rocks near rivers and ponds are mudcrabs.
+- Isn't the sky beautiful today?
+- You can get droops from ash hoppers.
+- If you stumble upon a small pond, check for fish in it. Or hunt the dragonflies.
+- You find the most honey in the Rift - and the most bears.
+- You can see the Red Mountain from Solstheim.
+- Atmora was once home of Auri-El - Altmora, the Elder Wood.
+- Sometimes I wonder how many Snow Elven skeletons are buried in the walls of Windhelm. Then again, I don't want to know...
