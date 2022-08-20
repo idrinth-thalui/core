@@ -75,7 +75,7 @@
 - If the ancient Nord and Falmer wouldn't have clashed, we might have had a long peace...
 - Wisps are harmless if left alone. Poor innocent souls...
 - Farmers offer painted cows to the giants of Skyrim to live in peace with them.
-- Most mammouths and giants don't attack if you sheate your weapons and walk slowly around them.
+- Most mammoths and giants don't attack if you sheath your weapons and walk slowly around them.
 - Wispmothers are the remnants of Snow Elven women who tried to save their children and themselves from the Atmorans by magic rituals. They did not succeed.
 - Slaughterfish are a nuisance. They even follow you on land.
 - Most rocks near rivers and ponds are mudcrabs.
