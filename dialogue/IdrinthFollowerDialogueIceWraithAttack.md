@@ -1,0 +1,6 @@
+- No more hiding in snowdrifts, pesky icesnake!
+- I can hear you, icebrain!
+- Stop slithering around in the snow!
+- You want me to hit you with a torch?
+- Trinimac, that icy bite stings!
+- Ouch! Frosty bite!
