@@ -1,5 +1,5 @@
-- No more hiding in snowdrifts, pesky icesnake!
-- I can hear you, icebrain!
+- No more hiding in snowdrifts, pesky ice snake!
+- I can hear you, ice brain!
 - Stop slithering around in the snow!
 - You want me to hit you with a torch?
 - Trinimac, that icy bite stings!
