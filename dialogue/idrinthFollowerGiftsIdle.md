@@ -13,3 +13,7 @@
 - Thank you for taking care of my hunger.
 - I appreciate the gesture, thank you!
 
+## Alto Vine
+
+- Thank you for the vine, I'll enjoy it.
+- It's weird, that you would part with a good vintage like this!
