@@ -3,3 +3,6 @@
 - Trinimac, lend me your strengh!
 - Burn in Oblivion!
 - By the Paragon, begone you walking campfire!
+- Just looking like a female won't stop me killing you!
+- Know your place, fire harlot!
+- Do I look like a callow conjurer? Your looks don't entice me!
