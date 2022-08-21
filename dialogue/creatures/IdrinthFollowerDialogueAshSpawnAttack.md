@@ -2,5 +2,5 @@
 - Stay dead, restless soul!
 - Trinimac, you're dirtying my blade!
 - I hate hot ash! *cough*
-- Where did you come from? 
+- Where did you come from?
 - Die this time!
