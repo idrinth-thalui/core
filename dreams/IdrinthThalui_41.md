@@ -1,3 +1,3 @@
-You walk through the ruins of a destroyed Altmer village. A terrible battle took place here. Under thr debris you hear a faint cry for help. You start to dig
+You walk through the ruins of a destroyed Altmer village. A terrible battle took place here. Under the debris you hear a faint cry for help. You start to dig
 through the rubble. Two boys, looking alike, stare at you trembling with fear. No, they stare *behind* you...
 You awake with a scream.
