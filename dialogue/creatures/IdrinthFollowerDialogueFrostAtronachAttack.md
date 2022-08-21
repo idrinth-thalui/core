@@ -2,5 +2,5 @@
 - By Trinimac, shatter to pieces!
 - Come and face me, walking glacier!
 - I will carve you into ice cubes!
-- Not only Nords are frost resistent!
+- Not only Nords are frost resistant!
 - Melt in Oblivion!
