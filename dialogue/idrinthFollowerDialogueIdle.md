@@ -73,7 +73,7 @@
 - You did well!
 - I wonder how the world would have been without the Oblivion Crisis...better maybe?
 - If the ancient Nord and Falmer wouldn't have clashed, we might have had a long peace...
-- I'd prefer you not hunting deers if you're not hungry.
+- I'd prefer you not hunting deer if you're not hungry.
 - Rabbits! They're everywhere! Where do they all come from?
 - Dunmer rather eat a horse than ride it.
 - Be careful around chicken. I killed one once by accident. Guards went after me as if I just assassinated the Emperor.
