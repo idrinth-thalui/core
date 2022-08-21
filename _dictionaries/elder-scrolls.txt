@@ -6,6 +6,8 @@ Dau
 Dovah
 Molag
 Bal
+Moonsugar
+Skooma
 Sovengard
 Draugr
 Stuhn
@@ -288,3 +290,7 @@ Hulda's
 Bannered
 Ayleid
 Ayleids
+Wispmothers
+Slaughterfish
+Atmora
+Altmora
