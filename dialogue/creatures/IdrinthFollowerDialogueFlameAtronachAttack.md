@@ -1,0 +1,5 @@
+- You dare throwing fireballs at me, daedric scum?
+- Your fire won't stop me from sending you back to Oblivion!
+- Trinimac, lend me your strengh!
+- Burn in Oblivion!
+- By the Paragon, begone you walking campfire!
