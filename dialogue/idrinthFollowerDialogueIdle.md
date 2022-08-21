@@ -80,3 +80,9 @@
 - Foxes are kind, they'll show you interesting locations.
 - Good to have you fighting at my side.
 - I'd rather walk behind you, can't trust your aim.
+- Met a conjurer once. tried to get too close to his flame atronach. Got burned.
+- Some flame atronachs act like ladies of the night. Daedra! All crazy!
+- Frost atronachs - animated walking ice brains.
+- Ever been attacked by a walking ice wall?
+- Storm atronachs - no nice enemies for mages.
+- Never trust the daedra.
