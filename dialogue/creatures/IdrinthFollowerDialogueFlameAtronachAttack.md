@@ -1,4 +1,4 @@
-- You dare throwing fireballs at me, daedric scum?
+- You dare throw fireballs at me, daedric scum?
 - Your fire won't stop me from sending you back to Oblivion!
 - Trinimac, lend me your strenght!
 - Burn in Oblivion!
