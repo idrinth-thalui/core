@@ -27,3 +27,8 @@
 
 - Ah, some fine liquor, I'll have it with dinner!
 - Not my favourite, but I'll enjoy the mead none the less.
+
+## Stamina Potion
+
+- Oh, very nice. More endurance will help.
+- I'll use that for sure!
