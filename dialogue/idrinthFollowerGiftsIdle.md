@@ -17,3 +17,13 @@
 
 - Thank you for the vine, I'll enjoy it.
 - It's weird that you would part with a good vintage like this!
+
+## Healing Potion
+
+- I'm grateful you want to keep me alive!
+- I'll return the favor soon!
+
+## Mead
+
+- Ah, some fine liquor, I'll have it with dinner!
+- Not my favourite, but I'll enjoy the mead none the less.
