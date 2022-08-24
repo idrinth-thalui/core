@@ -32,3 +32,8 @@
 
 - Oh, very nice. More endurance will help.
 - I'll use that for sure!
+
+## Magicka Potion
+
+- Ah, extra magicka, let me know when you need healing!
+- Perfect, now I can heal even longer!
