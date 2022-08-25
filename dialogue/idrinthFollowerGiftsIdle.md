@@ -37,3 +37,8 @@
 
 - Ah, extra magicka, let me know when you need healing!
 - Perfect, now I can heal even longer!
+
+## Dwarven Crossbow
+
+- A fine weapon, but you can use it more than me!
+- Not something I'd use, but it's well made. Why don't you keep it?
