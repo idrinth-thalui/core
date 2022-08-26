@@ -9,6 +9,7 @@ Bal
 Moonsugar
 Skooma
 Sovengard
+Magicka
 Draugr
 Stuhn
 draugr
@@ -294,3 +295,5 @@ Wispmothers
 Slaughterfish
 Atmora
 Altmora
+skeever
+skeever's
