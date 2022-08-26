@@ -9,6 +9,7 @@ Bal
 Moonsugar
 Skooma
 Sovengard
+Magicka
 Draugr
 Stuhn
 draugr
