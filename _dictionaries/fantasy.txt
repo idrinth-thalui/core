@@ -41,3 +41,6 @@ furball
 Yeech
 skald
 skalds
+gryphon
+gryphons
+gryphon's
