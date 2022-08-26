@@ -21,7 +21,7 @@
 ## Healing Potion
 
 - I'm grateful you want to keep me alive!
-- I'll return the favor soon!
+- I'll return the favour soon!
 
 ## Mead
 
