@@ -1,0 +1,3 @@
+You sneak out of the house. In the starlight you see a shadow under the wisteria arch. It is her, waiting for you. With a sheepish grin you give her the roses
+you nicked from the garden, and she kisses you. A shooting star falls down, and you wish this night will never end.
+You wake up sad.
