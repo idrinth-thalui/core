@@ -1,5 +1,3 @@
-You race with your siblings to your aunt's house. You can already smell the roast pig, and can't wait for the honey pudding and clarified coffee you're allowed to drink
-at New Life Festival. Small gifts are laying beside your plate, and you squeal with joy as you unwrap the silk cloak you'll wear for the next Parade of the Paragons.
-You awake filled with joy
+You race with your siblings to your aunt's house. You can already smell the roast pig, and can't wait for the honey pudding and clarified coffee you're allowed to drink at New Life Festival. Small gifts are laying beside your plate, and you squeal with joy as you unwrap the silk cloak you'll wear for the next Parade of the Paragons. You awake filled with joy.
 
 Limit to: Altmer
