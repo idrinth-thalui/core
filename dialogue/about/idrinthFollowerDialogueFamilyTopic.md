@@ -14,3 +14,5 @@
 - I never had children, just never had the chance to get any.
 - My love for Chimer cuisine is based on my family. My former wife was a good cook. Now Dunmer cuisine is the closest it gets.
 - My brother rose far in military ranks in a short time. He profited a lot from the ones turned to Orsimer leaving.
+- My family still exists, but I doubt they want anything to do with me officially. Some are Thalmor, but the leaders at least see me as a black sheep of the family. That is why I won't give out my house name, no reason to endanger them further.
+- I'm glad that there seems to be light in my family, hope. They are in a dark place now, but they'll survive, they always have.
