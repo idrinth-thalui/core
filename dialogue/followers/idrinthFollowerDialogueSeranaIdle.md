@@ -8,3 +8,5 @@
 - Nice snowfall, not too heavy. You want to be in a cave now, right, Serana?
 - You know, some fresh blood in your veins would do you good, Serana!
 - I wonder, how much have you really seen in your unlife?
+- You should have a look at dunmeri drinks, Serana, they have a taste unlike most others!
+- I recognise the style of your castle home, has been a while since that was popular...
