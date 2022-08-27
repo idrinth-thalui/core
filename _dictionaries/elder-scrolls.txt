@@ -3,9 +3,15 @@ Kodlak
 daedra-loving
 Baar
 Dau
+Dovah
 Molag
+dunmeri
 Bal
+Moonsugar
+atronachs
+Skooma
 Sovengard
+Magicka
 Draugr
 Stuhn
 draugr
@@ -287,3 +293,9 @@ Hulda's
 Bannered
 Ayleid
 Ayleids
+Wispmothers
+Slaughterfish
+Atmora
+Altmora
+skeever
+skeever's
