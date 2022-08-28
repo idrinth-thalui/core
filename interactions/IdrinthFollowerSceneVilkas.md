@@ -6,15 +6,15 @@ V: I suppose you have another question?
 
 I: Yes. Farkas mentioned you know a lot about Jorrvaskr's history?
 
-V: I know our history almost as well as Vignar. What do you want?
+V: I know our history almost as well as Vignar. What do you want to know?
 
 I: Do you know the origin of the Skyforge? I heard ancient legends saying it was made by Trinimac -or Auri-El, blocking an ancient evil.
 
-V: The original Companions came here. They saw the Skyforge. They saw the elves don't like it, so they stayed. Strange. Never thought of it why.
+V: The original Companions came here. They saw the Skyforge. They saw the Elves don't like it, so they stayed. Strange. Never thought of it why the Elves feared it.
 
 I: I always thought it was a golden eagle, not a hawk.
 
-V: Who knows what dead god forged it?
+V: Who knows what dead god forged it? All the Elves knew was that is was older than them settling in Skyrim.
 
 
 ## Scene 2 (Money, money)
@@ -29,9 +29,15 @@ V: Wherever someone in Skyrim doesn't feel up to defending their own honor, we'l
 
 I: And where lies your honour in this?
 
-V: There are always good reasons to fight. Look at the esteemed company before you. A bunch of happy pups. Lots of mead. No going into a fight on an empty stomach.
-   Gold saves most problems.
+V: There are always good reasons to fight. Look at the esteemed company before you. A bunch of happy pups. Lots of mead drunk. No going into a fight on an empty
+   stomach. Wounds to tend. And the Civil War takes a toll on all of Skyrim's citizens. Gold saves most problems.
+   
+I: So you're saying...
+
+V: Many children lost their parents. Many farms deserted. We Companions vowed to protect Skyrim and her people.
    
 I: I see. Being Master at Arms holds more responsibility than I thought.
 
 V: Yes. So try to show some respect.
+
+I: Honour to you. (bows)
