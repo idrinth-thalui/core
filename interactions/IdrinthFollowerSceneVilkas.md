@@ -10,7 +10,7 @@ V: I know our history almost as well as Vignar. What do you want to know?
 
 I: Do you know the origin of the Skyforge? I heard ancient legends saying it was made by Trinimac -or Auri-El, blocking an ancient evil.
 
-V: The original Companions came here. They saw the Skyforge. They saw the Elves don't like it, so they stayed. Strange. Never thought of it why the Elves feared it.
+V: The original Companions came here. They saw the Skyforge. They saw the Elves don't like it, so they stayed. Strange. Never thought of why the Elves feared it.
 
 I: I always thought it was a golden eagle, not a hawk.
 
