@@ -10,7 +10,7 @@ Bal
 Moonsugar
 atronachs
 Skooma
-Sovengard
+Sovngard
 Magicka
 Draugr
 Stuhn
@@ -302,3 +302,5 @@ Altmora
 skeever
 skeever's
 Dunmeri
+Skyforge
+Skyforge's
