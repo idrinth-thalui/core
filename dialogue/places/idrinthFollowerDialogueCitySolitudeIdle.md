@@ -20,3 +20,4 @@
 - Solitude is a lot more gleeful than one might expect.
 - Many suspect Taarie and Endarie to be Thalmor spies. I do not.
 - The Imperial army is headquartered here. A strange choice if you ask me.
+- This city is relatively easy to defend, just one way up the mountain.
