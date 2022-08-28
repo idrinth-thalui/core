@@ -19,3 +19,4 @@
 - It feels a bit like Cyrodiil. Except for the cold.
 - Solitude is a lot more gleeful than one might expect.
 - Many suspect Taarie and Endarie to be Thalmor spies. I do not.
+- The Imperial army is headquartered here. A strange choice if you ask me.
