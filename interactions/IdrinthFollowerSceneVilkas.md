@@ -29,11 +29,11 @@ V: Wherever someone in Skyrim doesn't feel up to defending their own honour, we'
 I: And where lies your honour in this?
 
 V: There are always good reasons to fight. Look at the esteemed company before you. A bunch of happy pups. Lots of mead drunk. No going into a fight on an empty stomach. Wounds to tend. And the Civil War takes a toll on all of Skyrim's citizens. Gold saves most problems.
-   
+
 I: So you're saying...
 
 V: Many children lost their parents. Many farms deserted. We Companions vowed to protect Skyrim and her people.
-   
+
 I: I see. Being Master at Arms holds more responsibility than I thought.
 
 V: Yes. So try to show some respect.
