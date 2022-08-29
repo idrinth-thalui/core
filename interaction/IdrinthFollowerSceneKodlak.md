@@ -10,7 +10,7 @@ K: Some prefer living as beasts. Others seek honour and glory. What is it you se
 
 I: I follow Trinimac, the Paragon of Auri-El. I seek to redeem myself. The things I have done in the past still haunt me. But I presume you know very well what I mean?
 
-K: Your question carries more weight than you know. Yes, lad, but it's no easy matter. Some may prefer to live as beasts, others crave the fellowship of their shield-siblings. Des the smell of blood excite you?
+K: Your question carries more weight than you know. Yes, lad, but it's no easy matter. Some may prefer to live as beasts, others crave the fellowship of their shield-siblings. Does the smell of blood excite you?
 
 I: I can control myself. I'm not a beast anymore than you are.
 
