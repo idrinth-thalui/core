@@ -1,4 +1,4 @@
-##  Scene 1
+## Scene 1
 
 I: So you are the current Harbinger?
 
