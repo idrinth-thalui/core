@@ -1,7 +1,3 @@
-
-
-
 Graxifalas apraxic
-
 
 O.
