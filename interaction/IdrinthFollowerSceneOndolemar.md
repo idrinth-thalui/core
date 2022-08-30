@@ -6,7 +6,7 @@ I: As charming as ever, Ondolemar. What's a superior bred mer like you doing her
 
 O: It's a necessary part of my job. I lead the Justiciars to root out the Talos heresy, and I'm here to make sure the Jarl of Markarth remembers that.
 
-I: I heard about your promotion after you manage to return most of your unit from Naarifin's failured attempt of sacrificing the Imperial City to the Thrice-Cursed.
+I: I heard about your promotion after you manage to return most of your unit from Naarifin's failed attempt of sacrificing the Imperial City to the Thrice-Cursed.
    I do presume congratulations are in order? Oh wait, I heard your son and grandson didn't make it...Naarifin got them.
 
 O: How dare you to speak of them in such a disgusting manner! I'd kill you where you stand if I wasn't bound by my oath as an officer of the Aldmeri Dominion!
