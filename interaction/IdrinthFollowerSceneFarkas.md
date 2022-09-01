@@ -52,7 +52,7 @@ F: It shall be so.
 
 ## Scene 3 (Control)
 
-I: Soo, I guess our mutual friend knows about your little secret, too. I must say, I find your level of self control over your lycanthropic nature commendable.
+I: So, I guess our mutual friend knows about your little secret, too. I must say, I find your level of self control over your lycanthropic nature commendable.
 
 F: Huh?
 
