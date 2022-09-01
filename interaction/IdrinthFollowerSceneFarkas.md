@@ -49,3 +49,19 @@ F: I see. Thoughts of the hunt in your mind, too.
 I: The dead we cannot make alive again. But maybe one day Mer and Men could live together in peace?
 
 F: It shall be so.
+
+## Scene 3 (Control)
+
+I: Soo, I guess our mutual friend knows about your little secret, too. I must say, I find your level of self control over your lycanthropic nature commendable.
+
+F: Huh?
+
+I: You're good at staying calm. And not change in every battle. I know how hard it is, when the smell of blood...
+
+F: Yeah. Blood runs hot. The beast wants to hunt. A warrior should feel alive and aware.
+
+I: I guess you changed on purpose in Dustman's Cairn?
+
+F: Um...you like skeever liver?
+
+I: I take that as a yes, Farkas...
