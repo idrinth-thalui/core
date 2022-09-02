@@ -77,3 +77,6 @@ nav ul ul li {
 nav li li li {
   float: none;
 }
+img {
+    max-width: 100%;
+}
