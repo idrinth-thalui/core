@@ -1,6 +1,15 @@
-- This city's jarl is way too weak to rule. I hope he grows a backbone.
+- This city's Jarl is way too weak to rule. I hope he grows a backbone.
 - I like the forest, it'll be good hunting here.
 - This city was considered part of Cyrodiil for a long time.
 - I hope you are not picking a grave for us on the heroes' graveyard.
 - Too many graves...and so many of them fresh.
 - I guess everyone living here develops a gloomy humour.
+- The city's priest of Arkay is an old Altmer - not sure what to think of him.
+- Runil, the local priest, always watched me closely whenever I came by.
+- The local priest reminds me of a Thalmor battlemage who was in Sentinel during the Night of Green Fire...
+- I doubt I'd be welcome here if they found out what I am.
+- The general store's owner is a former Stormcloak. Was an interesting experience buying supplies from him. Once.
+- Solaf is the nicer of both brothers despite being a former Stormcloak.
+- The former Jarl honours the old ways of the Nords. He even bears them in his title of honour.
+- I fear the only ones liking me here are the innkeeper and the alchimist.
+- There are always dark powers trying to use the dead resting here for their evil schemes.
