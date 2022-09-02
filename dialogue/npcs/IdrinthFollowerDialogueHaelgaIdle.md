@@ -1,8 +1,8 @@
- - That woman has quite the taste for interesting men. Be careful around her.
- - That woman has quite the taste for interesting men. She'll see you as a potential rival.
- - Rumour says she's excessively worshipping Dibella.
- - She tried to entice me once. Wanted to show me her leather harness from Hammerfell. Xarxes' backside!
- - I'm not sure if the deity she follows isn't Sanguine in disguise.
- - I've met less ardent Daughters of Coldharbour.
- - I wonder how long the priests of Mara let her stay here.
- - Heard she was thrown out of Markarth. Makes you think...
+- That woman has quite the taste for interesting men. Be careful around her.
+- That woman has quite the taste for interesting men. She'll see you as a potential rival.
+- Rumour says she's excessively worshipping Dibella.
+- She tried to entice me once. Wanted to show me her leather harness from Hammerfell. Xarxes' backside!
+- I'm not sure if the deity she follows isn't Sanguine in disguise.
+- I've met less ardent Daughters of Coldharbour.
+- I wonder how long the priests of Mara let her stay here.
+- Heard she was thrown out of Markarth. Makes you think...
