@@ -46,3 +46,5 @@ gryphons
 gryphon's
 mudballs
 mudball
+lycantropy
+lycantropic
