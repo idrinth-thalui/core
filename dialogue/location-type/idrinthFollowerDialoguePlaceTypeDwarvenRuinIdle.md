@@ -2,4 +2,4 @@
 - My hapless cousins prowling these halls...heartbreaking.
 - These automatons are in remarkable good shape, given their age.
 - I wonder if the Dwemer can see what happened to their cities?
-- The dwemer were always strange to us Altmer, their technologie was so different.
+- The Dwemer were always strange to us Altmer, their technology was so different.
