@@ -322,7 +322,6 @@ Sload
 Vilod
 Vilod's
 Ulfric's
-
 Rorikstead
 Rorikstead's
 Lainalten
@@ -337,6 +336,4 @@ Sissel's
 Lemkil
 Lemkil's
 Jouane
-
 frostheart
-
