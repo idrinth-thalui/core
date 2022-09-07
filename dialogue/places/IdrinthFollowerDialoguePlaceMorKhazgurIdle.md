@@ -1,0 +1,13 @@
+- This is the oldest Orsimer settlement in Skyrim still in existence, though it has been destroyed and rebuild several times.
+- I remember this being a small city, long ago. Not much left of that.
+- I heard about this place being run over by Falmer, back in the days of the Vestige.
+- Back then, they did not bow to Nord rule. Guess some things never change.
+- Their mine was rich back in the early days, but then it dried up.
+- I wonder if they are still keen on alchemy in this stronghold?
+- Their mine still works. They must have pleased the Wrath of Trinimac.
+- Do they remember their oldest history? I'd like to hear it.
+- And as always, they won't see me as their blood kin. Orsimer can be frustrating at times.
+- You have to admire their resiliance. Though some call it stubbornness.
+- I knew a few people who'd been stupid enough to call an Orsimer a goblin to their face. Bad choice of words.
+- This was one of the Circle of Champions' fighting places, back in the Second Era. Never made it to any of the fights, though.
+- Maybe the Empire and the Stormcloaks should go back to old arena fights? Less straining on the land.
