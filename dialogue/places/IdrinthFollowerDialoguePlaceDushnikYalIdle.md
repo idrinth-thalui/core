@@ -6,7 +6,7 @@
 - Despite their inborn wrath, they still follow the ancient warrior codes of Trinimac. Though they won't like to admit it.
 - I wonder from time to time if any Orsimer I met stems from one of my lost family members?
 - If you are able to become blood-kin, they will defend you as one of their own.
-- *Sigh* Don't they realize I AM their kin by both blood and faith?
+- *Sigh* Don't they realise I AM their kin by both blood and faith?
 - Met their hunters while chasing down a rogue vampire. They sell their game off to Markarth.
 - They have their own orichalcum mine. Important for any stronghold.
-- Noone knows whether the old stronghold was released from Oblivion or they just rebuilt it.
+- No one knows whether the old stronghold was released from Oblivion or they just rebuilt it.
