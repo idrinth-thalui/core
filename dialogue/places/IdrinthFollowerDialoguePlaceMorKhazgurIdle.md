@@ -7,7 +7,7 @@
 - Their mine still works. They must have pleased the Wrath of Trinimac.
 - Do they remember their oldest history? I'd like to hear it.
 - And as always, they won't see me as their blood kin. Orsimer can be frustrating at times.
-- You have to admire their resiliance. Though some call it stubbornness.
+- You have to admire their resilience. Though some call it stubbornness.
 - I knew a few people who'd been stupid enough to call an Orsimer a goblin to their face. Bad choice of words.
 - This was one of the Circle of Champions' fighting places, back in the Second Era. Never made it to any of the fights, though.
 - Maybe the Empire and the Stormcloaks should go back to old arena fights? Less straining on the land.
