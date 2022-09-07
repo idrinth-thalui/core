@@ -5,7 +5,7 @@
 - Many humans think Orsimer are primitive. Well, humans didn't always live a safe life in great cities.
 - They seem harsh, but they keep their word.
 - They are my brethren by blood. Even if many Altmer do not want to hear that.
-- Why do you think they are called OrsiMER?
+- Why do you think they are called Orsimer?
 - Do not call them goblin-kin within earshot. It's a grave insult.
 - The Pariah Folk chose this name themselves. They are good at keeping grudges.
-- Most Orsimer you meet have never seen a real stronghold. 
+- Most Orsimer you meet have never seen a real stronghold.
