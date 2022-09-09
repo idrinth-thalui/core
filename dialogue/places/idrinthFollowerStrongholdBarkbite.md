@@ -1,0 +1,2 @@
+- The orsimer here are more similar to bosmer than to their Malakath following kin.
+- A young Stronghold, a friendly one. Let's hope it stands the test of time.
