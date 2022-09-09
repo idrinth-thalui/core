@@ -1,3 +1,7 @@
 - The Orsimer here are more similar to Bosmer than to their Malacath following kin.
 - A young Stronghold, a friendly one. Let's hope it stands the test of time.
 - They normally live in Valenwood. I presume they fled from the Thalmor.
+- Last time I saw Wood Orsimer was in Valenwood, nearly 500 years ago.
+- I heard that they forge most of the Bosmer's metal weapons.
+- When the Ayleids fled before the Alessian Order, they invaded several settlements of Wood Orcs and Bosmer.
+- I wouldn't be surprised if the Thalmor were driving them out of Valenwood systematically. They never liked Orsimer.
