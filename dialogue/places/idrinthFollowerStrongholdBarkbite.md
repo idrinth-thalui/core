@@ -1,2 +1,3 @@
-- The orsimer here are more similar to bosmer than to their Malakath following kin.
+- The Orsimer here are more similar to Bosmer than to their Malacath following kin.
 - A young Stronghold, a friendly one. Let's hope it stands the test of time.
+- They normally live in Valenwood. I presume they fled from the Thalmor.
