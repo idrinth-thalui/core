@@ -16,7 +16,7 @@ A: I'm the one asking the questions.
 
 I: I'm the one deciding whether I answer.
 
-A: Allow me to clarify the situation: It is my job to know things. My role here is advisor to the Arch-Mage and aided by knowing everything that transpires here.
+A: Allow me to clarify the situation: It is my job to know things. My role here is adviser to the Arch-Mage and aided by knowing everything that transpires here.
 
 I: If the Arch-mage wants to know why I'm here, he can ask me himself. No need to send his Thalmor spy.
 
