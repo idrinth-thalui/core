@@ -1,1 +1,1 @@
-- Thank the ancestors, a normal opponent! Die, spider!
+- Thank the ancestors, something I can hit with my blade! Die, spider!
