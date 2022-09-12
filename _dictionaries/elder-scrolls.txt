@@ -341,4 +341,5 @@ Jouane
 frostheart
 Bal's
 orichalcum
+magelight
 slaughterfish
