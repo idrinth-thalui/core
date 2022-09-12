@@ -1,0 +1,1 @@
+- Thank the ancestors, a normal opponent! Die, spider!
