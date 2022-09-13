@@ -1,0 +1,17 @@
+- Great, she is still following.
+- Make sure to search every corner, stars only knows what is needed to stop her.
+- At least she gives enough light.
+- This constant floating under the ice makes me uneasy.
+- Why do cursed apparitions never right up tell you what they want?
+- I hope she won't break through the ice.
+- This eerie light is sending shivers down my spine.
+- Trinimac grant me strenght. She won't leave us alone.
+- If that thrice damned Isidor didn't attack us, HE would be the one being followed. Shame that didn't happen.
+- I fear it will only get worse with her.
+- My sweet Arlinve...
+- May my ancestors not welcome me soon.
+- Jephre's knees, I'd prefer this to be a vampire lair. At least I won't get hungry too soon.
+- An underground Dwemer city and a cursed Chimer maiden following us under the ice - good times indeed.
+- Lorkhan take that wretched soul!
+- This is the most awkward light any Altmer in history ever had to light his way.
+- Our friend still following? Ah, yes, she is.
