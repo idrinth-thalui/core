@@ -48,3 +48,5 @@ mudballs
 mudball
 lycantropy
 lycantropic
+warhorn
+warhorns
