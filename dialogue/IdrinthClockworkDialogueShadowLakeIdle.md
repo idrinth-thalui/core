@@ -5,7 +5,7 @@
 - Why do cursed apparitions never right up tell you what they want?
 - I hope she won't break through the ice.
 - This eerie light is sending shivers down my spine.
-- Trinimac grant me strenght. She won't leave us alone.
+- Trinimac grant me strength. She won't leave us alone.
 - If that thrice damned Isidor didn't attack us, HE would be the one being followed. Shame that didn't happen.
 - I fear it will only get worse with her.
 - My sweet Arlinve...
