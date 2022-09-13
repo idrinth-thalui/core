@@ -5,3 +5,7 @@
 - I'll grind you into bone meal!
 - Another bloodless target!
 - Should have stayed dead!
+- Oblivion take you!
+- Die for good!
+- TRINIMAC!
+- Stop pestering me!
