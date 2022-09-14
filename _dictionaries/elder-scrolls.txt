@@ -344,3 +344,4 @@ orichalcum
 magelight
 slaughterfish
 Mannimarco
+Sheogorath
