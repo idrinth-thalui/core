@@ -345,3 +345,4 @@ magelight
 slaughterfish
 Mannimarco
 Sheogorath
+Zenithar
