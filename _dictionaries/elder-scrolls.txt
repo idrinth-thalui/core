@@ -346,3 +346,5 @@ slaughterfish
 Mannimarco
 Sheogorath
 Zenithar
+steamworks
+Nchuand-Zel
