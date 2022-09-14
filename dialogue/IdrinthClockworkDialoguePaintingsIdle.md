@@ -1,13 +1,13 @@
- - Quite impressive.
- - I vaguely remember seeing that in High Rock.
- - Not quite like Altmer painters, but... pleasing to the eye.
- - Interesting choice.
- - Not what I would put here...
- - Striving harmony with each brush stroke. Commendable.
- - I remember a moment like this...
- - I saw that somewhere else before.
- - This painter? Must have costed a fortune.
- - I like the colour composition.
- - That one is a rework of an Altmer painting.
- - Hey! My parents had a similar painting! From another painter, of course. More talented.
- - That one is clearly a fake, you can see it by the way the brush was placed... What? Surprised I know other things than fighting?
+- Quite impressive. 
+- I vaguely remember seeing that in High Rock.
+- Not quite like Altmer painters, but... pleasing to the eye.
+- Interesting choice.
+- Not what I would put here...
+- Striving harmony with each brush stroke. Commendable.
+- I remember a moment like this...
+- I saw that somewhere else before.
+- This painter? Must have costed a fortune.
+- I like the colour composition.
+- That one is a rework of an Altmer painting.
+- Hey! My parents had a similar painting! From another painter, of course. More talented.
+- That one is clearly a fake, you can see it by the way the brush was placed... What? Surprised I know other things than fighting?
