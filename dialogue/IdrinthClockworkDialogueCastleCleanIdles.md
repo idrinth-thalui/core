@@ -1,0 +1,10 @@
+- Ah, no cobwebs anymore. What a relief.
+- So that's the original colour? Interesting.
+- Even the windows are clean. Impressive.
+- Lahar truly is meticulous when he has a task.
+- No dust anymore. Good.
+- Ah, the scent of freshly-scrubbed furniture...
+- He aired out the drapes. I'm impressed.
+- The tapestries are fixed again.
+- Now it looks like a proper trade baron castle.
+- *sniff* Fresh linen! No more beds full of dust and dead spiders!
