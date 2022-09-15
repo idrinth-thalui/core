@@ -1,8 +1,6 @@
 files:
 - '**/*.md'
 - '!**/node_modules/**/*.md'
-- '!dialogue/idrinthFollowerDialogueGrunt.md'
-- '!dialogue/idrinthFollowerDialogueOutOfBreath.md'
 language: en-GB
 plugins:
 - spell
@@ -17,3 +15,4 @@ dictionaries:
 - _dictionaries/fantasy.txt
 - _dictionaries/idrinth.txt
 - _dictionaries/xelzaz.txt
+- _dictionaries/sounds.txt
