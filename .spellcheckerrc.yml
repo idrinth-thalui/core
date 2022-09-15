@@ -10,4 +10,4 @@ plugins:
 - repeated-words
 quiet: true
 dictionaries:
-- _dictionaries/*.txt
+- _dictionaries/
