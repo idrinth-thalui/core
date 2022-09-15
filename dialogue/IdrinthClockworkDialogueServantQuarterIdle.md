@@ -1,0 +1,5 @@
+- Nobles and rich merchants are alike: The least is good enough for the servants.
+- At least they have separate rooms for men and women.
+- This place must have been buzzling.
+- Surprisingly good beds. I've seen worse.
+- It's warmer here than in some Jarl's throne rooms.
