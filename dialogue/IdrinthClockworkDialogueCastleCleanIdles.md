@@ -8,3 +8,4 @@
 - The tapestries are fixed again.
 - Now it looks like a proper trade baron castle.
 - *sniff* Fresh linen! No more beds full of dust and dead spiders!
+- Wallpaper fixed properly. Much better now.
