@@ -1,4 +1,4 @@
-- Shame about the dirt everywhere. It looks very well organized.
+- Shame about the dirt everywhere. It looks very well organised.
 - Books sorted alphabetically. A rare sight for a private library.
 - Logical storage system. Pity about the dust.
 - This book shelve was infested by book worms. Looks like the spiders won the war. Yeech!
