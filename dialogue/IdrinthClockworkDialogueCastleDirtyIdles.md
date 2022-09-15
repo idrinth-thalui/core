@@ -7,3 +7,5 @@
 - Spider webs. Again. I hate spider webs.
 - Those paintings would look beutiful without the coat of dust on them.
 - With the lights on it looks even more desolate.
+- Peeling wallpaper everywhere... this place is slowly falling apart.
+- Great. Peeling wallpaper covered in cobwebs.
