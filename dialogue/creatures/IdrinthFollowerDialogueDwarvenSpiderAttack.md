@@ -1,0 +1,4 @@
+- Pesky steam-crawler!
+- Stop skitter around!
+- I'll smash you like a real spider!
+- Brass vermin!
