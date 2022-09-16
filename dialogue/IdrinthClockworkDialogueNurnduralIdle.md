@@ -8,3 +8,7 @@
 - Their geometry is interesting.
 - With our luck there'll be daedra lurking in the lava.
 - It could be quite restful here - if it weren't for the Gilded.
+- Impressive architecture.
+- I wonder whether the Gilded here are just plain deranged or they recite some obscure Dwemer philosophy mantras?
+- Now this little corner is just lovely.
+- Dwemer - love them or hate them.
