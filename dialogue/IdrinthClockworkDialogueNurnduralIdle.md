@@ -1,0 +1,10 @@
+- This place goes on and on. I almost forgot how the stars look like.
+- I could swear we've been here before.
+- How deep down are we?
+- I'm amazed Skyrim hasn't caved in so far - there are more Dwemer tunnels beneath than are Nords above.
+- Normal automatons are one thing - these Gilded are really disturbing.
+- I just hope the Thalmor will never find out how the Gilded were built - they would love it.
+- Is it just me or is it getting hotter?
+- Their geometry is interesting.
+- With our luck there'll be daedra lurking in the lava.
+- It could be quite restful here - if it weren't for the Gilded.
