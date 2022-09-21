@@ -23,3 +23,7 @@
 - I'm glad the sun isn't shining, it can't be better.
 - Glad the rain is washing my armour clean!
 - Some snow is nice, it makes the landscape more beautiful.
+- I would love some proper wind now at least.
+- Let's hope Kyne stays happy now...
+- A few clouds wouldn't look too bad in the sky...
+- A bit warmer and we'd be drained already.
