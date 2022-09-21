@@ -1,2 +1,7 @@
 - A proud name for a little village!
 - I'm not sure why the Penitus Oculatus made their only outpost in Skyrim here.
+- I tend to pass through, the Penitus Oculatus is quite inquisitive about visitors.
+- Since it's the most convenient crossing of the Karth, Thalmor frequent the bridge quite often.
+- Was the bridge built in honour of the dragons or as a symbol of their defeat?
+- The was a magnificent shrine of Phynaster somewhere around here. I still remember that Snow Elf paragon describing it to me.
+- This bridge has seen a lot of skirmishes over the ages.
