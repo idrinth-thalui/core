@@ -14,7 +14,7 @@ I: I've been in courts like this before. Backstabbing without being seen is no a
 
 V: I wouldn't harm you, you are a guest of the court, not an enemy.
 
-I: I also wouldn't want to dishonour anyone. My weapons will remain sheathed while I'm under your and Lord Harmon's protection. Although killing me with kindness could take a while...
+I: I also wouldn't want to dishonour anyone. My weapons will remain sheathed while I'm under your and Lord Harkon's protection. Although killing me with kindness could take a while...
 
 V: I am just warning you, that others may not be as polite and civilised as I am.
 
