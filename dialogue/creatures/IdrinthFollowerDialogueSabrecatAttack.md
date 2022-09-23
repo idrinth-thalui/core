@@ -3,3 +3,5 @@
 - Your hunting days are over, kitty!
 - A good exercise killing you!
 - Your fangs don't impress me!
+- You're mine, kitty!
+- Oh, you want to see fangs?
