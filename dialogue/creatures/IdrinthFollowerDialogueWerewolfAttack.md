@@ -3,3 +3,5 @@
 - I'm no easy prey, Hunter of Hircine!
 - Do not make me fight you!
 - So you chose to die by my hand!
+- Be a good boy and sit!
+- Be a good girl and sit!
