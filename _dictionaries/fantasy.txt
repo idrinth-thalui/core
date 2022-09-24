@@ -5,6 +5,7 @@ Greatblade
 warcries
 hoofprints
 Warhammers
+glees
 axe
 lich
 Lich

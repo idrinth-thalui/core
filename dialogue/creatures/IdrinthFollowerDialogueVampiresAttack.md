@@ -3,3 +3,5 @@
 - Trinimac will enjoy your demise!
 - You prowled your last night!
 - To Coldharbour with you!
+- I will teach you to attack travellers!
+- No more blood for you!
