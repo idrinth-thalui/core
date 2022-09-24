@@ -1,3 +1,1 @@
-You stumble through the ruins of an Altmer village. A terrible battle has taken place. You hear a scream and run towards it. Altmer twin boys huddle together
-under an upturned cart, and a grown Altmer in hooded black robes towers above them. You can hear his feral snarl, as he leaps at the shrieking children...
-You awake, hands searching unconsciously for your weapon.
+You stumble through the ruins of an Altmer village. A terrible battle has taken place. You hear a scream and run towards it. Altmer twin boys huddle together under an upturned cart, and a grown Altmer in hooded black robes towers above them. You can hear his feral snarl, as he leaps at the shrieking children...You awake, hands searching unconsciously for your weapon.
