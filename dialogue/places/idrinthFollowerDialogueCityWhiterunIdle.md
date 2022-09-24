@@ -7,7 +7,7 @@
 - Surrounded by farms and good hunting grounds. You'll always find fresh food here.
 - Adrianne is an excellent blacksmith.
 - Adrianne is an excellent blacksmith. But the Nords only see Proventus' daughter in her.
-- Ah, the Drunken Huntsman. A cozy little place to spend the evening. And get hunting equipment.
+- Ah, the Drunken Huntsman. A cosy little place to spend the evening. And get hunting equipment.
 - Better not show your face in the Huntsman after killing Elrindir's brother.
 - Arcadia sells potions and ingredients. And is very keen on detecting illnesses. Last time she told me I had droops.
 - Belethor buys and sells everything. I'm not sure he's joking about his sister.
