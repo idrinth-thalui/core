@@ -1,6 +1,6 @@
 ## Dimhollow
 
-I: How are you after you rest? It would drive me insane to be locked up for hundreds of years.
+I: How are you after your rest? It would drive me insane to be locked up for hundreds of years.
 
 S: How would you know?
 
