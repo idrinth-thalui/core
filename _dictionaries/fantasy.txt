@@ -5,12 +5,14 @@ Greatblade
 warcries
 hoofprints
 Warhammers
+glees
 axe
 lich
 Lich
 Greatsword
 greatsword
 greatswords
+Dwarven
 elven
 lockpick
 vampiric
@@ -40,3 +42,12 @@ furball
 Yeech
 skald
 skalds
+gryphon
+gryphons
+gryphon's
+mudballs
+mudball
+lycantropy
+lycantropic
+warhorn
+warhorns
