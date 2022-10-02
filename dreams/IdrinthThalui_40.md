@@ -1,3 +1,1 @@
-You stand in the ruins of a destroyed house. Your nostrils twitch as you smell blood. You claw at the rubble blocking the basement trapdoor,
-forcing it open. Down below a group of children huddle together, and they start to scream as you approach. You bare your fangs and laugh...
-You awake in a cold sweat.
+You stand in the ruins of a destroyed house. Your nostrils twitch as you smell blood. You claw at the rubble blocking the basement trapdoor, forcing it open. Down below a group of children huddle together, and they start to scream as you approach. You bare your fangs and laugh...You awake in a cold sweat.
