@@ -73,3 +73,29 @@
 - You did well!
 - I wonder how the world would have been without the Oblivion Crisis...better maybe?
 - If the ancient Nord and Falmer wouldn't have clashed, we might have had a long peace...
+- Wisps are harmless if left alone. Poor innocent souls...
+- Farmers offer painted cows to the giants of Skyrim to live in peace with them.
+- Most mammoths and giants don't attack if you sheath your weapons and walk slowly around them.
+- Wispmothers are the remnants of Snow Elven women who tried to save their children and themselves from the Atmorans by magic rituals. They did not succeed.
+- Slaughterfish are a nuisance. They even follow you on land.
+- Most rocks near rivers and ponds are mudcrabs.
+- Isn't the sky beautiful today?
+- You can get droops from ash hoppers.
+- If you stumble upon a small pond, check for fish in it. Or hunt the dragonflies.
+- You find the most honey in the Rift - and the most bears.
+- You can see the Red Mountain from Solstheim.
+- Atmora was once home of Auri-El - Altmora, the Elder Wood.
+- Sometimes I wonder how many Snow Elven skeletons are buried in the walls of Windhelm. Then again, I don't want to know...
+- I'd prefer you not hunting deer if you're not hungry.
+- Rabbits! They're everywhere! Where do they all come from?
+- Dunmer rather eat a horse than ride it.
+- Be careful around chicken. I killed one once by accident. Guards went after me as if I just assassinated the Emperor.
+- Foxes are kind, they'll show you interesting locations.
+- Good to have you fighting at my side.
+- I'd rather walk behind you, can't trust your aim.
+- Met a conjurer once. tried to get too close to his flame atronach. Got burned.
+- Some flame atronachs act like ladies of the night. Daedra! All crazy!
+- Frost atronachs - animated walking ice brains.
+- Ever been attacked by a walking ice wall?
+- Storm atronachs - no nice enemies for mages.
+- Never trust the daedra.

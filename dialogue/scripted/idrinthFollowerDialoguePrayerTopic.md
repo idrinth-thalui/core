@@ -5,3 +5,5 @@
 - Trinimac, bless me, Idrinth, your faithful servant.
 - May your hand guide me, Trinimac!
 - Bless me, my lord!
+- Guide me with honour, Trinimac!
+- Honour be in thy name, Trinimac!

@@ -1,4 +1,4 @@
-# Overview ![Idrinth Thalui](assets/unknown-8.png)
+# Overview ![Idrinth Thalui](assets/Idrinth.png)
 
 Idrinth is an old vampire, who has at the very least witnessed the Oblivion Crisis personally. Besides harbouring a dislike for daedra, his main enemies are the Thalmor—who are, in his opinion, a destructive force that must be stopped before their damage to Tamriel is irreversible.
 

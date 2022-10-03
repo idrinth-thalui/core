@@ -1,8 +1,6 @@
 files:
 - '**/*.md'
 - '!**/node_modules/**/*.md'
-- '!dialogue/idrinthFollowerDialogueGrunt.md'
-- '!dialogue/idrinthFollowerDialogueOutOfBreath.md'
 language: en-GB
 plugins:
 - spell
@@ -10,8 +8,11 @@ plugins:
 - repeated-words
 quiet: true
 dictionaries:
+- _dictionaries/bowen.txt
+- _dictionaries/caryalind.txt
+- _dictionaries/clockwork.txt
 - _dictionaries/elder-scrolls.txt
 - _dictionaries/fantasy.txt
 - _dictionaries/idrinth.txt
-ignore:
-- Uff
+- _dictionaries/xelzaz.txt
+- _dictionaries/sounds.txt

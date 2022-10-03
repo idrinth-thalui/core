@@ -1,0 +1,7 @@
+- Stop tickling me!
+- My blade will break your stones!
+- Depleting my magic will not save you!
+- Storm back to Oblivion!
+- Trinimac, what a ruckus!
+- Be silent!
+- By the Paragon, I'll turn you into rubble!

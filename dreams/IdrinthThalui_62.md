@@ -1,0 +1,1 @@
+You and your love meet again under the wisteria arch. You embrace her, but then you hear your father's angry voice, calling you home. You turn and see him striding towards you, one hand readying a fireball. Your love gasps and runs away into the night. Your father reaches you and slaps you in the face. You glare at him and storm off to your room. You awake angrily.
