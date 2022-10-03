@@ -9,6 +9,7 @@ glees
 axe
 lich
 Lich
+lycanthropic
 Greatsword
 greatsword
 greatswords

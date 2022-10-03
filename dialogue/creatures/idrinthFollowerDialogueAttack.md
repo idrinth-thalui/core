@@ -2,3 +2,9 @@
 - Bleed for me!
 - For Trinimac!
 - Die, scum!
+- You are no match for me!
+- Feel my wrath!
+- No honour in killing you!
+- I'll put you down like a rabid skeever!
+- For the Paragon!
+- Trinimac guide my blade!
