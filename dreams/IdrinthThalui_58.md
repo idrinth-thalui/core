@@ -1,0 +1,1 @@
+You play around with a wooden sparring sword, your books forgotten under a tree. You see the beautiful girl watching you, and try to impress her with even more daring slashes. You stumble over a root, and hear her laugh. You look up, and she stands before you, holding out her hand to help you up. "My paragon...". You both blush, and she runs away. You wake up with a sigh.

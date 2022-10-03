@@ -5,6 +5,7 @@ Greatblade
 warcries
 hoofprints
 Warhammers
+glees
 axe
 lich
 Lich
@@ -48,3 +49,5 @@ mudballs
 mudball
 lycantropy
 lycantropic
+warhorn
+warhorns

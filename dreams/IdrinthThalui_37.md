@@ -1,0 +1,1 @@
+Having your eyes closed you hear a soft sound vibrating through your body. The moment it ends, a new sound replaces it. Continuing, the sounds lighten your mood. As you open your eyes you awake feeling happier than the evening before.

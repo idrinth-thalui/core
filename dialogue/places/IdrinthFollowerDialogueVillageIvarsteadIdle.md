@@ -2,3 +2,7 @@
 - Ivarstead was saved by the Vestige from an evil necromancer. By Trinimac, ever heard of a good necromancer?
 - This village reminds me of a cottage in the woods of Auridon, back when... *sigh*
 - I remember the village being larger. War has taken it's toll.
+- Most people coming here are hunters. Pilgrims are rare nowadays.
+- From what I can see, the legendary steps could use a rebuild.
+- Haven't seen a frostheart blossom in some time. The last I found was before the Oblivion Crisis.
+- Every time I come here, it seems more people have abandoned this village.
