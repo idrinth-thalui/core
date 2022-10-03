@@ -1,1 +1,5 @@
 - Helgen was always a favourite of mine, simple and strong.
+- After Ulfric's rebellion the Legion tripled their presence and instated battle mages. I visited sparsely since then.
+- I liked Vilod's mead with juniper berries.
+- Most of the people here I knew as children. They were used to see Altmer in the Legion and wanted me to play with them.
+- A terrible fate... may their souls find eternal rest.

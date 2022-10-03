@@ -1,3 +1,8 @@
 - A nice little village, I wish there were more of them.
 - Watching the stream from the jetty is relaxing.
 - Bleak Falls Barrow really towers over it. I wonder if that was intentional?
+- The innkeeper is quite the nosy one. Guess not everyone likes Altmer.
+- That feisty Breton sure has a problem with Altmer - she watches me all the time when I'm in the inn. I guess some bad memories.
+- The inn's cook has some interesting dishes, if you're feeling adventurous.
+- I'm rarely staying overnight, but the beds are good.
+- Good range of shops for a village this small.
