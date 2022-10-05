@@ -10,7 +10,7 @@ I: Interesting choice, Skyrim. Weren't most members of the Legion you killed fro
 
 O: The Empire exists because we allow it to exist. There is peace now, and it will continue as long as it serves our needs. Loyalty to the Emperor requires cooperation with the Thalmor.
 
-I: I heard about your promotion. You manage to return most of your unit from Naarifin's failed attempt of sacrificing the Imperial City to the Thrice-Cursed. I do presume congratulations are in order?
+I: I heard about your promotion. You managed to return most of your unit from Naarifin's failed attempt of sacrificing the Imperial City to the Thrice-Cursed. I do presume congratulations are in order?
    
 O: Oh, absolutely. We proved the superiority of Mer over Man.
 
