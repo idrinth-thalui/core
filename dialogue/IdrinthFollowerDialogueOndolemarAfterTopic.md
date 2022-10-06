@@ -6,4 +6,4 @@
 - Instead I believed the lies - because I wanted to. Ondolemar could have been one of our greatest leaders, yet he chose the Thalmor.
 - At least he still has his daughters and his wife  - though I believe they are the reason he volunteered for this post in Skyrim.
 - The marriage was ordered by the High Command to unite two noble bloodlines. I think he and Elenwen would make a more harmonic couple.
-- I wish I know a way to apologize... if there ever was a chance for us to become friends, today I destroyed all hope for that.
+- I wish I know a way to apologise... if there ever was a chance for us to become friends, today I destroyed all hope for that.
