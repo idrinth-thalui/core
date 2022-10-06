@@ -1,0 +1,9 @@
+- Auri-El strike me blind, I was beguiled by that Thalmor agent. Curse Rulindil's Breton rat!
+- I wrongfully assumed Ondolemar had a part in Naarifin's evil scheme, when in truth he was betrayed as well.
+- I saw the pain in his eyes, sensed his grief...I know only too well how he feels.
+- The information I got was from a Breton spy in the employment of Inquisitor Rulindil. I thought my questioning was thorough.
+- Rulindil and Ondolemar are known to hate each other. I should have verified the information ere confronting him.
+- Instead I believed the lies - because I wanted to. Ondolemar could have been one of our greatest leaders, yet he chose the Thalmor.
+- At least he still has his daughters and his wife  - though I believe they are the reason he volunteered for this post in Skyrim.
+- The marriage was ordered by the High Command to unite two noble bloodlines. I think he and Elenwen would make a more harmonic couple.
+- I wish I know a way to apologize... if there ever was a chance for us to become friends, today I destroyed all hope for that.
