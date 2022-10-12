@@ -1,2 +1,4 @@
-There's the forge. You do remember Lahar mentioning the possibility of forging new pipe replacements? Or do we have to search this entire complex?
-Personally, I'm torn between the urge for more fighting and the frustration of beating bloodless bone and brass.
+- There's the forge. You do remember Lahar mentioning the possibility of forging new pipe replacements? Or do we have to search this entire complex? Personally, I'm torn between the urge for more fighting and the frustration of beating bloodless bone and brass.
+- Excellent choice, using the lava for the smelter. Should melt down any Dwemer metal in no time.
+- The heat of the lava makes this forge very powerful. I wonder if the fires are hotter than those in the Skyforge?
+- Extreme heat can change metal. Maybe weapons and armour forged here have special abilities? Like the Scorched Hammer forge in Riften?
