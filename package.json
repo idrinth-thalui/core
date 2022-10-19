@@ -11,6 +11,6 @@
   "scripts": {
     "spelling": "spellchecker",
     "markdown": "markdownlint-cli2",
-    "duplicates": "nodejs microchecks/duplicate-names.js"
+    "duplicates": "node microchecks/duplicate-names.js"
   }
 }
