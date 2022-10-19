@@ -5,10 +5,10 @@ const filenames = {};
 function readDir(directory)
 {
     for (const file of readdirSync(directory, 'utf8')) {
-        if (file.match(/\.md$/)) {
+        if (file.match(/\.md$/i)) {
             filenames[file.toLowerCase()] = filenames[file.toLowerCase()] || 0;
             filenames[file.toLowerCase()]++;
-        } else if (lstatSync(`${directory}/${file}`).isDirectory()) {
+        } else if (file!=="node_modules" && lstatSync(`${directory}/${file}`).isDirectory()) {
             readDir(`${directory}/${file}`);
         }
     }
@@ -17,7 +17,7 @@ function readDir(directory)
 readDir(process.cwd());
 let error = false;
 for (const file of Object.keys(filenames)) {
-    if (filenames[file] > 1) {
+    if (filenames[file] > 1 && file!=="readme.md") {
         console.error(`${file} is used ${filenames[files]}x times.`);
         error = true;
     }
