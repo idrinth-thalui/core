@@ -1,5 +1,0 @@
-- I'm glad the sun isn't shining, it can't be better.
-- Could we get out of the sun?
-- Oh my, rain again.
-- Glad the rain is washing my armour clean!
-- Some snow is nice, it makes the landscape more beautiful.
