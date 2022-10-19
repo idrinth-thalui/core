@@ -1,6 +1,6 @@
 {
   "name": "@idrinth/idrinth-thalui",
-  "type": "module"
+  "type": "module",
   "dependencies": {
     "spellchecker-cli": "*",
     "retext-spell": "*",
