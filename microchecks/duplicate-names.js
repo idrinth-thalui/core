@@ -8,7 +8,7 @@ function readDir(directory)
         if (file.match(/\.md$/i)) {
             filenames[file.toLowerCase()] = filenames[file.toLowerCase()] || {files:[],count:0};
             filenames[file.toLowerCase()].count++;
-            filenames[file.toLowerCase()].files.push(`${directory}/${file}`.toLowerCase());
+            filenames[file.toLowerCase()].files.push(`${directory}/${file}`);
         } else if (file!=="node_modules" && lstatSync(`${directory}/${file}`).isDirectory()) {
             readDir(`${directory}/${file}`);
         }
