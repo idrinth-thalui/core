@@ -18,7 +18,7 @@ readDir(process.cwd());
 let error = false;
 for (const file of Object.keys(filenames)) {
     if (filenames[file] > 1 && file!=="readme.md") {
-        console.error(`${file} is used ${filenames[files]}x times.`);
+        console.error(`${file} is used ${filenames[file]}x times.`);
         error = true;
     }
 }
