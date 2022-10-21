@@ -1,3 +1,1 @@
-You are lost in the darkness. You stumble around, searching for something, anything to find. Your hands find a rough stone wall. Groping your way,
-you find yourself in a big circular room with no door to be felt, and the ground made of large, cut boulders. Then you feel something behind you...
-something big. Very big. You awake with a start.
+You are lost in the darkness. You stumble around, searching for something, anything to find. Your hands find a rough stone wall. Groping your way, you find yourself in a big circular room with no door to be felt, and the ground made of large, cut boulders. Then you feel something behind you...something big. Very big. You awake with a start.
