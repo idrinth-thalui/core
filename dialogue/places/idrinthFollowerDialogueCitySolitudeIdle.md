@@ -1,0 +1,23 @@
+- They really made something out of this mountain.
+- This city has a long history.
+- I worked in the harbour here a long time ago.
+- I enjoy visiting the Temple of the Divines here, maybe we could?
+- The Bards here are nothing compared to their ancestors, but still better than nothing.
+- Radiant Raiment is quite interesting. And the sisters are very kind - for Altmer seamstresses.
+- Fihada has all kinds of archery equipment. A rarity in Skyrim.
+- Angeline has changed her selection of goods since the civil war broke out. No need for fine perfumes anymore.
+- A city full of history. And dark secrets.
+- The Winking Skeever is always a good place to go.
+- Bits and Pieces lives up to it's name.
+- The blacksmith is often busy working for the Legion.
+- On the market place you find several food stalls.
+- The Blue Palace looks more beautiful than Ysgramor's palace in Windhelm.
+- Ah, Solitude, home of the cursed Wolf Queen.
+- The Thalmor have their headquarters right here, close to Castle Dour.
+- The Gray March once razed the city.
+- Pelagius III. was king of Solitude before becoming the Mad Emperor.
+- It feels a bit like Cyrodiil. Except for the cold.
+- Solitude is a lot more gleeful than one might expect.
+- Many suspect Taarie and Endarie to be Thalmor spies. I do not.
+- The Imperial army is headquartered here. A strange choice if you ask me.
+- This city is relatively easy to defend, just one way up the mountain.
