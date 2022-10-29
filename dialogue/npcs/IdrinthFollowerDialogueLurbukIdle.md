@@ -1,0 +1,7 @@
+- He's... very confident about his skills as a bard.
+- I heard worse. In a Dwemer ruin overrun with Falmer.
+- Trinimac preserve me...
+- Now there is one Orsimer I would be glad for to follow the path of Malacath.
+- He should stick to instruments.
+- I wonder with which Daedric Prince Lurbuk made a pact? Twenty septims on Clavicus Vile...
+- Ancestors, is that your punishment for my sins?
