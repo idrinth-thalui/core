@@ -1,0 +1,6 @@
+- I hope you find eternal peace, lost soul.
+- I did not kill your people, snow sister!
+- Don't make me hurt your children!
+- Trinimac, grant them eternal death!
+- I am not an Atmoran invader!
+- What vile magic twisted you like this?

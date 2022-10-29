@@ -1,0 +1,6 @@
+- The gift of clairvoyance runs in her family. It is wise to listen.
+- Many people fear those who can see beyond the veil. Especially simple farmfolk.
+- Not all visions will come true. She is a wise and cautious woman.
+- I'm curious what she will see in your future.
+- Her son seems to have inherited the gift, too.
+- Morthal is lucky to have her.

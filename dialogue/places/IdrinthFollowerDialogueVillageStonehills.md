@@ -1,0 +1,5 @@
+- This settlement already existed back in the days of Uriel VII.
+- A small yet persistent miner encampment.
+- I tend to pass by from time to time, oddly enough butterflies love the road leading here.
+- Miners are always a great source of rumours about nearby dangers. These are no exception.
+- This mine belongs to Bryling. She's one of Solitude's thanes. Seems like a capable person.
