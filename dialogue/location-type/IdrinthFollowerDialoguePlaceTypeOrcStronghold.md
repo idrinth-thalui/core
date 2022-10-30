@@ -4,3 +4,14 @@
 - The Orsimer chose this name themselves.
 - My grandfather had a brother. Priest of Trinimac. No one talks about him anymore.
 - I could literally be their blood-kin. Strange feeling...
+- If you're not blood kin, you're not welcome. Was different when many Orsimer still followed Trinimac.
+- Some so-called scholars claim Orsimer are a breed of goblins. The same ones that claim Falmer are ice goblins, too. Guess I'm a gold goblin, then.
+- Orsimer society sounds harsh to females, but without strong women a stronghold is lost.
+- Despite all wars they'd been trough, they preserved their way of living.
+- Many humans think Orsimer are primitive. Well, humans didn't always live a safe life in great cities.
+- They seem harsh, but they keep their word.
+- They are my brethren by blood. Even if many Altmer do not want to hear that.
+- Why do you think they are called Orsimer?
+- Do not call them goblin-kin within earshot. It's a grave insult.
+- The Pariah Folk chose this name themselves. They are good at keeping grudges.
+- Most Orsimer you meet have never seen a real stronghold.
