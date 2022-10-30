@@ -1,0 +1,2 @@
+- Still bloody - this prime steak will attract the stray dog in no time. Lod was always kind to animals, the stray will have a good master.
+- A good piece of meat. And you should not have bargained for a few coins in advance - doing a good deed is reward itself. Besides, Lod always keeps his word.
