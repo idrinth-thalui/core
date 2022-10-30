@@ -372,6 +372,8 @@ canahs
 Malacath's
 Firsthold's
 Rulindil's
+Artifact
+Artifacts
 Aranea
 Aranea's
 Azura's
