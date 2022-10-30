@@ -2,4 +2,4 @@
 - That Imperial is as silver-tongued as a Breton bard.
 - Not sure if he's such a kind soul or has darker motifs.
 - His constant vigil over Mjoll reminds me of a vampire stalking his prey.
-- Is Aerin following her anywhere?
+- Is Aerin following her everywhere?
