@@ -1,0 +1,17 @@
+- Genuine Falmerblood Elixir? Sure. And I am Meridia.
+- I hope it's as harmless as his last great deal. The "Wisp Essence" merely was Nirnroot in water.
+- This man is a charlatan. Do not believe any word he says.
+- Once he tried to sell some ground dog bones as snow whale powder.
+- You know, I'm actually tempted to buy a bottle - just to find out if there is any blood at all in it. Nah, probably just skeever.
+- If there's any person in Riften I suspect to be a member of the Thieves' Guild, it's him.
+- Good looks, charming voice, mysterious concoctions.. and afterwards you're without money and with a whole new set of diseases.
+- I do not want to know what was in the Sload lotion he sold last year to any man available. The priests of Mara were quite busy afterwards.
+- It's safer to go into a Falmer hive and bathe in their blood than taking a sip of that stuff.
+- Don't fall for his charms. He just wants your money.
+- Don't look. He's trying to flirt with you.
+- I'm not sure if he's eyeing your body or your presumed wealth.
+- Make sure you're not alone with him if you really want to try this...liquid.
+- I bet he'll tell you his elixir will make you irresistible to women.
+- If you buy this, you'll be up all night. Just not the way you think.
+- I hope you're not falling for his obscure claims.
+- What's his next idea, Ysgramor's you-know-what for fortitude?

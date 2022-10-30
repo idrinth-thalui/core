@@ -2,3 +2,19 @@
 - This city is owned by it's Meadery.
 - The guards claim to hunt thieves, I'm not so sure about that here.
 - The Temple of Mara is a nice place for a wedding.
+- Woe unto the thief trying to pickpocket me.
+- Brand-Shei sometimes has goods from Morrowind.
+- Madesi is a gifted gem cutter.
+- The Pawned Prawn has a bit of everything, and Bersi is an honest trader.
+- Marise preserves her meat in a perfectly safe way, I smelled no foul play.
+- Do not trust anything Brynjolf is trying to sell you.
+- Falmer blood elixir... what comes next? Dragon egg souffle?
+- Balimund runs an interesting smithy. You should visit it.
+- Grelka is not the nicest person, but she'll buy anything you offer.
+- Elgrim's Elixirs is a well-sorted alchemy shop. No wonder, he is the teacher of Ingun Black-Briar.
+- Talen-Jei has some interesting drinks. Make sure you try.
+- The Ratway is a place for those beneath the lowlifes.
+- Riften burned down about 70 years ago. No improvements yet.
+- Trinimac, this city is being drenched of it's honour.
+- Maven struts around like an empress.
+- Too many good people living in fear.
