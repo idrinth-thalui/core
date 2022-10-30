@@ -10,7 +10,7 @@
 
 ## Chilly
 
-- This is as cold as the way Nords like their met.
+- This is as cold as the way Nords like their mead.
 - As cold as a vampire's heart...
 
 ## Very Cold
