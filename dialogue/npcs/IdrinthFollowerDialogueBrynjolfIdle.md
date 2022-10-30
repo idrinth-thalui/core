@@ -5,7 +5,7 @@
 - You know, I'm actually tempted to buy a bottle - just to find out if there is any blood at all in it. Nah, probably just skeever.
 - If there's any person in Riften I suspect to be a member of the Thieves' Guild, it's him.
 - Good looks, charming voice, mysterious concoctions.. and afterwards you're without money and with a whole new set of diseases.
-- I do not want to know what was in the Sload lotion he sold last year to any man available. The priests of Mara were quite busy afterwards with healing.
+- I do not want to know what was in the Sload lotion he sold last year to any man available. The priests of Mara were quite busy afterwards.
 - It's safer to go into a Falmer hive and bathe in their blood than taking a sip of that stuff.
 - Don't fall for his charms. He just wants your money.
 - Don't look. He's trying to flirt with you.
