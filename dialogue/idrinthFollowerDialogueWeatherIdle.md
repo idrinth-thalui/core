@@ -1,3 +1,32 @@
+- A fine day, with lots of clouds.
+- This is what I call nice weather.
+- The wind feels refreshing.
+- It's a bit too sunny for my taste.
+- Xarxes' backside, it's hot!
+- We should rename the land to "Sunrim"...
+- I like a bit of rain.
+- Starting to get wet...
+- Well, better lots of rain than lots of sun.
+- I'm an Altmer, not a Maormer. I don't like being completely soaked.
+- Kyne is wrathful today.
+- What a storm!
+- Is there a Thu'um to end this storm?
+- We should get out of this storm.
+- Hey, it's snowing!
+- It's snowing. Again.
+- We could walk past an entire Falmer army and won't see them...
+- I can barely see my hand in front of my eyes.
+- I'm not a Snow Elf...
+- Any longer in this snowstorm and I turn into an icicle.
+- Oh my, rain again.
+- Could we get out of the sun?
+- I'm glad the sun isn't shining, it can't be better.
+- Glad the rain is washing my armour clean!
+- Some snow is nice, it makes the landscape more beautiful.
+- I would love some proper wind now at least.
+- Let's hope Kyne stays happy now...
+- A few clouds wouldn't look too bad in the sky...
+- A bit warmer and we'd be drained already.
 - I'm glad the sun isn't shining, it can't be better.
 - Could we get out of the sun?
 - Oh my, rain again.

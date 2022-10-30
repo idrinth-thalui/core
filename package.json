@@ -1,5 +1,6 @@
 {
   "name": "@idrinth/idrinth-thalui",
+  "type": "module",
   "dependencies": {
     "spellchecker-cli": "*",
     "retext-spell": "*",
@@ -9,6 +10,7 @@
   },
   "scripts": {
     "spelling": "spellchecker",
-    "markdown": "markdownlint-cli2"
+    "markdown": "markdownlint-cli2",
+    "duplicates": "node microchecks/duplicate-names.js"
   }
 }

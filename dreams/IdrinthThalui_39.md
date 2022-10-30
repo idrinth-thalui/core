@@ -1,0 +1,1 @@
+You find yourself in a destroyed house. From the basement you hear the sobbing of little children. You heave aside the rabble blocking the trapdoor and open it. Down below a group of children huddle together, looking at you with sudden hope. With a smile you awake.

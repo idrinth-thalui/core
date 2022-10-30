@@ -1,0 +1,7 @@
+- A pompous fool, if you ask me. But he has his hands in almost every business in Solitude, so better be careful.
+- He gets rich by selling weapons to the Legion. Elvish weapons made in Black Marsh. I wonder what the Legion wants with elvish weapons, much less such inferior ones.
+- I heard he'd do anything for money, even selling his own sister... wait, that was Belethor. I always mix them up...
+- Quite the greedy one - and from what I heard, loyal to those who have the most coin.
+- He'd proclaim a Riekling as the new High King if bribed enough.
+- He's too friendly with the Thalmor for my taste.
+- I pity his sister. Most people only want her to deliver messages to her brother.
