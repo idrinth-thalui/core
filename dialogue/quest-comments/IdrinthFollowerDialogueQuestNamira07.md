@@ -1,0 +1,3 @@
+ - Trinimac, what a relief! Of course I will accompany you to ensure both your and Brother Verulus' safety.
+ - May I advice to play along to lure the rest of the coven out? I will personally defend Brother Verulus against them.
+ - Lorkhan take you, five times cursed! Out of my sight, spawn of Namira!
