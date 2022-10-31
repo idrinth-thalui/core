@@ -1,0 +1,4 @@
+- So you bought a wedding ring? I wonder who's your bride-to-be. Must be a sight to see to entice you this fast. I hope she's not heartbroken. Let's go to Morvunskar.
+- A wedding ring? What will your spouse say? Shame on you, getting so drunk to forget you're married. We better get this sorted. Onward to Morvunskar.
+- So you left your fiancé in Witchmist Grove. That's near Kynesgrove. Can't remember it being overly romantic. We better look after the poor girl.
+- Hiding your new spouse-to-be in Witchmist Grove? What will your spouse say? We better go, you have a lot to apologise for.
