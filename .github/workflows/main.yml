@@ -19,6 +19,8 @@ jobs:
       - uses: actions/checkout@v3
         with:
           path: idrinth-thalui
+      - name: Debug
+        run: ls -la
       - name: Prepare
         run: mv elder-scrolls-modrepository-check/* ./ && mv elder-scrolls-modrepository-check/.* ./ && mv idrinth-thalui/* ./
       - name: Setup Node.js environment
