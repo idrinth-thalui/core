@@ -15,8 +15,12 @@ jobs:
         with:
           repository: idrinth/elder-scrolls-modrepository-check
           ref: master
-          path: ../elder-scrolls-modrepository-check
+          path: elder-scrolls-modrepository-check
       - uses: actions/checkout@v3
+        with:
+          path: idrinth-thalui
+      - name: Prepare
+        run: mv elder-scrolls-modrepository-check ./ && mv idrinth-thalui ./
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.4.1
       - name: Install 
@@ -30,8 +34,12 @@ jobs:
         with:
           repository: idrinth/elder-scrolls-modrepository-check
           ref: master
-          path: ../elder-scrolls-modrepository-check
+          path: elder-scrolls-modrepository-check
       - uses: actions/checkout@v3
+        with:
+          path: idrinth-thalui
+      - name: Prepare
+        run: mv elder-scrolls-modrepository-check ./ && mv idrinth-thalui ./
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.4.1
       - name: Install 
@@ -45,8 +53,12 @@ jobs:
         with:
           repository: idrinth/elder-scrolls-modrepository-check
           ref: master
-          path: ../elder-scrolls-modrepository-check
+          path: elder-scrolls-modrepository-check
       - uses: actions/checkout@v3
+        with:
+          path: idrinth-thalui
+      - name: Prepare
+        run: mv elder-scrolls-modrepository-check ./ && mv idrinth-thalui ./
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.4.1
       - name: Install 
