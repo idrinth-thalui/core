@@ -11,5 +11,5 @@
 - The general store's owner is a former Stormcloak. Was an interesting experience buying supplies from him. Once.
 - Solaf is the nicer of both brothers despite being a former Stormcloak.
 - The former Jarl honours the old ways of the Nords. He even bears them in his title of honour.
-- I fear the only ones liking me here are the innkeeper and the alchimist.
+- I fear the only ones liking me here are the innkeeper and the alchemist.
 - There are always dark powers trying to use the dead resting here for their evil schemes.
