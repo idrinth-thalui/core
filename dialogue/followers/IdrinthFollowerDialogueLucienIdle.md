@@ -1,0 +1,24 @@
+- Ah, a young aspiring explorer from Cyrodiil. Blessings of Trinimac on you. I am Idrinth.
+- A bit nervous, our new companion. Don't you worry, I will protect you with my blade.
+- So you want to explore the depths and hidden secrets of Skyrim? Beware, young man, they can be darker than you wish.
+- You may not be the best battlemage I've seen, but you have courage. Admirable.
+- Do not fret about how you fought the last time. Not everyone faces danger head on with blade swinging.
+- Still up to exploring all of Skyrim, young man? Draugr are not easy to face.
+- Flavius...a very old family name. Related to the Flavius family of Kvatch back from the time of Reman?
+- That, dear Lucien, was a deer. No need to look out for trouble.
+- You held your ground well in that fight.
+- I suggest more training with an actual weapon. Magicka can always be drained, and then you are powerless.
+- Learn more spells, Lucien. It should be easy for a bright lad like you.
+- It feels good to see such an innocent soul in these dark times.
+- Are you alright, Lucien? That dragon was quite the sight - and quite the challenge.
+- I have seem many things in my time - but I never thought dragons would return.
+- I can feel your eyes on me. Is there anything I can help you with? Answer your questions?
+- The Dwemer were fascinating. I remember them, though I rarely met them.
+- Ah, I miss the times when the Snow Elves still roamed this land...I miss the times the Paragons of Trinimac visited the Isles.
+- I do not mind to answer any questions you have, Lucien. I have seen more things than you imagine.
+- It always grieves my heart when I see those twisted shadows of the once proud Snow Elves...
+- Ah, Nords. Still as headstrong as their Atmoran ancestors. I wonder whom of us they fear more?
+- The city of Ysgramor. It had seen better times. You should have seen it.
+- I wish you'd have seen Winterhold in it's prime. I remember a cozy little inn right on the cliff's edge... all gone now.
+- If you ever want to know more about Altmer religion and history, I will gladly answer.
+- Do not worry, Lucien. I will not drink your blood. On my honour as follower of Trinimac.
