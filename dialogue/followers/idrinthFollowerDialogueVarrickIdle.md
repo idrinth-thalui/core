@@ -9,8 +9,8 @@
 - Pathetic reflexes... that was only a hare running through the bushes.
 - Let me guess - your magic prowess lies in Alteration and Alchemy? Silence and poison, just like your cursed Prince.
 - Granted, you did look out for others back then. Does not mean I have to like you.
-- See to it that your minion don't get in the way of my blade.
-- Trinimac, the trials you sent me.. I will endure them, Champion of Auri-El.
+- See to it that your minion doesn't get in the way of my blade.
+- Trinimac, the trials you sent me...I will endure them, Champion of Auri-El.
 - Don't you dare fighting behind me again, daedra lover. I don't trust you.
 - If you have to pray to your beloved Cursed One, do it in silence.
 - Do not worry. I will not stoop so low as to smite you in your sleep.
@@ -19,20 +19,20 @@
 - Your view of worship is quite... interesting. Sounds more like a follower of Malacath to me.
 - No wonder most Boethiah cultists see you as a blasphemer - you would fit better into an Orsimer Trinimac cult. I know what I'm talking of.
 - Never heard about this interpretation of Boethiah before. Maybe we can fight side by side against a mutual enemy.
-- If you have to pray, please do it on the other end of the camp. And  quietly.
+- If you have to pray, please do it on the other end of the camp. And quietly.
 - Vampires. And starved ones. Best we take them out ere they endanger any innocents.
 - I smell vampires. Be on your guard, Varrick. They would love to sacrifice you to their Prince.
 - Hm - at least we have a common enemy in Molag Bal.
 - Guess our common goal to protect our mutual friend here makes us ... frenemies?
 - Let us make a truce. I will not attack you for your beliefs, and you will not attack me for mine.
 - I will never like you, or your beliefs. But I acknowledge your prowess in battle. And your way of honour.
-- Speaking of frostbite - ever seen a Falmer vampire? Now that is a nasty sight... makes you wish you're blind.
+- Speaking of frostbite - ever seen a Falmer vampire? Now that is a nasty sight... makes you wish you were blind.
 - Trinimac preserve me! Your constant jokes are growing on me!
-- What did the Molag Bal cultist said to the Trinimac priest? Urrgl... stars above, did I just made a joke?
+- What did the Molag Bal cultist say to the Trinimac priest? Urrgl... stars above, did I just made a joke?
 - First or second watch, Varrick?
 - I never thought I would trust a Boethiah cultist. But you've proven your worth, Varrick.
 - May Trinimac forgive me for liking you. But there is still good in your heart.
-- By my ancestors, if you even dare thinking of betraying (player.alias)'s heart, I will hunt you through all realms of Oblivion.
+- By my ancestors, if you even dare thinking of betraying our friend's heart, I will hunt you through all realms of Oblivion.
 - Please do not corrupt his/her heart, Varrick. He/she has a pure soul.
 - I wish you both be happy. Savour your love while you can. It ends too soon too often...
 - So, you were a farmer and father once... I am sorry for your loss.
