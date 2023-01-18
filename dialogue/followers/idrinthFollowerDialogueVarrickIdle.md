@@ -1,43 +1,43 @@
-A follower of five times cursed Boethiah? If it wasn't for my friend here, I would cut you down right here!
-Spare me your explanations, hil av daedra.
-I will watch you closely, servant of the Cursed One.
-Trinimac, grant me the strength to endure this ... cultist.
-Dare to compare me to those filthy bloodsuckers again, Varrick... by Trinimac, I'll kill you!
-Do not imply that I follow the Defiler, odioth! I serve the Champion of Auri-El!
-Varrick Veil. I will remember your name. For the day I carve it into your gravestone.
-A magic-using Follower of the Cursed One. Now that's something you don't see every day.
-Pathetic reflexes... that was only a hare running through the bushes.
-Let me guess - your magic prowess lies in Alteration and Alchemy? Silence and poison, just like your cursed Prince.
-Granted, you did look out for others back then. Does not mean I have to like you.
-See to it that your minion don't get in the way of my blade.
-Trinimac, the trials you sent me.. I will endure them, Champion of Auri-El.
-Don't you dare fighting behind me again, daedra lover. I don't trust you.
-If you have to pray to your beloved Cursed One, do it in silence.
-Do not worry. I will not stoop so low as to smite you in your sleep.
-Eat, rest, sleep. If I claim your head, it will be in fair duel. Such is the way of Trinimac.
-I do trust you not to sully our mutual friend's honour with killing me in my sleep?
-Your view of worship is quite... interesting. Sounds more like a follower of Malacath to me.
-No wonder most Boethiah cultists see you as a blasphemer - you would fit better into an Orsimer Trinimac cult. I know what I'm talking of.
-Never heard about this interpretation of Boethiah before. Maybe we can fight side by side against a mutual enemy.
-If you have to pray, please do it on the other end of the camp. And  quietly.
-Vampires. And starved ones. Best we take them out ere they endanger any innocents.
-I smell vampires. Be on your guard, Varrick. They would love to sacrifice you to their Prince.
-Hm - at least we have a common enemy in Molag Bal.
-Guess our common goal to protect our mutual friend here makes us ... frenemies?
-Let us make a truce. I will not attack you for your beliefs, and you will not attack me for mine.
-I will never like you, or your beliefs. But I acknowledge your prowess in battle. And your way of honour.
-Speaking of frostbite - ever seen a Falmer vampire? Now that is a nasty sight... makes you wish you're blind.
-Trinimac preserve me! Your constant jokes are growing on me!
-What did the Molag Bal cultist said to the Trinimac priest? Urrgl... stars above, did I just made a joke?
-First or second watch, Varrick?
-I never thought I would trust a Boethiah cultist. But you've proven your worth, Varrick.
-May Trinimac forgive me for liking you. But there is still good in your heart.
-By my ancestors, if you even dare thinking of betraying (player.alias)'s heart, I will hunt you through all realms of Oblivion.
-Please do not corrupt his/her heart, Varrick. He/she has a pure soul.
-I wish you both be happy. Savour your love while you can. It ends too soon too often...
-So, you were a farmer and father once... I am sorry for your loss.
-I understand now why you became the man you are. I, too, know the meaning of loss. I still miss her...
-Varrick, my friend, you are officially the least hated Boethiah cultist of Tamriel. At least where I'm concerned.
-Sometimes I wish I was a father. But the thought of leaving her alone with our child... It was better that way.
-Ah, Varrick, you should have tasted the honey wine of the Snow Elves. I loved the one with lavender and snowberries...
-To the ones we loved and lost. May they find eternal peace.
+- A follower of five times cursed Boethiah? If it wasn't for my friend here, I would cut you down right here!
+- Spare me your explanations, hil av daedra.
+- I will watch you closely, servant of the Cursed One.
+- Trinimac, grant me the strength to endure this ... cultist.
+- Dare to compare me to those filthy bloodsuckers again, Varrick... by Trinimac, I'll kill you!
+- Do not imply that I follow the Defiler, odioth! I serve the Champion of Auri-El!
+- Varrick Veil. I will remember your name. For the day I carve it into your gravestone.
+- A magic-using Follower of the Cursed One. Now that's something you don't see every day.
+- Pathetic reflexes... that was only a hare running through the bushes.
+- Let me guess - your magic prowess lies in Alteration and Alchemy? Silence and poison, just like your cursed Prince.
+- Granted, you did look out for others back then. Does not mean I have to like you.
+- See to it that your minion don't get in the way of my blade.
+- Trinimac, the trials you sent me.. I will endure them, Champion of Auri-El.
+- Don't you dare fighting behind me again, daedra lover. I don't trust you.
+- If you have to pray to your beloved Cursed One, do it in silence.
+- Do not worry. I will not stoop so low as to smite you in your sleep.
+- Eat, rest, sleep. If I claim your head, it will be in fair duel. Such is the way of Trinimac.
+- I do trust you not to sully our mutual friend's honour with killing me in my sleep?
+- Your view of worship is quite... interesting. Sounds more like a follower of Malacath to me.
+- No wonder most Boethiah cultists see you as a blasphemer - you would fit better into an Orsimer Trinimac cult. I know what I'm talking of.
+- Never heard about this interpretation of Boethiah before. Maybe we can fight side by side against a mutual enemy.
+- If you have to pray, please do it on the other end of the camp. And  quietly.
+- Vampires. And starved ones. Best we take them out ere they endanger any innocents.
+- I smell vampires. Be on your guard, Varrick. They would love to sacrifice you to their Prince.
+- Hm - at least we have a common enemy in Molag Bal.
+- Guess our common goal to protect our mutual friend here makes us ... frenemies?
+- Let us make a truce. I will not attack you for your beliefs, and you will not attack me for mine.
+- I will never like you, or your beliefs. But I acknowledge your prowess in battle. And your way of honour.
+- Speaking of frostbite - ever seen a Falmer vampire? Now that is a nasty sight... makes you wish you're blind.
+- Trinimac preserve me! Your constant jokes are growing on me!
+- What did the Molag Bal cultist said to the Trinimac priest? Urrgl... stars above, did I just made a joke?
+- First or second watch, Varrick?
+- I never thought I would trust a Boethiah cultist. But you've proven your worth, Varrick.
+- May Trinimac forgive me for liking you. But there is still good in your heart.
+- By my ancestors, if you even dare thinking of betraying (player.alias)'s heart, I will hunt you through all realms of Oblivion.
+- Please do not corrupt his/her heart, Varrick. He/she has a pure soul.
+- I wish you both be happy. Savour your love while you can. It ends too soon too often...
+- So, you were a farmer and father once... I am sorry for your loss.
+- I understand now why you became the man you are. I, too, know the meaning of loss. I still miss her...
+- Varrick, my friend, you are officially the least hated Boethiah cultist of Tamriel. At least where I'm concerned.
+- Sometimes I wish I was a father. But the thought of leaving her alone with our child... It was better that way.
+- Ah, Varrick, you should have tasted the honey wine of the Snow Elves. I loved the one with lavender and snowberries...
+- To the ones we loved and lost. May they find eternal peace.
