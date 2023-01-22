@@ -19,6 +19,6 @@
 - It always grieves my heart when I see those twisted shadows of the once proud Snow Elves...
 - Ah, Nords. Still as headstrong as their Atmoran ancestors. I wonder whom of us they fear more?
 - The city of Ysgramor. It had seen better times. You should have seen it.
-- I wish you'd have seen Winterhold in it's prime. I remember a cozy little inn right on the cliff's edge... all gone now.
+- I wish you'd have seen Winterhold in it's prime. I remember a cosy little inn right on the cliff's edge... all gone now.
 - If you ever want to know more about Altmer religion and history, I will gladly answer.
 - Do not worry, Lucien. I will not drink your blood. On my honour as follower of Trinimac.
