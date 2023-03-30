@@ -42,3 +42,8 @@
 
 - A fine weapon, but you can use it more than me!
 - Not something I'd use, but it's well made. Why don't you keep it?
+
+## Garlic
+
+- I guess we'll have garlic soup tonight!
+- Didn't plan on garlic, but it should fit with our dinner.
