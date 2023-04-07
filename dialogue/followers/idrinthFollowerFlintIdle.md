@@ -1,0 +1,4 @@
+- I wonder what made you so civilized, it's a refreshing change.
+- It has been a while since I traveled with a minotaur, can't say I'm not a bit sceptical due to last time.
+- I'm curious if you could learn a trade. You might make a good smith with your strength.
+- I'm glad you are on our side, Flint!
