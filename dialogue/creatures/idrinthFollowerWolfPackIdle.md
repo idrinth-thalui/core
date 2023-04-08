@@ -1,0 +1,2 @@
+- I miss Ardis a bit, you can't have a more loyal companion than her.
+- Ardis, come here, I got something for you!
