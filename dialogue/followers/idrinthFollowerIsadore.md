@@ -1,5 +1,5 @@
 - Glad to fight side by side with you!
-- It's interesting and rare, a bosmer studing magic for melee.
+- It's interesting and rare, a Bosmer studying magic for melee.
 - Would you care to share some news later?
 - Are you following the green pact, Isadore?
 - Would you mind showing me how your magic works?
