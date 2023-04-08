@@ -1,0 +1,7 @@
+- So you're a Dagi-Raht. I am not surprised. Your magical talents are only surpassed by Alfiq.
+- You wear Hammerfell garb and wield a scimitar. I assume you are not from Elsweyr?
+- A lot of people will make the mistake to underestimate you. I will not.
+- I do hope my being an Altmer will not make you hate me?
+- Do not worry - bring no harm to me, and I will not harm you.
+- Skyrim must look very cold to you. And I do not mean the weather.
+- Any news from Hammerfell? I am not very welcome there.
