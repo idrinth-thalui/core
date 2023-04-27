@@ -1,2 +1,9 @@
 - I miss Ardis a bit, you can't have a more loyal companion than her.
 - Ardis, come here, I got something for you!
+- Did you see Emparo?
+- Heel, Emparo, heel!
+- I should call Daen, he would be helpful!
+- Would you scout ahead Daen?
+- Karan where are you?
+- Well done, you're a good girl Karan!
+- Udhendra
