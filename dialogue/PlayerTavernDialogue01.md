@@ -94,7 +94,7 @@
 - 2g.1: "Falling on hard times? Or driven by dire need? I do hope your motifs were honourable. And you don't have to leave your loved ones behind."
 - 2h.1: "Ah, the impatience of youth... I vaguely remember the call of mysterious foreign lands. May you never regret your choice."
 - 2j.1: "Justice can be blind and random. But an innocent soul will prevail, like the sun will rise after the darkest night. I wish you the best."
-- 2k.1: "Ah, the overeagerness of the Legion - and their bureaucracy. Second only the the Thalmor. The Gods truly smiled upon you that day you escaped."
+- 2k.1: "Ah, the overly eagerness of the Legion - and their bureaucracy. Second only to the Thalmor. The Gods truly smiled upon you that day you escaped."
 - 2l.1: "I will not pry on your secrets. May you find the confidence in me to tell me another day. Until then, Trinimac guard us both."
 - 2m.1: "I understand. Auri-El light our path, and Trinimac guide our blades. But if you are coming for me..."
 - 2n.1: "May your path be guarded by your patron deity."
@@ -103,6 +103,6 @@
 - 2q.1: "I grieve with you. I heard many a tale from the Great War, and to think my own people started this madness...May you find peace someday."
 - 2r.1: "The ones driven by Fate rarely find peace. If i can lend you assistance, I will."
 - 2s.1: "A strange tale. Yet I have seen many things I believed were not possible. may you find your way home again."
-- 2t.1: "I am glad your wish came true. May Trinimac grant you strenght if your dream turns out not as perfect as you hoped."
+- 2t.1: "I am glad your wish came true. May Trinimac grant you strength if your dream turns out not as perfect as you hoped."
 
 - Idrinth: "I thank you, that was all I wanted to know for now. Perhaps we can refrain our little chitchat one day?"
