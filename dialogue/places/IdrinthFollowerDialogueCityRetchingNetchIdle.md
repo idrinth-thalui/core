@@ -1,9 +1,9 @@
-- Ah, a typical cornerclub. I take their variety of Dumner cuisine is bigger than in Windhelm...
+- Ah, a typical Cornerclub. I take their variety of Dunmer cuisine is bigger than in Windhelm...
 - Before you ask: No, Dunmer do not make beverages out of bugs.
 - At times like this, I miss my wife... she'd love this Sujamma.
 - Geldis looks more alert than your usual innkeeper. I guess he was a mercenary in his youth.
 - I wonder if they got wickwheat bread?
-- I have to ask for the famous Redoran-style Hound and Rat pie. You barely taste the rat meat over the scuttle and kwama eggs.
+- I have to ask for the famous Redoran style Hound and Rat pie. You barely taste the rat meat over the scuttle and kwama eggs.
 - A good kwama egg quiche is always appreciated. Don't make me choose between it and a good garlic bread.
 - I wonder if they have Spiced root cake?
 - Nothing better to warm you up than an Ash yam and horker stew.
@@ -12,7 +12,7 @@
 - Geldis' Sujamma is truly five times blessed.
 - I wonder if they can get their hands on Kaveh?
 - Good they do not have any Greef. Last time I drank it, I had headaches for three days.
-- What this cornerclub needs is a good bard. One who is well versed in Dunmeri songs, of course.
+- What this Cornerclub needs is a good bard. One who is well versed in Dunmeri songs, of course.
 - Ten septims that the roasted horse steak here tastes way better than in Skyrim... why are you looking at me like that? Dunmer think that guars are for riding.
 - We should take some ingredients back to Windhelm. The Gray Quarter badly misses a lot of these delicacies.
 - *sigh* This Sujamma would pair greatly with my wife's radish tartelets.
