@@ -8,3 +8,8 @@
 - A good thing House Redoran protects the city. Other Houses are less practical and more caught up in the bad Old Ways.
 - Gifting Solstheim to the Dunmer refugees was a noble gesture from the Jarls at that time. The environment here is much better than in Morrowind.
 - Both the Councilor and his second Councilor seem to be capable men.
+- The current Councilor inherited his post from his mother.
+- I heard that Lleril Morvayn financed the restauration of the Bulwark himself, some 70 years ago. A good man.
+- Being transferred from the East Empire Company to House Redoran was good for all citizens of Raven Rock, though many Imperials left.
+- The mine is placed on an old Nord burial ground. There was a lot of turmoil back then.
+- You can see the Red Mountain from here. Beautiful and yet so deadly.
