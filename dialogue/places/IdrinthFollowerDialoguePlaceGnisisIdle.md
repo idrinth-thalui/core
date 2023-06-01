@@ -1,0 +1,16 @@
+- Can Skyrim's cabbages serve as replacement for scrib cabbages? Cabbage biscuits go well with a lot of dishes.
+- Chicken egg quiche does not nearly taste as good as kwama egg quiche, but... where to find a kwama in Windhelm?
+- They do try their best with the few ingredients they got.
+- Next time we're on Solstheim, we'll bring at least one barrel of ash yams and Trama roots with us.
+- Last time I was here, they had one spiced root cake left. Could not bring myself to eat it, while some Dunmer kids sat outside hungry. They liked it.
+- The farmers around Windhelm should try to cultivate some Morrowind plants, they are quite stury. What am I saying, Nords are too stubborn to do that...
+- I have a pretty good idea where all the old horses of Windhelm end up. Dunmer love horse meat.
+- Ah, that smell... I remember the last time she cooked that for me...
+- Hm. Redoran porridge. Simple yet nourishing.
+- A pity that skeever do not taste as good as cave rats.
+- Nothing against a hearty crab meat stew.
+- Now that is interesting: Dunmer-style vegetables served with Argonian-style fish.
+- I know, Dunmer cuisine can be even stranger than Bosmer cuisine. But I love it.
+- Oh, they spiced up their cabbage soup with Trama root and... is that a hint of hackle-lo?
+- There was a delivery from Morrowind not long ago - they have saltrice risotto.
+- Ambarys got his hands on a casket of Velothi malbec some twenty years ago. He held one back for me. A good man, who never forgets a kind deed.
