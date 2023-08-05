@@ -46,7 +46,7 @@
 - 1o: "I had a strange dream one night, and so I left home to pursue it."
 - 1p: "The War still haunts me. So I try to forget..."
 
-- Idrinth (answering to the profession): 
+- Idrinth (answering to the profession):
 - 1a.1: "I have heard of both great deeds and great horrors. I grieve that my people were at fault. Lorkhan take the Thalmor!"
 - 1b.1: "Ah, a life full of surprises. May your Gods let them be happy ones."
 - 1c.1: "I presume that trading became both more dangerous and more lucrative. May you never run out of customers."
@@ -77,7 +77,7 @@
 - 2l: "I'd rather not tell..."
 - 2m: "I am not at liberty to reveal that information..."
 - 2n: "I'm on a pilgrimage. It was quite a journey, but my faith was strong."
-- 2o: "I'm an apprentice seeking to refine my craftsmanship. Skyrim has some reknown masters."
+- 2o: "I'm an apprentice seeking to refine my craftsmanship. Skyrim has some renown masters."
 - 2p: "I had a strange dream one night, and so I left home to pursue it here."
 - 2q: "The War still haunts me. So I try to forget...and get away from the battlefields."
 - 2r: "The twists of Fate washed my up here. I do not recall how I got here."
