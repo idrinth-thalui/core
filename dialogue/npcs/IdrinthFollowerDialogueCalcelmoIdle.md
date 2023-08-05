@@ -7,8 +7,8 @@
 - By Syrabane, that man knows more about the Dwemer than some Dwemer...
 - I do hope Calcelmo never made a pact with Hermaeus Mora. He is very ardent in his pursue of Dwemer knowledge.
 - I am rarely here in Markarth. One thing that pulls me here is wondering if Calcelmo has finally assigned a Dwemer centurion for excavation.
-- I met Aicantar in Solitude once. He told me Calcelmo got a dwarven spider to work, and it attacked him - Ondolemar turned it into scrap metal. Calcelmo was devastated his spider was destroyed.
+- Calcelmo got a dwarven spider to work, and it attacked him - I heard Ondolemar turned it into scrap metal. Calcelmo was devastated his spider was destroyed.
 - It is told that Calcelmo did not even notice the Battle of Markarth, because he was so busy with his excavation. That might even be true.
 - I doubt Calcelmo would be interested in anything besides Dwemer.
 - He is smitten by Faleen? I am...speechless.
-- Asked which of the two would start a relationship, I would have placed all my money on Aicantar.
+- If you had asked me which of the two would start a relationship with a real living person, I would have placed all my money on Aicantar.
