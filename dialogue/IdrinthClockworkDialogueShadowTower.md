@@ -1,2 +1,2 @@
-- I can sense her, watching us again. She's definitely not a vampire, nor a ghost or a daedroth. Nor reanimated undead either. I never felt something like her.
+- I can sense her, watching us again. She's definitely not a vampire, nor a ghost or a daedroth. Nor reanimated undead, either. I never felt something like her.
   Trinimac grant me strenght...
