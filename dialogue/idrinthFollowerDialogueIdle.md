@@ -123,10 +123,10 @@
 - Be careful in the fog. Hjaalmarch has lots of dangerous creatures hidden in it's swamps.
 - Haafingar. A long coast full of shipwrecks, a lot of mountains, and the city of Solitude. What a contrast.
 - To many, Haafingar means Solitude and nothing else.
-- The Reach once was an independed kingdom bordered by the Skyrim province of Karthald.
+- The Reach once was an independent kingdom bordered by the Skyrim province of Karthald.
 - The Reach has seen many magic rituals. Most of them an abomination to the Ancestors.
 - What the Forsworn call "Old Gods" are the Daedric Princes their old Ayleid masters worshipped. Oh, the irony...
-- I wonder what Ysgramor would say to the Divines of today. Kyne he'd recognize, but Tsun and Stuhn?
+- I wonder what Ysgramor would say to the Divines of today. Kyne he'd recognise, but Tsun and Stuhn?
 - The Trinimac priests of old were not so nice to humans as I am. But honour should always overcome anger.
 - Mudcrab meat is very tasty.
 - Slaughterfish make better trophies than meals.
@@ -153,12 +153,12 @@
 - Trinimac, another Vigilant?
 - Wait - did you hear that?
 - There's a strange feel to the air.
-- Hm? I apologize, I was lost in thought.
+- Hm? I apologise, I was lost in thought.
 - Arlinve, I wish you could see this...
 - That smell...what does that remind me of?
 - You noticed that stench, too?
 - Bears are unpredictable. They may just try to scare you away, or attack you like a Thalmor bears down on a Talos priest.
-- How many sweetrolls do you carry aroung? No wonder bears are after us.
+- How many sweetrolls do you carry around? No wonder bears are after us.
 - If you kill a bear, make sure to leave the pelt intact. They fetch a good price.
 - Look around - bears are often near bee hives.
 - Bears like berries. let's pick them.
@@ -170,8 +170,8 @@
 - Do tell if you need to rest.
 - You know I could walk on all night, but what about you?
 - A good day for a brisk walk.
-- Sabrecats are fierce predators.
-- A sabrecat makes a fine trophy.
+- Sabre cats are fierce predators.
+- A sabre cat makes a fine trophy.
 - Does it smell like troll here?
 - Children stories tell of trolls hiding under bridges and taxing all who want to cross it.
 - I have seen troll dolls. Clearly made by someone who never encountered a troll.
