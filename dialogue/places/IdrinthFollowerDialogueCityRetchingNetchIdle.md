@@ -15,7 +15,7 @@
 - What this Cornerclub needs is a good bard. One who is well versed in Dunmeri songs, of course.
 - Ten septims that the roasted horse steak here tastes way better than in Skyrim... why are you looking at me like that? Dunmer think that guars are for riding.
 - We should take some ingredients back to Windhelm. The Gray Quarter badly misses a lot of these delicacies.
-- *sigh* This Sujamma would pair greatly with my wife's radish tartelets.
+- *sigh* This Sujamma would pair greatly with my wife's radish tartelettes.
 - I'll have a Trama root tea. Calming and refreshing.
 - If you don't buy these miners a round of Sujamma, I will. Their work is hard enough.
 - I know many Chimer songs, but... I never was a good singer. And my favourite instrument is my greatsword.
