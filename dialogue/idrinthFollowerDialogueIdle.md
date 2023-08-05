@@ -99,3 +99,43 @@
 - Ever been attacked by a walking ice wall?
 - Storm atronachs - no nice enemies for mages.
 - Never trust the daedra.
+- I wish I could have seen the cities of old Mereth.
+- Falkreath's forests are beautiful. Rich with game. And those predators which hunt them.
+- Always nice to roam the woods of Falkreath. I love the smell after rain.
+- In summer you can't distinguish the woods of Falkreath from the woods of Bruma.
+- The forests of the Rift are beautiful. Can't say that about the Riften, though.
+- I love to walk the Rift in spring. Or in autumn.
+- The plains of Whiterun are spectacular in spring - rolling hills full of flowers.
+- Whiterun is the second-eldest human city in Skyrim.
+- It is said that the Snow Elves shunned the hill Dragonsreach is build upon.
+- It's quite common in Whiterun hold to meet the Companions. Or Anoriath hunting for game.
+- The hot springs of Eastmarch are created by the hero Wuunding, who defeated a daedra with his flaming hammer. At least that is how the legend goes.
+- Eastmarch, the Pale, the Rift and Winterhold are the Old Holds, both in history and minds of their inhabitants.
+- The geysers of Eastmarch are where the Alto wine comes from.
+- This land is old. And full of memories. Most of them full of grief.
+- It is nice to walk around in Winterhold - on a sunny day, with the snow glittering like diamonds.
+- The crisp air is refreshing. And the hint of salt from the Sea of Ghosts... almost peaceful.
+- When the northern lights reflect in the Sea of Ghosts...it feels almost like home. Only colder.
+- The Pale is a very lonely place to be outside Dawnstar or the main road.
+- They call the Pale "the old boot". Fitting.
+- When in Hjaalmarch, wear high boots.
+- If you like mushrooms, you'd love Hjaalmarch.
+- Be careful in the fog. Hjaalmarch has lots of dangerous creatures hidden in it's swamps.
+- Haafingar. A long coast full of shipwrecks, a lot of mountains, and the city of Solitude. What a contrast.
+- To many, Haafingar means Solitude and nothing else.
+- The Reach once was an independed kingdom bordered by the Skyrim province of Karthald.
+- The Reach has seen many magic rituals. Most of them an abomination to the Ancestors.
+- What the Forsworn call "Old Gods" are the Daedric Princes their old Ayleid masters worshipped. Oh, the irony...
+- I wonder what Ysgramor would say to the Divines of today. Kyne he'd recognize, but Tsun and Stuhn?
+- The Trinimac priests of old were not so nice to humans as I am. But honour should always overcome anger.
+- Mudcrab meat is very tasty.
+- Slaughterfish make better trophies than meals.
+- If you hunt for salmons, look out for salmon roe.
+- Deer are great game. Just be careful around some guards when hunting.
+- Do not pick just the best parts of your prey. A good hunter salvages as much as possible.
+- Rabbits are quick, but more than enough for a hearty meal.
+- I do hope you are not going to *eat* a fox?
+- Since the Civil War started, stray dogs are a common sight. Poor dogs.
+- Be careful, some dogs might be rabid.
+- Wolves are multiplying with less guards protecting the roads.
+- I hope that howl came from a large wolf, and not a werewolf.
