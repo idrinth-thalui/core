@@ -19,7 +19,7 @@
 - Idrinth (answering to the place of origin):
 - 1.1: "Ah, I miss the beautiful Isles. I have not returned home since the Oblivion Crisis..."
 - 2.1: "I have fond memories walking the deserts. Though the sun was harsh to bear."
-- 3.1: "I remember the first time I saw a Grath-oak with my own eyes. truly a sight to behold."
+- 3.1: "I remember the first time I saw a Grath-oak with my own eyes. Truly a sight to behold."
 - 4.1: "Ah, my heart grieves for what became of Morrowind. The ash still weights heavy on the land."
 - 5.1: "I long to see the White-Gold Tower again. I wonder if any remnants of the ancient Ayleid buildings survived the war..."
 - 6.1: "A proud land, full of proud warriors. Alas, since the war my kind is not welcome there."
@@ -27,7 +27,7 @@
 - 8.1: "A strange land, indeed. Though I am intrigued by the Hist and their relationship with Argonians."
 - 9.1: "A cold land with a tragic history. As a lad I wanted to visit my Snow Elven cousins, but never made it happen..."
 - 10.1: "You have travelled a long way. Maybe sometime you will tell me more about your home?"
-- 11.1: " I sense you are not like us. I hope you will see your home one day again."
+- 11.1: "I sense you are not like us. I hope you will see your home one day again."
 
 - Idrinth: "And what is your profession here, if I may ask?" (if player chose Skyrim as home)
 - 1a: "A proud veteran of the Great War."
@@ -48,7 +48,7 @@
 
 - Idrinth (answering to the profession): 
 - 1a.1: "I have heard of both great deeds and great horrors. I grieve that my people were at fault. Lorkhan take the Thalmor!"
-- 1b.1: "Ah, a life full of surprises. May your gods let them be happy ones."
+- 1b.1: "Ah, a life full of surprises. May your Gods let them be happy ones."
 - 1c.1: "I presume that trading became both more dangerous and more lucrative. May you never run out of customers."
 - 1d.1: "The search for knowledge is a noble one. May Syrabane prevent you from becoming drunk by the power that comes with it."
 - 1e.1: "Wrestling the ore from the belly of Nirn is truly a backbreaking fate. I'd be honoured in aiding you seeking a better life."
@@ -59,7 +59,7 @@
 - 1k.1: "I will not pry on your secrets. May you find the confidence in me to tell me another day. Until then, Trinimac guard us both."
 - 1l.1: "I understand. Auri-El light our path, and Trinimac guide our blades. But if you are coming for me..."
 - 1m.1: "May your path be guarded by your patron deity."
-- 1n.1: "Always good to seek out other masters than your first one. Refine your craftsmanship."
+- 1n.1: "Always good to seek out other masters than your first one. Your craftsmanship will thrive from your journey."
 - 1o.1: "I pray that this dream was sent by a benevolent entity. The Daedric Princes love to mess with mortals in this way, too."
 - 1p.1: "I grieve with you. I heard many a tale from the Great War, and to think my own people started this madness...May you find peace someday."
 
