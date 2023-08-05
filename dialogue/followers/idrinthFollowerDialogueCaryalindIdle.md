@@ -15,4 +15,16 @@
 - Your father is a dangerous man, you need to grow up to face him!
 - We should spend some time talking about our, no, the Aldmeri's, history!
 - You may be the light that is needed for the Altmer to survive.
-- I should introduce you to my great-grand-Niece, you two may become allies.
+- I should introduce you to my great-grand-niece, you two may become allies.
+- I admit I misjudged you at first, Caryalind. It is an honour to fight with you.
+- You could try learning a few healing spells. They are easier to learn and always useful.
+- If you want to continue fighting with daggers, we should work on your evasion skills.
+- I am always ready to spar with you, Caryalind. I can't let the only good Thallery die of sloppy fighting skills.
+- You have a kind heart. A beacon of how we Altmer should strife to be.
+- I'd be glad if we can sit down and talk about home. I haven't been to the Isles since the Great Anguish.
+- Want to share a bottle of wine and tell me how our home fares? I long to see Alinor again.
+- The Ancestors truly smile on you, Caryalind.
+- Are all Oblivion Gates destroyed by now?
+- Which is your favourite place back home? I always loved my aunt's orchard and her canahs.
+- I miss the old wisteria grove from my parents' estate. Do you miss your quiet place, too?
+- Which skies do you prefer, Cary? Skyrim's cold beauty or the Isles' jewels on velvet ground?
