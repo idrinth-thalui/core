@@ -17,7 +17,7 @@
 - This island was the place of the last battle of the Snow Elves. After that, only a handful survived.
 - If we find the final resting place of the Snow Prince, I will pray for the lost souls of his people.
 - My northern cousins were so thoroughly beaten, not even the name of their last prince is remembered.
-- Werebears are rumored to be more common here than on the mainland.
+- Werebears are rumoured to be more common here than on the mainland.
 - An old legend claims Solstheim was parted from Skyrim through the power of a dragon priest. Strange story. (Stops after Vahlok the Jailer)
 - Wolfsbane once grew here. I doubt the plants survived the ash storms.
 - Lunar wolves were amongst the races that went extinct. They were originally bred by the Snow Elves.
