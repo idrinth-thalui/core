@@ -1,4 +1,4 @@
-- Quite impressive. 
+- Quite impressive.
 - I vaguely remember seeing that in High Rock.
 - Not quite like Altmer painters, but... pleasing to the eye.
 - Interesting choice.
