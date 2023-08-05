@@ -8,5 +8,5 @@
 - If you want to wear exquisite garment, you are in the right place.
 - Rumours say the sisters had to flee Alinor.
 - Some say they spy for the Thalmor, some say they smuggle dissidents out of Solitude, away from the eyes of the Thalmor.
-- If they would truly be aprreciated by the Thalmor, Elenwen would order them to sew dresses for her.
+- If they would truly be appreciated by the Thalmor, Elenwen would order them to sew dresses for her.
 - As much as I appreciate the gesture, please do not buy any fancy clothes for me. I had worn enough of them in my youth.
