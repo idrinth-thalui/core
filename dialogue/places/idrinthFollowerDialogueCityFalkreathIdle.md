@@ -18,7 +18,7 @@
 - Good thing Nenya is keeping Siddgeir's eccentrics at bay.
 - Nenya actually helped several times in defeating necromancers careless enough to rise the dead here in the graveyard.
 - Nenya is a good example how well Nords and Altmer can work together.
-- Runil is a brave man. If the Thalmor ever find out where he is, he will be courtmartialed for desertion. (after retrieving Runil's Journal)
+- Runil is a brave man. If the Thalmor ever find out where he is, he will be court martialed for desertion. (after retrieving Runil's Journal)
 - I knew I had seen Runil before. A man with many regrets. May the Ancestors grant him the peace of mind he strives for. (after retrieving Runil's Journal)
 - He took a fitting role to condone for his sins. The graveyard is in good care with him as priest of Arkay. (after retrieving Runil's Journal)
 - Falkreath's woods are rich hunting grounds. Just be careful you're not the one being hunted.
