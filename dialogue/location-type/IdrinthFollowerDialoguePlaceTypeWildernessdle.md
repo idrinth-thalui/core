@@ -10,7 +10,11 @@
 - Here I do not get all those contempt looks.
 - Do you smell that? The sweet scent of wildflowers.
 - Just stand still for a moment and listen to the birds singing their songs.
-- Being away from the main roads is risky, but worthwile.
+- Being away from the main roads is risky, but worthwhile.
 - Some roads are frequented by the Thalmor. I prefer not to run into them.
 - There is no bad weather. Only bad preparation.
 - What do you prefer? Grassy plains or deep woods?
+- What a view...
+- You heard that, too?
+- Ah, take in this scenery...
+- Smells better than any town.
