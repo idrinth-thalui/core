@@ -6,8 +6,9 @@
 - Moments like this remind me of my eternal fate...
 - So many graves...
 - Have you seen how many children were buried recently?
-- All those young people, lying in the ground instead of cherishing their lifes.
+- All those young people, lying in the ground instead of cherishing their lives.
 - May the Ancestors protect their rest.
 - May Xarxes have recorded all your deeds.
 - I failed you twice, my dearest Arlinve...
 - Do you want a moment to pray for the departed?
+- A lot of graves from last year.
