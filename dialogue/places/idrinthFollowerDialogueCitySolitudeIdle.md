@@ -21,3 +21,14 @@
 - Many suspect Taarie and Endarie to be Thalmor spies. I do not.
 - The Imperial army is headquartered here. A strange choice if you ask me.
 - This city is relatively easy to defend, just one way up the mountain.
+- Skyrim's attempt to outshine the courts of High Rock.
+- The court is quite a sight, but I prefer to avoid the Blue Palace.
+- Be careful around the court wizard.
+- The stone arch keeps the icy winds of Atmora away.
+- Here's the Skyrim headquarters of the East Empire Trading Company.
+- I tend to be careful around the Thalmor headquarters, though they would not attack me in the middle of Solitude.
+- If you like music, the Bards College is the place to go in Skyrim.
+- I pray to the Ancestors the bards will learn more songs than Ragnar the Red.
+- A beautiful city, full of flowers.
+- You can buy and sell almost everything here. A good place to prepare for lomg journeys.
+- If you are devout, do take your time in the temple.
