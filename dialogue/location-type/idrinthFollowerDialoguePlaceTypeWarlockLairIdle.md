@@ -10,4 +10,6 @@
 - Warlocks. Again. Trinimac, why?
 - Syrabane curse you all, you pathetic pretenders!
 - The best about warlocks is that the hoard any magic-related items they can get their greedy hands on.
-- Do look out for rare ingredients. You'd be amazed what warlocks have in their satchels. 
+- Do look out for rare ingredients. You'd be amazed what warlocks have in their satchels.
+- Syrabane enlighten these dumb fools!
+- Lorkhan take these pesky warlocks!
