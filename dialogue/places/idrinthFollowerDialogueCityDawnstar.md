@@ -1,2 +1,26 @@
 - I like the coast here, the sea reminds me of old times.
 - This city's life never seems to fade, even under current circumstances.
+- Dawnstar - the thriving heart of the Pale. Admittedly, there's not much else...
+- The harbour was always thriving - being between Solitude and Windhelm.
+- Since Skyrim rebelled, ships from Roscrea are a rare sight.
+- With two mines and the harbour, Dawnstar survived many a hard time.
+- Centuries ago this town was an exile post garrison.
+- When the wind blows from Atmora, it gets very cold.
+- I get the Vesuvius family still lives here - the are the oldest resident family. And one of them was part of the Mythic Dawm.
+- I haven't seen any Ice tribe attacks since the Crisis. I guess they are all dead.
+- This town has seen several great battles.
+- The sun rising in the crisp morning mist is one of my favourite sights.
+- I remember Frida being a young apprentice to her parents.
+- Frida knows all about frost-related illnesses. The more tragic she could not save her husband.
+- Dawnstar is drained by the war - every able man and woman is sent to the Stormcloaks.
+- If Dawnstar is attacked now, it is helpless. The old stone walls are gone for decades.
+- This town seems to be under a spell. One that only affects the residents. (before Waking Nightmare)
+- The people here are troubled by nightmares. I thought it was me being a vampire that I was not affected. (before Waking Nightmare)
+- This tale of recurring nightmares is a bad sign. (before Waking Nightmare)
+- Erandur is doing his best to calm the people. (before Waking Nightmare)
+- A good thing we thwarted Vaermina's vile plans. (after Waking Nightmare)
+- The citizens of Dawnstar can sleep without fear now. (after Waking Nightmare)
+- The sense of dread is gone from this town. (after Waking Nightmare)
+- Erandur is a good man. dawnstar can be proud to have him. (after Waking Nightmare, Erandur alive)
+- Erandur paid a high price, but he was a good man. (after Waking Nightmare, Erandur dead)
+- At least the people of Dawnstar can sleep again. I hope your nights will be troubled by nightmares forever. (after Waking Nightmare, player took Skull of Corruption)
