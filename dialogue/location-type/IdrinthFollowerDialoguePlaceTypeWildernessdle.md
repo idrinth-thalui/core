@@ -5,3 +5,12 @@
 - A nice stroll in the woods...
 - What a beautiful night sky.
 - In the mood for a little hunting trip?
+- I prefer being out here.
+- Cities are fine to visit, but I feel more at home here.
+- Here I do not get all those contempt looks.
+- Do you smell that? The sweet scent of wildflowers.
+- Just stand still for a moment and listen to the birds singing their songs.
+- Being away from the main roads is risky, but worthwile.
+- Some roads are frequented by the Thalmor. I prefer not to run into them.
+- There is no bad weather. Only bad preparation.
+- What do you prefer? Grassy plains or deep woods?
