@@ -6,7 +6,7 @@
 - With two mines and the harbour, Dawnstar survived many a hard time.
 - Centuries ago this town was an exile post garrison.
 - When the wind blows from Atmora, it gets very cold.
-- I get the Vesuvius family still lives here - the are the oldest resident family. And one of them was part of the Mythic Dawm.
+- I get the Vesuvius family still lives here - the are the oldest resident family. And one of them was part of the Mythic Dawn.
 - I haven't seen any Ice tribe attacks since the Crisis. I guess they are all dead.
 - This town has seen several great battles.
 - The sun rising in the crisp morning mist is one of my favourite sights.
@@ -21,6 +21,6 @@
 - A good thing we thwarted Vaermina's vile plans. (after Waking Nightmare)
 - The citizens of Dawnstar can sleep without fear now. (after Waking Nightmare)
 - The sense of dread is gone from this town. (after Waking Nightmare)
-- Erandur is a good man. dawnstar can be proud to have him. (after Waking Nightmare, Erandur alive)
+- Erandur is a good man. Dawnstar can be proud to have him. (after Waking Nightmare, Erandur alive)
 - Erandur paid a high price, but he was a good man. (after Waking Nightmare, Erandur dead)
 - At least the people of Dawnstar can sleep again. I hope your nights will be troubled by nightmares forever. (after Waking Nightmare, player took Skull of Corruption)
