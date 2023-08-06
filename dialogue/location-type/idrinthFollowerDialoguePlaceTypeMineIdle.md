@@ -2,3 +2,13 @@
 - Looks like hard work. I prefer swinging my sword.
 - What kind of ore is found in this mine?
 - You want to dig for some ore?
+- Being a miner is hard work.
+- Most miners are better fighters than you think - mining gives you powerful arms.
+- A hard work, but rewarding.
+- Mining is as much an art as swordfighting. You need to move correctly for the best results.
+- Digging up rare ores can be lucrative.
+- Some mines are too narrow for me.
+- I always have to look out for low ceilings...
+- Many look down on miners. I do not.
+- I do not understand why miners are looked down. Without them I would not have my blade and armour.
+- Buy miners a drink, and you hear the strangest stories. Some might even be true.
