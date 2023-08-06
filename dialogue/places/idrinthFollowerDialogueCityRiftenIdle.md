@@ -20,11 +20,11 @@
 - Too many good people living in fear.
 - Without the temple of Mara this city would be lost.
 - The Black-Briars. As greedy and selfish as the Silver-Bloods.
-- This city needs a temple of Stendarr... Trinimac, did I actually said that?
+- This city needs a temple of Stendarr... Trinimac, did I actually say that?
 - The Jarl's sons pampered princelings, Maven's children all depraved...Riften needs new leaders.
 - Many traders are good people. But do not trust Brynjolf.
 - Brand-Shei has always some little treasures from Morrowind set aside for me.
-- Madesi is an artist with gems. You won't find such jewelry in the rest of Skyrim.
+- Madesi is an artist with gems. You won't find such craftsmanship in the rest of Skyrim.
 - Balimund's forge is unique.
 - The good thing about Riften is the variety of goods to buy and sell.
 - The last thief who tried to pickpocket me lost a hand.
