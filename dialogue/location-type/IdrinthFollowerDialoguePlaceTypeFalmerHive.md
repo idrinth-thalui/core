@@ -7,3 +7,14 @@
 - What evil fate befell you, kinsmen?
 - Gathering Falmer ears feels like cannibalism. Even if they are reduced to mere animals.
 - Their souls have turned white. *sigh*
+- The Snow Elves who fell under Ysgramor's onslaught were the lucky ones.
+- What twisted fate made the Falmer tame these chaurus?
+- I do hope whatever changed the Falmer is not in these caverns anymore.
+- I heard a Dunmer alchemist telling her children they will turn into Falmer if they eat too many Falmer ears.
+- Someone actually wrote a book about cooking chaurus. Xarxes' backside, why?
+- Be careful, chaurus and Falmer can climb the walls.
+- Ancestors have mercy with you, kinsmen.
+- Stars above, seeing them always breaks my heart.
+- To think that those noble Snow Elves I saw as a child could be one of them now...Lorkhan!
+- The Falmer are good at cultivating mushrooms.
+- These mushroom gardens... I heard of their old ice gardens, full of flowers. I wish I could have seen them.
