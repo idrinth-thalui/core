@@ -30,5 +30,13 @@
 - If you like music, the Bards College is the place to go in Skyrim.
 - I pray to the Ancestors the bards will learn more songs than Ragnar the Red.
 - A beautiful city, full of flowers.
-- You can buy and sell almost everything here. A good place to prepare for lomg journeys.
-- If you are devout, do take your time in the temple.
+- You can buy and sell almost everything here. A good place to prepare for long journeys.
+- If you are devout, do take your time to pray in the temple.
+- General Tullius is the one in charge here. Elisif is too inexperienced.
+- Sometimes Solitude feels like an Imperial camp, not the capital of Skyrim.
+- Erikur is a shifty man. I do not trust him.
+- Erikur's sister Gisli is the smarter one.
+- Erikur acts like he is the Jarl of Solitude.
+- Bryling is highly revered by all. If you need to speak to a Thane, go to her.
+- The children love Bryling. She often has little presents for them.
+- Many people think Taarie or Endarie are Thalmor spies. I bet my money on Melaran.
