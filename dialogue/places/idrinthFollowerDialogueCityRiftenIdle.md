@@ -33,5 +33,5 @@
 - You never see the children of the orphanage running around town.
 - Grelod the Kind - I heard she is a hagraven in human guise.
 - I heard that the priestess of Mara asked for the children to come for prayer each Sundas. I heard she asked in vain.
-- Urg. That whiff of stench was particulary nasty.
+- Oof. That whiff of stench was particularly nasty.
 - Many whisper that Riften needs another good burning. Some days I concur.
