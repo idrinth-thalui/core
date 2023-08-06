@@ -13,3 +13,8 @@
 - That Lemkil hates me since I stopped him beating his daughter like a madman. But he fears me too much to do something.
 - Poor Sissel. Both her father and her sister Britte bully her all the time.
 - The innkeeper's son kept me up all night last time I was here, begging for more stories. That boy yearns for adventure.
+- Reldith tends this farm since the rebuild of the village. And it clearly shows.
+- When Rorik claims this town to be named after him - he means they rebuild the old village.
+- She may not look like it, but Reldith is over a century old. She used to work on a farm in the Reach ere moving here.
+- People are amazed how well the crops grow here. But Reldith has been a farmer longer than Rorik lives.
+- I heard Reldith plans on planting an orchard, once the Civil War is resolved.
