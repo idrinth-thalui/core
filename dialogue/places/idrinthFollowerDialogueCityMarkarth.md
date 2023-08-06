@@ -20,7 +20,7 @@
 - Be careful not to commit any crimes here. Cidhna Mine is a harsh place.
 - Most people who enter the mine only come out dead.
 - Bothela is a kind woman, despite her looks.
-- Bothela knows many ancient recipies, handed down from her ancestors.
+- Bothela knows many ancient recipes, handed down from her ancestors.
 - I wonder if the Silver-Bloods ever tried to bribe Ondolemar? No, they are still alive...
 - One of the goals of the Forsworn is to turn the temple into a shrine of Hircine again.
 - There are many whispered stories about the worship of Dibella. Guess someone mistook Dibella with Molag Bal.
