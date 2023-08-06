@@ -1,0 +1,12 @@
+- They appear to be very good. I doubt most of their customers realise that.
+- Many complain about their way of dealing with customers. Compared to a cousin of mine back in Alinor they both are very kind and helpful.
+- If Nazeem would live here, I doubt he'd ever leave this place. Then again, Endarie would use him as pincushion.
+- Many suspect them to work with the Thalmor. I doubt that. They do not like the Thalmor any more than I do.
+- Some of their garment reminds me of my youth. Bittersweet memories.
+- They rarely can show their true craftsmanship. Most people are to poor or too indifferent to Altmeri couture. Or both.
+- Their talent is better placed in High Rock or the Isles.
+- If you want to wear exquisite garment, you are in the right place.
+- Rumours say the sisters had to flee Alinor.
+- Some say they spy for the Thalmor, some say they smuggle dissidents out of Solitude, away from the eyes of the Thalmor.
+- If they would truly be appreciated by the Thalmor, Elenwen would order them to sew dresses for her.
+- As much as I appreciate the gesture, please do not buy any fancy clothes for me. I had worn enough of them in my youth.
