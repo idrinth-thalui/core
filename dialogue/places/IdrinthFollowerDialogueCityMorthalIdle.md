@@ -7,3 +7,22 @@
 - Lami is quite versed in alchemy, be sure to browse her shop from time to time.
 - Falion has a shop here, if you're looking for new scrolls or books.
 - I may not like Falion, but he'll buy those surplus staves off you.
+- Morthal is said to be named after Morihaus Breath-of-Kyne. I only heard of him.
+- Swamps are not my favourite place, but the city is acceptable.
+- You find many kinds of mushrooms around here. But watch out for predators.
+- What I hate about this town are the spiders thriving in the swamps around it.
+- It is safer to buy local ingredients in Lami's shop. Outside spiders and chaurus are prowling.
+- There are times I prefer the swamp to the inn. Especially when Lurbuk sings.
+- Do not fear the Jarl. Idgrod may sound like she's touched by Sheogorath, but she has the gift of visions. Though I imagine it to be a curse sometimes.
+- The fog and humidity from the swamp dankens the mood.
+- Last year I stepped out of the inn and right into a frostbite spider. Not a nice way to start your day.
+- As small as it is, the city feels welcoming after crossing the swamp.
+- Be careful when leaving Morthal. I encountered chaurus close to it before.
+- Whichever deity watches over Morthal be praised that no Falmer lurk nearby.
+- This city has a strange feeling. Something dangerous lurks nearby. (before Laid to Rest)
+- By Trinimac....for a moment I thought I felt another vampire. (before Laid to rest)
+- Something evil roams the swamp. I can sense it. (before Laid to Rest)
+- The city feels safer now. The evil presence is gone. (after Laid to Rest)
+- A dark cloud has been lifted from Morthal. (after Laid to Rest)
+- Even the predators nearby are more peaceful now. (after Laid to rest)
+- You feel it too? The people are less frightened. (after Laid to rest)
