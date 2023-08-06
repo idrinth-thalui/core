@@ -26,4 +26,4 @@
 - This Niranye seems suspicious. Fresh from the Isles, and free to sell her good openly in Windhelm? I seriously doubt that.
 - I wonder what she is. A Thalmor spy? An Imperial agent? Someone more shady?
 - Amazing how Rolff does not harass Niranye. I wonder if she pays him to leave her alone.
-- I doubt Oengul War-Anvil is as good a blacksmith as Eorlund Gray-Mane. Even if they switch their forges.
+- I doubt Oengul War-Anvil is as good a blacksmith as Eorlund Gray-Mane. Even if they switch their forges
