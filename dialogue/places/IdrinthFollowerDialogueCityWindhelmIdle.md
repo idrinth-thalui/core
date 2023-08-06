@@ -16,7 +16,7 @@
 - The Gray Quarter was once named the Snow Quarter. You can guess why.
 - The Nords placed the Dunmer refugees in the poorest and coldest quarter.
 - I like to visit the Gray Quarter. Most Dunmer living there do their best to have a good life.
-- If you see orphaned children around - the ones who care for them are the Dunmer. regardless who the children are.
+- If you see orphaned children around - the ones who care for them are the Dunmer. Regardless who the children are.
 - Most Dunmer here are of the fallen House Hlaalu. I heard they fled as a group and live here for 190 years.
 - I pity the Argonians in the harbour. Cold place, cold people...
 - It is a hard live for the Argonians at the docks. They are not made for this cold weather.
