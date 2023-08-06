@@ -4,3 +4,26 @@
 - As shabby as it is, the Gray Quarter feels more homely to me.
 - Care to join me in the New Gnisis Cornerclub? Been a while since I tasted genuine Morrowind cuisine.
 - This really feels like home, it's racist enough.
+- How many dead Snow Elves were buried in the walls? I still can sense their grief.
+- I shudder to think over how many unmarked graves we walk. And most Nords do not even know...
+- It's a cold city. Founded by Atmorans burning with hate for everything meric.
+- The chill winds are as cold as the Nords hearts.
+- How many people here are still haunted by the ghosts of old?
+- As bitter and xenophobic the Nords here are - compared to Thalmor-ruled Altmer cities they are kind and welcoming.
+- One day I will thank Rolff for his warm welcome of all Elves entering the city.
+- Rolff Stone-Fist should learn a few things from the Thalmor, if he wants to harass foreigners. He's... about as scary as a puppy stumbling over it's paws.
+- No wonder the Old Companions were so hateful. Living in constant Winter, in a city echoing with pain and grief...
+- The Gray Quarter was once named the Snow Quarter. You can guess why.
+- The Nords placed the Dunmer refugees in the poorest and coldest quarter.
+- I like to visit the Gray Quarter. Most Dunmer living there do their best to have a good life.
+- If you see orphaned children around - the ones who care for them are the Dunmer. regardless who the children are.
+- Most Dunmer here are of the fallen House Hlaalu. I heard they fled as a group and live here for 190 years.
+- I pity the Argonians in the harbour. Cold place, cold people...
+- It is a hard live for the Argonians at the docks. They are not made for this cold weather.
+- The Nords here treat the Argonians not much better than the Dunmer two centuries ago.
+- It may sound strange, but the Altmer living here are treated better than the Dunmer.
+- Nurelion the alchemist is a highly respected person. Niranye on the other hand...
+- This Niranye seems suspicious. Fresh from the Isles, and free to sell her good openly in Windhelm? I seriously doubt that.
+- I wonder what she is. A Thalmor spy? An Imperial agent? Someone more shady?
+- Amazing how Rolff does not harass Niranye. I wonder if she pays him to leave her alone.
+- I doubt Oengul War-Anvil is as good a blacksmith as Eorlund Gray-Mane. Even if they switch their forges.
