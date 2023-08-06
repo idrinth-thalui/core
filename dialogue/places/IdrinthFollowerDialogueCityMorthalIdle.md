@@ -14,7 +14,7 @@
 - It is safer to buy local ingredients in Lami's shop. Outside spiders and chaurus are prowling.
 - There are times I prefer the swamp to the inn. Especially when Lurbuk sings.
 - Do not fear the Jarl. Idgrod may sound like she's touched by Sheogorath, but she has the gift of visions. Though I imagine it to be a curse sometimes.
-- The fog and humidity from the swamp danpens the mood.
+- The fog and humidity from the swamp dampens the mood.
 - Last year I stepped out of the inn and right into a frostbite spider. Not a nice way to start your day.
 - As small as it is, the city feels welcoming after crossing the swamp.
 - Be careful when leaving Morthal. I encountered chaurus close to it before.
