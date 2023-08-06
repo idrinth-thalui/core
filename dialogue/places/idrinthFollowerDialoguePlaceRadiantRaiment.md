@@ -1,7 +1,7 @@
 - They appear to be very good. I doubt most of their customers realise that.
 - Many complain about their way of dealing with customers. Compared to a cousin of mine back in Alinor they both are very kind and helpful.
 - If Nazeem would live here, I doubt he'd ever leave this place. Then again, Endarie would use him as pincushion.
-- Many suspect them to work with the Thalmor. I doubt that. They do not like the Thalmor any more like I do.
+- Many suspect them to work with the Thalmor. I doubt that. They do not like the Thalmor any more than I do.
 - Some of their garment reminds me of my youth. Bittersweet memories.
 - They rarely can show their true craftsmanship. Most people are to poor or too indifferent to Altmeri couture. Or both.
 - Their talent is better placed in High Rock or the Isles.
