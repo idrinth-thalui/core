@@ -1,3 +1,11 @@
 - You are not trying to lock me in, are you?
 - Not very secure, is it?
 - A waste of space, either a crime is worth a fine, a banishment or death.
+- Most prisons are filled with people who had to steal to survive.
+- And why are these ones imprisoned?
+- Avoid serving jail time in Solitude. I mean it.
+- I heard of prisoners being forgotten in the Chill for years.
+- Cidhna Mine is rumoured to be the safest prison in Skyrim. I doubt that. Every mine has it's secret tunnel.
+- The Riften jail is a joke. Not one real thief in there.
+- Those jail bars remind me of some bad times in my life.
+- Caged like animals...
