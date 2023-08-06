@@ -3,3 +3,11 @@
 - No wonder the Nords of Skyrim fear magic. Between the Thalmor and these rogue apprentices...
 - Keep an eye out for scrolls and spell tomes.
 - Is that all you got? Pathetic!
+- Warlocks. Mostly those mages who strife for power without wanting to actually work hard for it.
+- How many college dropout do we have here?
+- Wonderful - another bunch of self-proclaimed masters of magic.
+- Many of them are self-taught. I am amazed they can conjure creatures from Oblivion without them turning on their conjurers.
+- Warlocks. Again. Trinimac, why?
+- Syrabane curse you all, you pathetic pretenders!
+- The best about warlocks is that the hoard any magic-related items they can get their greedy hands on.
+- Do look out for rare ingredients. You'd be amazed what warlocks have in their satchels. 
