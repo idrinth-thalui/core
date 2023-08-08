@@ -1,3 +1,15 @@
 - Last time I was here, this was a thriving Imperial military post. With far less ash.
 - No wonder so many Morrowind plants grow here now. Fits in with the Dunmer architecture.
 - House Redoran is my favourite Dunmer House - they are reliable, fierce warriors.
+- There is something strange about this place. Like a bad aftertaste in your mouth.  (before the cleansing of the Earth Stone/Miraak's end)
+- If it wasn't for the occasional ash storms, it would be quite homely.  (after the cleansing of the Earth Stone/Miraak's end)
+- The people here are desperate. The Ebony mine was one of the richest all around.  (before the Final Descent)
+- Good the mine reopened. You gave back hope to the people here. (after the Final Descent)
+- A good thing House Redoran protects the city. Other Houses are less practical and more caught up in the bad Old Ways.
+- Gifting Solstheim to the Dunmer refugees was a noble gesture from the Jarls at that time. The environment here is much better than in Morrowind.
+- Both the Councillor and his second Councillor seem to be capable men.
+- The current Councillor inherited his post from his mother.
+- I heard that Lleril Morvayn financed the restoration of the Bulwark himself, some 70 years ago. A good man.
+- Being transferred from the East Empire Company to House Redoran was good for all citizens of Raven Rock, though many Imperials left.
+- The mine is placed on an old Nord burial ground. There was a lot of turmoil back then.
+- You can see the Red Mountain from here. Beautiful and yet so deadly.
