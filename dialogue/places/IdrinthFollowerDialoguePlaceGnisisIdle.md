@@ -7,7 +7,7 @@
 - I have a pretty good idea where all the old horses of Windhelm end up. Dunmer love horse meat.
 - Ah, that smell... I remember the last time she cooked that for me...
 - Hm. Redoran porridge. Simple yet nourishing.
-- A pity that skeever do not taste as good as cave rats.
+- A pity that skeever does not taste as good as cave rat.
 - Nothing against a hearty crab meat stew.
 - Now that is interesting: Dunmer-style vegetables served with Argonian-style fish.
 - I know, Dunmer cuisine can be even stranger than Bosmer cuisine. But I love it.
