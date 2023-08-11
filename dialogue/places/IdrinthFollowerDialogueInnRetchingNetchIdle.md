@@ -13,7 +13,7 @@
 - I wonder if they can get their hands on Kaveh?
 - Good they do not have any Greef. Last time I drank it, I had headaches for three days.
 - What this Cornerclub needs is a good bard. One who is well versed in Dunmeri songs, of course.
-- Ten septims that the roasted horse steak here tastes way better than in Skyrim... why are you looking at me like that? Dunmer think that guars are for riding.
+- Ten septims that the roasted horse steak here tastes way better than in Skyrim...why are you looking at me like that? Guars are for riding here.
 - We should take some ingredients back to Windhelm. The Gray Quarter badly misses a lot of these delicacies.
 - *sigh* This Sujamma would pair greatly with my wife's radish tartelettes.
 - I'll have a Trama root tea. Calming and refreshing.
