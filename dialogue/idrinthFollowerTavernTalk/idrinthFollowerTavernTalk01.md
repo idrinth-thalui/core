@@ -27,7 +27,7 @@
 - 8.1: "A strange land, indeed. Though I am intrigued by the Hist and their relationship with Argonians."
 - 9.1: "A cold land with a tragic history. As a lad I wanted to visit my Snow Elven cousins, but never made it happen..."
 - 10.1: "You have travelled a long way. Maybe sometime you will tell me more about your home?"
-- 11.1: "I sense you are not like us. I hope you will see your home one day again."
+- 11.1: "I sense you are not like us. I hope you will see your home again one day."
 
 - Idrinth: "And what is your profession here, if I may ask?" (if player chose Skyrim as home)
 - 1a: "A proud veteran of the Great War."
@@ -91,7 +91,7 @@
 - 2d.1: "The search for knowledge is a noble one. May Syrabane prevent you from becoming drunk by the power that comes with it. And protect you from dangers."
 - 2e.1: "Wrestling the ore from the belly of Nirn is truly a backbreaking fate. I'd be honoured in aiding you seeking a better life in a new land."
 - 2f.1: "May your blade be sharp, and your senses keen. Your services are truly needed in this war-torn land."
-- 2g.1: "Falling on hard times? Or driven by dire need? I do hope your motifs were honourable. And you don't have to leave your loved ones behind."
+- 2g.1: "Falling on hard times? Or driven by dire need? I do hope your motifs were honourable. And you didn't have to leave your loved ones behind."
 - 2h.1: "Ah, the impatience of youth... I vaguely remember the call of mysterious foreign lands. May you never regret your choice."
 - 2j.1: "Justice can be blind and random. But an innocent soul will prevail, like the sun will rise after the darkest night. I wish you the best."
 - 2k.1: "Ah, the overly eagerness of the Legion - and their bureaucracy. Second only to the Thalmor. The Gods truly smiled upon you that day you escaped."
