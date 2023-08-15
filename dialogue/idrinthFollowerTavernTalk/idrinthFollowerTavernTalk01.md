@@ -91,7 +91,7 @@
 - 2d.1: "The search for knowledge is a noble one. May Syrabane prevent you from becoming drunk by the power that comes with it. And protect you from dangers."
 - 2e.1: "Wrestling the ore from the belly of Nirn is truly a backbreaking fate. I'd be honoured in aiding you seeking a better life in a new land."
 - 2f.1: "May your blade be sharp, and your senses keen. Your services are truly needed in this war-torn land."
-- 2g.1: "Falling on hard times? Or driven by dire need? I do hope your motifs were honourable. And you don't have to leave your loved ones behind."
+- 2g.1: "Falling on hard times? Or driven by dire need? I do hope your motifs were honourable. And you didn't have to leave your loved ones behind."
 - 2h.1: "Ah, the impatience of youth... I vaguely remember the call of mysterious foreign lands. May you never regret your choice."
 - 2j.1: "Justice can be blind and random. But an innocent soul will prevail, like the sun will rise after the darkest night. I wish you the best."
 - 2k.1: "Ah, the overly eagerness of the Legion - and their bureaucracy. Second only to the Thalmor. The Gods truly smiled upon you that day you escaped."
