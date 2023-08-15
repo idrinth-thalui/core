@@ -27,7 +27,7 @@
 - 8.1: "A strange land, indeed. Though I am intrigued by the Hist and their relationship with Argonians."
 - 9.1: "A cold land with a tragic history. As a lad I wanted to visit my Snow Elven cousins, but never made it happen..."
 - 10.1: "You have travelled a long way. Maybe sometime you will tell me more about your home?"
-- 11.1: "I sense you are not like us. I hope you will see your home one day again."
+- 11.1: "I sense you are not like us. I hope you will see your home again one day."
 
 - Idrinth: "And what is your profession here, if I may ask?" (if player chose Skyrim as home)
 - 1a: "A proud veteran of the Great War."
