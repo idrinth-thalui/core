@@ -1,7 +1,7 @@
 - Before the Red Mountain erupted, the southern pine woods were as lush as the ones in Falkreath.
 - The only difference between Solstheim and the Skyrim mainland were the rieklings.
 - Most plants were brought over by the Dunmer, for only they can thrive in the ash.
-- Quite a lot of Morrowind creatures can be found.
+- Quite a lot of Morrowind creatures can be found here.
 - The ash in the air makes breathing difficult.
 - Shortly after the Red Year there were many months here when you couldn't see the sun.
 - Take care, the snow is mingled with ash.
