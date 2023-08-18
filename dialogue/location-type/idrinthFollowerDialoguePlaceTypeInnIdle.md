@@ -5,7 +5,7 @@
 - Ah, good to be in a warm, dry place.
 - You look tired. Better rent a bed.
 - Fancy anything special today? I'll ask what's on the menu.
-- Nothing against a drink or too. But don't overdo it.
+- Nothing against a drink or two. But don't overdo it.
 - Do all bards learn Ragnar the Red as their first song?
 - Quite comfy here. A good rest replenishes our strength.
 - I wonder how long it takes for a drunk customer to call me a Thalmor spy?
