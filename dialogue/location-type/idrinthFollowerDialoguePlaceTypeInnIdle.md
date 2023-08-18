@@ -2,3 +2,16 @@
 - I could really use some wine.
 - I'll see you later!
 - I'll get myself something to drink.
+- Ah, good to be in a warm, dry place.
+- You look tired. Better rent a bed.
+- Fancy anything special today? I'll ask what's on the menu.
+- Nothing against a drink or too. But don't overdo it.
+- Do all bards learn Ragnar the Red as their first song?
+- Quite comfy here. A good rest replenishes our strength.
+- I wonder how long it takes for a drunk customer to call me a Thalmor spy?
+- The inns in Skyrim feel even more cosy when the weather outside is bad.
+- A hearty stew with meat and vegetables is always perfect to warm your belly. Except for Bosmer, of course.
+- I should go to bed soon.
+- Don't stay up too long.
+- The sun rises early. We should be ready then.
+- I feel the snow on my back melting.
