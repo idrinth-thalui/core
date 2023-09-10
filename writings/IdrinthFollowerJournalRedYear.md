@@ -1,7 +1,7 @@
 5th Second Seed 4E5
 
-... The refugees I've met told me the eruptions subsided.  From what I hear Ald'ruhn was completely destroyed, and my heart sinks. Did I fail my love again? 
-Will I be too late again to say my final goodbye? I have to brace the ashen storms soon. I have to find her grave. Was it not enough that we lost our life together 
+... The refugees I've met told me the eruptions subsided.  From what I hear Ald'ruhn was completely destroyed, and my heart sinks. Did I fail my love again?
+Will I be too late again to say my final goodbye? I have to brace the ashen storms soon. I have to find her grave. Was it not enough that we lost our life together
 when I was turned into a bloodthirsty monster?  Arlinve, I cannot bear to lose your  grave as well...
 
 
