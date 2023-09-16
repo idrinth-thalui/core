@@ -13,4 +13,4 @@
 - Stendarr, call them back!
 - Spread your justice elsewhere!
 - Ancestors, not you again!
-- Do I look like a deadra?
+- Do I look like a daedra?
