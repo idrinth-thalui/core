@@ -14,3 +14,4 @@
 - Spread your justice elsewhere!
 - Ancestors, not you again!
 - Do I look like a daedra?
+- Stendarr have mercy on you!
