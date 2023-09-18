@@ -14,3 +14,13 @@ The Oblivion Crisis was the start of him actively hunting for daedra worshippers
 During the Great War, he fought against the Aldmeri Dominion (mostly within Cyrodiil), ambushing supplies where possible. He didn't join the Imperial army, though the blame for that rests on his Vampiric Altmeri body. Could you imagine the mess that might cause?
 
 After many years, his travels lead him to Skyrim, where he desires to end the bloody Civil War quickly, weaken the Thalmor, and learn about the Thu’um.
+
+## Name
+
+### Idrinth ~> Indoth+Diren ~> Quick Victory
+
+This part was his parent's wishes, meaning he should bring quick victory to the family.
+
+### Thalui ~> Thalma-lye ~> Tree of Decision
+
+This part was always meant as a title along the lines of sticks to his decisions.
