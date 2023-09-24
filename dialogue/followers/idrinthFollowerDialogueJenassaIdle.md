@@ -1,5 +1,10 @@
-- Would love to see more of your artistry.
-- Nice work, I love your art.
+- I do hope your eagerness does not spring from all too fervent devotion to the five times cursed one?
+- Excellent work. You wield your blade well.
 - Up for some sparring, Jenassa?
-- An artist of war and an art collector meet...
-- You are a natural. If you ever want to share tricks, I'm all ears.
+- You are a skilled fighter. But do not reduce yourself to it.
+- You show great potential. If you ever want some advise, I am eager to teach you.
+- Azura may guide you.
+- By Trinimac, you are a fine warrior.
+- I hope you prefer Azura over the... other ones.
+- Your determination reminds me of a young Dunmer warrior I met back in the Second Age.
+- You are good at merging in the shadows. Do not let them drain your honour.
