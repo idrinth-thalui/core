@@ -1,0 +1,17 @@
+- I'm on your side!
+- I do not wish to fight you!
+- Why do you hunt the vampire hunter?
+- Do not make me fight you!
+- Trinimac, why me?
+- Go hunt some daedra!
+- Do not make me harm you!
+- You people again?
+- For the last time, I am on your side!
+- Why can't you leave me alone?
+- Go hunt some real dangers!
+- Trinimac, make them see reason!
+- Stendarr, call them back!
+- Spread your justice elsewhere!
+- Ancestors, not you again!
+- Do I look like a daedra?
+- Stendarr have mercy on you!
