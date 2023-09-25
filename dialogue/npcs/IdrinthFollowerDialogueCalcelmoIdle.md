@@ -1,6 +1,6 @@
 - I met Calcelmo at several Dwemer ruins. Before the Forsworn became stronger.
 - I remember saving him from bandits, about a century ago. He was too busy translating an ancient Dwemer inscription to notice them.
-- I heard that Calcelmo mistook Ondolemar for a excavation helper, when he first came to Markarth. They did not speak with each other the two years.
+- I heard that Calcelmo mistook Ondolemar for an excavation helper, when he first came to Markarth. They did not speak with each other the two years.
 - Calcelmo's nephew Aicantar is to be pitied sometimes. Always ordered around...reminds me of my youth.
 - He would jump into the Red Mountain for a chance to see a living Dwemer.
 - If Calcelmo would have been around during Tiber Septim's war on the Isles, he would have tried to take the Numidium apart.
