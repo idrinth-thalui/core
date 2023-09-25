@@ -1,13 +1,13 @@
 - I met Calcelmo at several Dwemer ruins. Before the Forsworn became stronger.
 - I remember saving him from bandits, about a century ago. He was too busy translating an ancient Dwemer inscription to notice them.
-- I heard that Calcelmo mistook Ondolemar for a new excavation helper, when he came to Markarth the first time. They did not speak with each other the next two years.
+- I heard that Calcelmo mistook Ondolemar for a excavation helper, when he first came to Markarth. They did not speak with each other the two years.
 - Calcelmo's nephew Aicantar is to be pitied sometimes. Always ordered around...reminds me of my youth.
 - He would jump into the Red Mountain for a chance to see a living Dwemer.
 - If Calcelmo would have been around during Tiber Septim's war on the Isles, he would have tried to take the Numidium apart.
 - By Syrabane, that man knows more about the Dwemer than some Dwemer...
 - I do hope Calcelmo never made a pact with Hermaeus Mora. He is very ardent in his pursue of Dwemer knowledge.
 - I am rarely here in Markarth. One thing that pulls me here is wondering if Calcelmo has finally assigned a Dwemer centurion for excavation.
-- Calcelmo got a dwarven spider to work, and it attacked him - I heard Ondolemar turned it into scrap metal. Calcelmo was devastated his spider was destroyed.
+- Calcelmo got a dwarven spider to work, and it attacked him - I heard Ondolemar turned it into scrap metal. He was devastated his spider was destroyed
 - It is told that Calcelmo did not even notice the Battle of Markarth, because he was so busy with his excavation. That might even be true.
 - I doubt Calcelmo would be interested in anything besides Dwemer.
 - He is smitten by Faleen? I am...speechless.
