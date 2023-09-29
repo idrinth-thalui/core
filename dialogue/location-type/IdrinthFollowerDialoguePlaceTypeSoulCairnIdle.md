@@ -2,7 +2,7 @@
 - Trinimac guard us in this wasteland.
 - The air tingles with twisted magicka.
 - Can you hear them? Countless souls lost in the mist, their screams reduced to a murmur.
-- The Soul Cairn is rumored to be the place soul-trapped beings end up. A horrible fate.
+- The Soul Cairn is rumoured to be the place soul-trapped beings end up. A horrible fate.
 - I hope I don't meet anyone I know.
 - What a desolate realm...
 - Great stars, i hope I never end up here!
@@ -17,7 +17,7 @@
 - I feel it hard to keep track of time here.
 - I liked lavender. After this - not anymore. Strange colour.
 - These bone heaps are depressing.
-- Are these bones the reamains of those trapped here alive?
+- Are these bones the remains of those trapped here alive?
 - That ghost looked familiar.
 - Another of these black skeletons around?
 - These cairn stones all look the same.
