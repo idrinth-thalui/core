@@ -1,0 +1,9 @@
+- Nurelion is the best alchemist in Skyrim. He was one of the best in the Summerset Isles, ere he moved here. Before the Great Anguish.
+- This Altmer alchemist lives here longer than most Dunmer.
+- Nurelion had saved Ulfric's father, Hoag Stormcloak, when he became gravely ill as a child.
+- I overheard Galmar threatening to throw his brother Rolff out of Windhelm if he dares to insult Nurelion again.
+- I understand Nurelion's frustration. He spend more than 300 years searching for his dream, and feels his end near.
+- Nurelion sometimes gives much needed potions to sick Dunmer, claiming they are worthless ones mixed wrongly by his apprentice. They are not.
+- Without Nurelion's skills, many wounded Stormcloaks would have died.
+- He was already a great alchemist when I saw him back in Lillandril, about 250 years ago.
+- Do not let his age-ridden impatience fool you. Nurelion is a good man. And close to his death.
