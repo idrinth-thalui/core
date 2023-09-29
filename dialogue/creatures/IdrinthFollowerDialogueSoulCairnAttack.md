@@ -4,7 +4,7 @@
 - Great stars, leave those poor souls alone!
 - By Trinimac, you will not corrupt me!
 - Be thrice cursed!
-- Rejoin the boneyards!
+- Rejoin the boneyard!
 - I will grind your black bones to dust!
 - Did I not vanquish you before?
 - Fall to my blade! Again!
