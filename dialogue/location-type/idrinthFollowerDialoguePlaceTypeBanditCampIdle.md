@@ -4,3 +4,14 @@
 - Did they flee their burned farms or the army's strictness?
 - Booby trapping their lair...they act like cowards, not fighters.
 - Let's see how much honour is left in them.
+- If they are smart, they surrender.
+- Not all bandits are bloodthirsty maniacs. Some became outlaws due to dire needs.
+- Bandits often have nothing left to lose.
+- May your gods have mercy on them. I do not.
+- Trinimac, forgive me fighting such cowards.
+- Be careful. Many bandits secure their camps with traps.
+- Magic users among bandits are dangerous.
+- Be on the lookout for archers. They like to strike from a hiding place.
+- So many farms are abandoned. Why do they not claim one of them and work in the fields?
+- I fought a bandit group who kept rabid skeevers as guards. That was a nasty fight.
+- Sometimes entire families live with the bandits. Be careful not to hurt the children. They deserve a better life.
