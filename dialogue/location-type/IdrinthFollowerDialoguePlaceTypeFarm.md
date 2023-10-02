@@ -3,3 +3,11 @@
 - I admire their courage not to seek shelter in one of the fortified cities.
 - Good the crops are still growing.
 - Horse manure and cow dung... oh, well, I smelled worse.
+- Without the farmers Skyrim would be lost.
+- They are always looking for helping hands. One way to earn septims.
+- Many farms have lost two generations of farmers already.
+- I have seen  several farms burned to the ground by bandit groups.
+- Be thankful for these men and women.
+- A cabbage field... I prefer wheat.
+- They keep goats. I can smell them.
+- If you want fresh vegetables, buy them directly from the farmers.
