@@ -6,3 +6,13 @@
 - They must have awakened with their old dragon masters.
 - Were those not walking the halls the ones following the Nordic gods?
 - The candles are lit. The draugr are awake.
+- I wonder how many of the draugr did want to become one?
+- Dozens of draugr patrolling the crypt, and none of them bothers to clear up the spiderwebs!
+- They wander around day and night. They could do something about those webs.
+- Lorkhan! I ran into a spiderweb again!
+- Draugr and traps. Keep an eye out for both.
+- Are those traps here to keep people out of the crypt or the draugr inside?
+- The draugr should know where their own traps are.
+- Twenty septims the next draugr walks into a trap.
+- Why do draugr let skeevers live inside their crypts? Skeever chew anything. Including draugr.
+- What's around the next corner? Draugr? A trap? Spiderwebs? All three?
