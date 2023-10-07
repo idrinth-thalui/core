@@ -3,3 +3,11 @@
 - I liked Vilod's mead with juniper berries.
 - Most of the people here I knew as children. They were used to see Altmer in the Legion and wanted me to play with them.
 - A terrible fate... may their souls find eternal rest.
+- This was once the gate to Cyrodiil. Now it's only ruins.
+- It must have been a harrowing experience for the few survivors.
+- I heard some Imperial soldiers and Stormcloaks only survived by fleeing together.
+- Elenwen was rumoured to be here the day of the attack. A pity she wasn't among the dead.
+- Elenwen was said to have fled once the dragon appeared. Ondolemar would have stood his ground.
+- If the Thalmor would have joined the fight, they could have saved some of the inhabitants. But Elenwen is a pampered coward.
+- Some say that Ulfric called the dragon himself. If he could do that, he would have done it sooner.
+- Some say the Thalmor called the dragon. If any Thalmor could call a dragon, all of Tamriel would know.
