@@ -3,3 +3,29 @@
 - Hit them!
 - Show them!
 - Go! Go! Go!
+- You think you're a Nord?
+- Do I have to join?
+- Watch your footwork!
+- Mind your defence!
+- You call that a fight?
+- You have no honour!
+- Pick someone your size!
+- Excellent handiwork!
+- Trinimac, what a sight!
+- You are proud of this?
+- That must have hurt!
+- Watch your back!
+- Be careful!
+- Whoa, don't hit bystanders!
+- A fight worth betting on!
+- Praise Trinimac!
+- Now for the kill!
+- That's how it's done!
+- Kids playing heroes...
+- Sloppy footwork!
+- Be ready to strike!
+- Yes, you got them!
+- Finish them!
+- Use your shield!
+- Block that hit!
+- Learn to fight first!
