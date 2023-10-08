@@ -1,0 +1,26 @@
+- A very depressing place, indeed.
+- Trinimac guard us in this wasteland.
+- The air tingles with twisted magicka.
+- Can you hear them? Countless souls lost in the mist, their screams reduced to a murmur.
+- The Soul Cairn is rumoured to be the place soul-trapped beings end up. A horrible fate.
+- I hope I don't meet anyone I know.
+- What a desolate realm...
+- Great stars, i hope I never end up here!
+- Trinimac, preserve us from this dishonoured fate.
+- You see these wisps? I fear these are souls shrivelled to nothingness.
+- This unworldly graveyard frightens me.
+- These mists never were chased away by Auri-El's light...
+- Great stars... may we escape from here again.
+- I think I knew that one. From back in the Second Era.
+- An eerie light around here...
+- These lightning bolts rattle my nerves.
+- I feel it hard to keep track of time here.
+- I liked lavender. After this - not anymore. Strange colour.
+- These bone heaps are depressing.
+- Are these bones the remains of those trapped here alive?
+- That ghost looked familiar.
+- Another of these black skeletons around?
+- These cairn stones all look the same.
+- Are you sure we go in the right direction?
+- I can feel a presence watching me...
+- At least we're not in Coldharbour or the Deadlands.
