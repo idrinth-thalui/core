@@ -24,10 +24,8 @@
 - Kids playing heroes...
 - Sloppy footwork!
 - Be ready to strike!
-- Yes, you got him!
-- Yes, you got her!
-- Finish him!
-- Finish her!
+- Yes, you got them!
+- Finish them!
 - Use your shield!
 - Block that hit!
 - Learn to fight first!
