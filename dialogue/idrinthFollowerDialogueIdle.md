@@ -105,7 +105,7 @@
 - The Trinimac priests of old were not as nice to humans as I am. But honour should always overcome anger.
 - Mudcrab meat is very tasty.
 - Slaughterfish make better trophies than meals.
-- If you hunt for salmons, look out for salmon roe.
+- If you hunt for salmon, look out for salmon roe.
 - Deer are great game. Just be careful around some guards when hunting.
 - Do not pick just the best parts of your prey. A good hunter salvages as much as possible.
 - Rabbits are quick, but more than enough for a hearty meal.
