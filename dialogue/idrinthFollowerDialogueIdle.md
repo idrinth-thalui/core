@@ -101,9 +101,6 @@
 - Never trust the daedra.
 - I wish I could have seen the cities of old Mereth.
 - This land is old. And full of memories. Most of them full of grief.
-- It is nice to walk around in Winterhold - on a sunny day, with the snow glittering like diamonds.
-- The crisp air is refreshing. And the hint of salt from the Sea of Ghosts... almost peaceful.
-- When the northern lights reflect in the Sea of Ghosts...it feels almost like home. Only colder.
 - I wonder what Ysgramor would say to the Divines of today. Kyne he'd recognise, but Tsun and Stuhn?
 - The Trinimac priests of old were not so nice to humans as I am. But honour should always overcome anger.
 - Mudcrab meat is very tasty.
