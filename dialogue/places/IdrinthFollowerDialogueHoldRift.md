@@ -1,0 +1,3 @@
+- The forests of the Rift are beautiful. Can't say that about the city Riften, though.
+- I love to walk the Rift in spring. Or in autumn.
+- The plains of Whiterun are spectacular in spring - rolling hills full of flowers.
