@@ -10,5 +10,5 @@
 - Fallowstone Hall was once more important than Jorrvaskr.
 - Without the mine, Shor's Stone would have been abandoned decades ago.
 - I remember being a bit uneasy in this village, back when the Companions lived here. Most were wary of Altmer.
-- The first time I came here, there were two full sets of Snow Elven armour placed at the gates of Fallowstone Hall. With their owners still inside. Welcoming...
+- The first time I came here, there were two sets of Falmer armour placed at the gates of Fallowstone Hall. With their owners still inside. Welcoming..
 - Centuries ago, most people here were warriors. Now, it's only miners.
