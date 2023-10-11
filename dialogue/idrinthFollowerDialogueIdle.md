@@ -102,7 +102,7 @@
 - I wish I could have seen the cities of old Mereth.
 - This land is old. And full of memories. Most of them full of grief.
 - I wonder what Ysgramor would say to the Divines of today. Kyne he'd recognise, but Tsun and Stuhn?
-- The Trinimac priests of old were not so nice to humans as I am. But honour should always overcome anger.
+- The Trinimac priests of old were not as nice to humans as I am. But honour should always overcome anger.
 - Mudcrab meat is very tasty.
 - Slaughterfish make better trophies than meals.
 - If you hunt for salmons, look out for salmon roe.
