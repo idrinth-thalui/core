@@ -1,0 +1,3 @@
+- It is nice to walk around in Winterhold - on a sunny day, with the snow glittering like diamonds.
+- The crisp air is refreshing. And the hint of salt from the Sea of Ghosts... almost peaceful.
+- When the northern lights reflect in the Sea of Ghosts...it feels almost like home. Only colder.
