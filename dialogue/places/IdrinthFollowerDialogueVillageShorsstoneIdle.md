@@ -1,3 +1,14 @@
 - You ever wondered what Shor's Stone is exactly?
 - This was once home to the headquarters of the Companions, Fallowstone Hall.
 - The Worm Cult stole Wuuthrad from here to resurrect the giant Sinmur. In the end, they didn't succeed.
+- The mine here is very old.
+- I read old stories about Shor' Stone, but...they sound more fitting to a worshipper of Sanguine.
+- Apparently this was one of the eldest places to revere Shor, whom we Altmer call Lorkhan.
+- Legends say the Doom Drum was an actual weapon and not only a name for Shor. If then, it would be hidden here.
+- Once a thriving village, now more a miner's camp. The fate of many a settlement.
+- There are many explanations for the name "Redbelly Mine".
+- Fallowstone Hall was once more important than Jorrvaskr.
+- Without the mine, Shor's Stone would have been abandoned decades ago.
+- I remember being a bit uneasy in this village, back when the Companions lived here. Most were wary of Altmer.
+- The first time I came here, there were two sets of Falmer armour placed at the gates of Fallowstone Hall. With their owners still inside. Welcoming..
+- Centuries ago, most people here were warriors. Now, it's only miners.
