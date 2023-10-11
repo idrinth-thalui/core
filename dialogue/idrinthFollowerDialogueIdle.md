@@ -113,7 +113,7 @@
 - Since the Civil War started, stray dogs are a common sight. Poor dogs.
 - Be careful, some dogs might be rabid.
 - Wolves are multiplying with less guards protecting the roads.
-- Some wolves carry more diseases as a skeever.
+- Some wolves carry more diseases than a skeever.
 - I hope that howl came from a large wolf, and not a werewolf.
 - Skeever are not to be trifled with. Some are carrying harrowing diseases.
 - Skeever may be easy to kill when alone. But they are rarely alone.
