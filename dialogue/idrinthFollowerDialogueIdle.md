@@ -161,7 +161,7 @@
 - How many sweetrolls do you carry around? No wonder bears are after us.
 - If you kill a bear, make sure to leave the pelt intact. They fetch a good price.
 - Look around - bears are often near bee hives.
-- Bears like berries. let's pick them.
+- Bears like berries. Let's pick them.
 - Fancy searching for mushrooms today?
 - I hope the weather won't change.
 - Picking flowers can be quite lucrative.
