@@ -99,3 +99,79 @@
 - Ever been attacked by a walking ice wall?
 - Storm atronachs - no nice enemies for mages.
 - Never trust the daedra.
+- I wish I could have seen the cities of old Mereth.
+- This land is old. And full of memories. Most of them full of grief.
+- I wonder what Ysgramor would say to the Divines of today. Kyne he'd recognise, but Tsun and Stuhn?
+- The Trinimac priests of old were not so nice to humans as I am. But honour should always overcome anger.
+- Mudcrab meat is very tasty.
+- Slaughterfish make better trophies than meals.
+- If you hunt for salmons, look out for salmon roe.
+- Deer are great game. Just be careful around some guards when hunting.
+- Do not pick just the best parts of your prey. A good hunter salvages as much as possible.
+- Rabbits are quick, but more than enough for a hearty meal.
+- I do hope you are not going to eat a fox?
+- Since the Civil War started, stray dogs are a common sight. Poor dogs.
+- Be careful, some dogs might be rabid.
+- Wolves are multiplying with less guards protecting the roads.
+- Some wolves carry more diseases as a skeever.
+- I hope that howl came from a large wolf, and not a werewolf.
+- Skeever are not to be trifled with. Some are carrying harrowing diseases.
+- Skeever may be easy to kill when alone. But they are rarely alone.
+- Skeever blood tastes awful. Don't ask.
+- Werewolves are on the rise again. I wonder if another of Hircine's hunts is near?
+- Some werewolves can control themselves. Most are rabid beasts, though.
+- With the Civil War raging, necromancers have an abundance of unclaimed corpses. Filthy thrice-cursed!
+- So many orphans left to fend for themselves. I wish I could do more to help them.
+- Stars above, I wish the Vigilants would refrain on hunting real dangers instead of me.
+- I understand the fervour of the first Vigilants, shortly after the Oblivion Crisis. But these children do not know what they are talking about.
+- Vigilants... hunting the vampire who hunts down other vampires. Stendarr have mercy with them...
+- Trinimac, another Vigilant?
+- Wait - did you hear that?
+- There's a strange feel to the air.
+- Hm? I apologise, I was lost in thought.
+- Arlinve, I wish you could see this...
+- That smell...what does that remind me of?
+- You noticed that stench, too?
+- Bears are unpredictable. They may just try to scare you away, or attack you like a Thalmor bears down on a Talos priest.
+- How many sweetrolls do you carry around? No wonder bears are after us.
+- If you kill a bear, make sure to leave the pelt intact. They fetch a good price.
+- Look around - bears are often near bee hives.
+- Bears like berries. Let's pick them.
+- Fancy searching for mushrooms today?
+- I hope the weather won't change.
+- Picking flowers can be quite lucrative.
+- Gathering ingredients is a good plan.
+- Care for a rest?
+- Do tell if you need to rest.
+- You know I could walk on all night, but what about you?
+- A good day for a brisk walk.
+- Sabre cats are fierce predators.
+- A sabre cat makes a fine trophy.
+- Does it smell like troll here?
+- Children stories tell of trolls hiding under bridges and taxing all who want to cross it.
+- I have seen troll dolls. Clearly made by someone who never encountered a troll.
+- If a frost troll keeps quiet, you're in for an unpleasant surprise in the snow.
+- When hunting trolls, keep fire ready. Stock up on torches.
+- Troll trophies are an impressive sight. But make sure to wash the pelt. Several times.
+- This land was once called Mereth - the Land of Elves.
+- I wonder what happened to all the Snow Elven treasures the Atmorans plundered. Did they melt them down and remade them to their liking?
+- Some tales tell of the souls of cursed Snow Elves wandering forever in the frozen wastelands.
+- How many Nords have mistaken Falmer for a kind of goblin?
+- The Nords should be grateful that the Snow Elves do not walk around like their draugr. Skyrim would be full of undead mer.
+- The draugr are getting more restless. I rarely saw one outside their tomb a decade ago.
+- I wonder how many tales of lurking draugr sprang from Falmer prowling around reclusive homes?
+- Such a fine night...Trinimac, with our luck there's a group of draugr waiting around the next corner.
+- What is more beautiful? The sunset or the moons lighting up the night sky?
+- Have you seen that butterfly? Was that a Green Slipper-Tail?
+- Quite a lot of butterflies here. I do hope they are only searching for nectar.
+- Do you know that Argonians consider butterflies a delicacy?
+- Horker may be slow on ground, but deadly in the water.
+- Horker are very useful prey, especially in winter.
+- With any luck, we find some bandits waiting for unwary travellers.
+- I prefer bandits attacking me. Other wanderers on the road are not as good defending themselves.
+- A bandit desperate enough to attack us has made his last mistake. Or hers.
+- Ancestors, do let the next bard not sing Ragnar the Red.
+- Do you prefer camping in the open or a bed in a cosy inn?
+- Want to know more about Skyrim's history? Ask away.
+- If we ever tell stories around the campfire, pray do not tell any about Argonians in maid outfits.
+- Ah, praise the warmth of Magnus' rays!
