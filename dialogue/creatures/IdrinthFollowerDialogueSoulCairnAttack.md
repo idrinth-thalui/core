@@ -1,0 +1,11 @@
+- Go back to your masters!
+- Down with you, vile shade!
+- May Auri-El's light dissolve you!
+- Great stars, leave those poor souls alone!
+- By Trinimac, you will not corrupt me!
+- Be thrice cursed!
+- Rejoin the boneyard!
+- I will grind your black bones to dust!
+- Did I not vanquish you before?
+- Fall to my blade! Again!
+- Now I could need a Vigilant!
