@@ -1,0 +1,2 @@
+- The Pale is a very lonely place to be outside Dawnstar or the main road.
+- They call the Pale "the old boot". Fitting.
