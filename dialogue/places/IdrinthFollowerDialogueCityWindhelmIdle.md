@@ -17,13 +17,13 @@
 - The Nords placed the Dunmer refugees in the poorest and coldest quarter.
 - I like to visit the Gray Quarter. Most Dunmer living there do their best to have a good life.
 - If you see orphaned children around - the ones who care for them are the Dunmer. Regardless who the children are.
-- Most Dunmer here are of the fallen House Hlaalu. I heard they fled as a group and live here for 190 years.
+- Most Dunmer here are of the fallen House Hlaalu. I heard they fled as a group and lived here for 190 years.
 - I pity the Argonians in the harbour. Cold place, cold people...
 - It is a hard live for the Argonians at the docks. They are not made for this cold weather.
 - The Nords here treat the Argonians not much better than the Dunmer two centuries ago.
 - It may sound strange, but the Altmer living here are treated better than the Dunmer.
 - Nurelion the alchemist is a highly respected person. Niranye on the other hand...
-- This Niranye seems suspicious. Fresh from the Isles, and free to sell her good openly in Windhelm? I seriously doubt that.
+- This Niranye seems suspicious. Fresh from the Isles, and free to sell her goods openly in Windhelm? I seriously doubt that.
 - I wonder what she is. A Thalmor spy? An Imperial agent? Someone more shady?
 - Amazing how Rolff does not harass Niranye. I wonder if she pays him to leave her alone.
 - I doubt Oengul War-Anvil is as good a blacksmith as Eorlund Gray-Mane. Even if they switch their forges.
