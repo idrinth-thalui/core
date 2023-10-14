@@ -4,3 +4,9 @@
 - You'll often find mushrooms in here. Make sure to gather them.
 - Ah, away from that unpleasant weather.
 - I wonder how big this cave is.
+- Which kind of animal lurks here?
+- Smells like more than one inhabitant.
+- Great. Spiderwebs. I hate spiderwebs.
+- ONE cave without spiderwebs. Stars above, is that too much to ask for?
+- Let's see who's lair we entered.
+- Ere we rest, we should check out the cave. I do not like to be surprised by a bear.
