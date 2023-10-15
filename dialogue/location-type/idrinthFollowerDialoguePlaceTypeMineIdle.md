@@ -10,5 +10,5 @@
 - Some mines are too narrow for me.
 - I always have to look out for low ceilings...
 - Many look down on miners. I do not.
-- I do not understand why miners are looked down. Without them I would not have my blade and armour.
+- I do not understand why miners are looked down upon. Without them I would not have my blade and armour.
 - Buy miners a drink, and you hear the strangest stories. Some might even be true.
