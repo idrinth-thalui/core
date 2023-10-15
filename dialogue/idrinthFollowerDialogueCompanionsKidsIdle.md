@@ -51,3 +51,5 @@
 - Tilma is a kind soul. Do not make her life harder.
 - I wonder if Tilma has some mer blood in her veins? She must be at least 80.
 - It won't hurt you to clean up your stuff yourself. Tilma is busy enough cooking for the pack.
+- Eorlund is not a great talker. He and Farkas could make a no talk contest.
+- Eorlund is an excellent blacksmith. Honour your weapon.
