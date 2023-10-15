@@ -1,3 +1,3 @@
-- The hot springs of Eastmarch are created by the hero Wuunding, who defeated a daedra with his flaming hammer. At least that is how the legend goes.
+- The hot springs of Eastmarch were created by the hero Wuunding, who defeated a daedra with his flaming hammer. At least that is how the legend goes.
 - Eastmarch, the Pale, the Rift and Winterhold are the Old Holds, both in history and minds of their inhabitants.
 - The geysers of Eastmarch are where the Alto wine comes from.
