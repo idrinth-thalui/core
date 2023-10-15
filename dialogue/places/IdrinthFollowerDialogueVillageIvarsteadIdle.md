@@ -6,3 +6,12 @@
 - From what I can see, the legendary steps could use a rebuild.
 - Haven't seen a frostheart blossom in some time. The last I found was before the Oblivion Crisis.
 - Every time I come here, it seems more people have abandoned this village.
+- This once was a thriving little village. And it had three inns to fit all the pilgrims.
+- It still is a good place to rest from your travels.
+- A pity most young folk want to move to Riften. This village is much safer.
+- After you being named Dragonborn, I expect more pilgrims coming to High Hrothgar again.
+- I do hope this village will be alive with pilgrims again.
+- A peaceful place to rest, and the woods are ripe with game to hunt and ingredients to gather.
+- Just imagine the trees being abloom with lavender flowers, and you know how my aunt's  wisteria lodge near Auridon looked.
+- In the morning sun Ivarstead reminds me of the villages of the Isles.
+- Would you leave for the Town of Thieves if you live here?
