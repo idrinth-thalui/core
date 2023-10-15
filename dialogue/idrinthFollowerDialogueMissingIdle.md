@@ -2,6 +2,6 @@
 - Thorald and Avulstein were often the first to see me when I get into Whiterun. Always playing "Hunt the Elf" with me...
 - It happened more than once that I tended to their bruises and helped them clean up ere going home.
 - I hope Fralia never finds out about that bear cub... Eorlund made me promise not to tell her. Ever.
-- They were wild at play, like any child, but they are good boys. And kind-hearted.
-- I hope Thorald will one day able to sleep without nightmares hounting him constantly.
+- They were wild at play, like any child, but they are good boys. And kindhearted.
+- I hope Thorald will one day able to sleep without nightmares haunting him constantly.
 - I am glad Avulstein does not know how dangerous the Thalmor really are - he'd be sick with worry.
