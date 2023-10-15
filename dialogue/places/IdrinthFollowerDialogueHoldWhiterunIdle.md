@@ -1,3 +1,4 @@
 - Whiterun is the second-eldest human city in Skyrim.
 - It is said that the Snow Elves shunned the hill Dragonsreach is build upon.
 - It's quite common in Whiterun hold to meet the Companions. Or Anoriath hunting for game.
+- The plains of Whiterun are spectacular in spring - rolling hills full of flowers.
