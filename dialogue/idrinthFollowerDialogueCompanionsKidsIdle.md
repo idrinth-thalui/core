@@ -1,5 +1,5 @@
 - Farkas and Vilkas were the greatest troublemakers in Whiterun as kids. And the ones always ready to help their Elders.
-- I found Farkas and Vilkas  far out in the woods once. Fhey took turns riding on my shoulders on the way back.
+- I found Farkas and Vilkas  far out in the woods once. They took turns riding on my shoulders on the way back.
 - Ah, the days when the twins were rallying all other children to hunt me, the "Evil Snow Elf"...
 - I remember when another kid mocked Farkas for being as stupid as a mudcrab...good thing I was there to keep Vilkas back.
 - They always begged me to try out my sword. You should have seen  how proud Farkas was when he could raise it.
