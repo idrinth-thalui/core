@@ -6,7 +6,7 @@
 - With two mines and the harbour, Dawnstar survived many a hard time.
 - Centuries ago this town was an exile post garrison.
 - When the wind blows from Atmora, it gets very cold.
-- I get the Vesuvius family still lives here - the are the oldest resident family. And one of them was part of the Mythic Dawn.
+- I get the Vesuvius family still lives here - they are the oldest resident family. And one of them was part of the Mythic Dawn.
 - I haven't seen any Ice tribe attacks since the Crisis. I guess they are all dead.
 - This town has seen several great battles.
 - The sun rising in the crisp morning mist is one of my favourite sights.
