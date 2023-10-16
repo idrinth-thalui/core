@@ -7,7 +7,7 @@
 - This was always the lushest place in Eastmarch.
 - Between snow-covered Windhelm and the Aalto surrounded by hot springs...Eastmarch is truly a province of extremes.
 - I remember when Kjeld was a little kid. He loved to hear stories. That stopped after the Great War broke out.
-- Pilgrims do not come here anymore. A pity. The Nords are forgetting their old faiths.
+- Pilgrims do not come here anymore. A pity. The Nords are forgetting their old faith.
 - The mine keeps the village alive. I haven't seen pilgrims here since before the Great War.
 - If you do not like Windhelm, spend the night here. The Braidwood Inn is more welcoming than Candlehearth Hall.
 - This village was once famous for it's special brand of Alto wine. Sadly, that was before the Oblivion Crisis...
