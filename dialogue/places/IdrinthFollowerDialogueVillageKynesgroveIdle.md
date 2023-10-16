@@ -3,3 +3,11 @@
 - There was an arena here. Wonder where it's gone?
 - Did you know that this place also bore the name of Dragonwood?
 - So Sahloknir was the reason this place was called Dragonwood.
+- The Grove was much larger once, with many old, majestic trees.
+- This was always the lushest place in Eastmarch.
+- Between snow-covered Windhelm and the Aalto surrounded by hot springs...Eastmarch is truly a province of extremes.
+- I remember when Kjeld was a little kid. He loved to hear stories. That stopped after the Great War broke out.
+- Pilgrims do not come here anymore. A pity. The Nords are forgetting their old faith.
+- The mine keeps the village alive. I haven't seen pilgrims here since before the Great War.
+- If you do not like Windhelm, spend the night here. The Braidwood Inn is more welcoming than Candlehearth Hall.
+- This village was once famous for it's special brand of Alto wine. Sadly, that was before the Oblivion Crisis...
