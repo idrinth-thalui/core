@@ -18,3 +18,20 @@
 - Trinimac, this city is being drenched of it's honour.
 - Maven struts around like an empress.
 - Too many good people living in fear.
+- Without the temple of Mara this city would be lost.
+- The Black-Briars. As greedy and selfish as the Silver-Bloods.
+- This city needs a temple of Stendarr... Trinimac, did I actually say that?
+- The Jarl's sons pampered princelings, Maven's children all depraved...Riften needs new leaders.
+- Many traders are good people. But do not trust Brynjolf.
+- Brand-Shei has always some little treasures from Morrowind set aside for me.
+- Madesi is an artist with gems. You won't find such craftsmanship in the rest of Skyrim.
+- Balimund's forge is unique.
+- The good thing about Riften is the variety of goods to buy and sell.
+- The last thief who tried to pickpocket me lost a hand.
+- Don't let your guard down. Check your pockets.
+- I advise you to leave my pockets alone, lest you will taste the edge of my blade...
+- You never see the children of the orphanage running around town.
+- Grelod the Kind - I heard she is a hagraven in human guise.
+- I heard that the priestess of Mara asked for the children to come for prayer each Sundas. I heard she asked in vain.
+- Oof. That whiff of stench was particularly nasty.
+- Many whisper that Riften needs another good burning. Some days I concur.
