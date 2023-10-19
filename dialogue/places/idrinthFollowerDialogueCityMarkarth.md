@@ -10,3 +10,27 @@
 - Sometimes I'm startled at seeing humans here - my first visit was when the Dwemer were still here.
 - I wonder if the Automatons in the Underkeep are still functional?
 - I've shunned the city since High Justiciar Ondolemar was assigned here, after the "Markarth Incident".
+- Nchuand-Zel looked really different. I saw the city once after the Dwemer disappeared.
+- Markarth. Above the Karth. A truly...human name.
+- I used to visit the city frequently, but after the Markarth Incident it is not the safest place for me.
+- Before the Great War I saw many a pilgrim visit the temple of Dibella. Now many fear travelling the roads.
+- The Forsworn prevent a lot of trade for the city.
+- The Forsworn would be wise not to attack Markarth while Ondolemar is here. He survived the Imperial City, fighting both the Legion and daedra.
+- Markarth is as rotten as Riften. You just don't see it as well.
+- Be careful not to commit any crimes here. Cidhna Mine is a harsh place.
+- Most people who enter the mine only come out dead.
+- Bothela is a kind woman, despite her looks.
+- Bothela knows many ancient recipes, handed down from her ancestors.
+- I wonder if the Silver-Bloods ever tried to bribe Ondolemar? No, they are still alive...
+- One of the goals of the Forsworn is to turn the temple into a shrine of Hircine again.
+- There are many whispered stories about the worship of Dibella. Guess someone mistook Dibella with Molag Bal.
+- Rumours say the priestesses secretly worship Sanguine. Stars above, the imagination of some people!
+- If Markarth should fall to the Forsworn, the Reach is lost.
+- Igmund is a reasonable man. He does his best to protect his people.
+- The Silver-Bloods are as bad as Maven Black-Briar.
+- Do not let yourself be fooled by the still open temple of Talos. I heard of several worshippers who fell for Ondolemar's trap.
+- The Silver-Bloods own most of the city.
+- The Silver-Bloods are so hungry for power, they would renounce Talos if the Thalmor promise them all of Skyrim.
+- I hope someone guards the gates of Nchuand-Zel. Who knows what still lurks beneath the city.
+- You see the Reachmen's tattoos? They come from back in the day when their Ayleid masters marked them this way.
+- Since the Silver-Bloods rose to power, the city is changing for the worst.
