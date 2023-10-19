@@ -15,7 +15,7 @@
 - I used to visit the city frequently, but after the Markarth Incident it is not the safest place for me.
 - Before the Great War I saw many a pilgrim visit the temple of Dibella. Now many fear travelling the roads.
 - The Forsworn prevent a lot of trade for the city.
-- The Forsworn would be wise not to attack Markarth while Ondolemar is here. He survived the battle for the Imperial City, fighting both the Legion and Naarifin's daedra.
+- The Forsworn would be wise not to attack Markarth while Ondolemar is here. He survived the Imperial City, fighting both the Legion and daedra.
 - Markarth is as rotten as Riften. You just don't see it as well.
 - Be careful not to commit any crimes here. Cidhna Mine is a harsh place.
 - Most people who enter the mine only come out dead.
