@@ -30,7 +30,7 @@
 - The Silver-Bloods are as bad as Maven Black-Briar.
 - Do not let yourself be fooled by the still open temple of Talos. I heard of several worshippers who fell for Ondolemar's trap.
 - The Silver-Bloods own most of the city.
-- The Silver-Bloods are so hungry for power, they would renounce Talos if the Thalmor promise them all of Skyrim.
+- The Silver-Bloods are so hungry for power, they would renounce Talos if the Thalmor promised them all of Skyrim.
 - I hope someone guards the gates of Nchuand-Zel. Who knows what still lurks beneath the city.
 - You see the Reachmen's tattoos? They come from back in the day when their Ayleid masters marked them this way.
 - Since the Silver-Bloods rose to power, the city is changing for the worst.
