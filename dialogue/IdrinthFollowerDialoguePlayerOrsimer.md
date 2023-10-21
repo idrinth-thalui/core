@@ -6,6 +6,6 @@
 - A welcome change to fight alongside a follower of Trinimac's Wrath.
 - It's been a long time I enjoyed a pink Zinfandel.
 - Nord food is on the meat side - care for a no-rhubarb salad? With extra garlic?
-- Most people here know Orsimer from the strongholds or the occational bandit.
-- If you want to know more abot the history of Wrothgar - I know quite a bit.
+- Most people here know Orsimer from the strongholds or the occasional bandit.
+- If you want to know more about the history of Wrothgar - I know quite a bit.
 - Do say if you want me to punish people calling you a giant goblin again.
