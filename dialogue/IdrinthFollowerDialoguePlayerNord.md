@@ -1,0 +1,12 @@
+- Do you feel the blood of your Atmoran ancestors in your veins?
+- You were born to roam these cold land.
+- A pity neither of us will see the Snow Elven cities of old.
+- If you prefer milk over mead - I won't judge.
+- Be honest: How long did you think I was a Thalmor? You still do?
+- Do you think your fellow Nords will turn back to their ancient Nordic deities?
+- I do hope none of your ancestors were among the draugr from the last crypt.
+- What do you think about the dragons?
+- Do tell me your favourite song is not Ragnar the Red.
+- I do hope the next inn has cheese scones.
+- Which kind of mead do you prefer?
+- I do hope me being an elf makes your ancestors squirm.
