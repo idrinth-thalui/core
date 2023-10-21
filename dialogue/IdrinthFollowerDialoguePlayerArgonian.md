@@ -5,6 +5,6 @@
 - You must miss the Marsh. We should venture to Morthal more often. It's the closest you can have in Skyrim.
 - So...which butterfly species does taste best to you?
 - I heard your scales needs a regular scrubbing. Is that true?
-- In Eastmarsh there are hot springs. Want to visit?
+- In Eastmarch there are hot springs. Want to visit?
 - I did like the baked bananas with grated cheese.
-- I know you Argonians know a lot of seafood recipies. Care to share?
+- I know you Argonians know a lot of seafood recipes. Care to share?
