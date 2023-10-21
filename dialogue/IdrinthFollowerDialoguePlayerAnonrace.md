@@ -11,4 +11,4 @@
 - What kind of animals roam your homeland?
 - Which plants grow there? Any familiar ones here in Skyrim?
 - Which language do you speak at home?
-- I apologize if I appear to be too curious. I never saw someone like you.
+- I apologise if I appear to be too curious. I never saw someone like you.
