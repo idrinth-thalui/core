@@ -7,5 +7,6 @@
 - HAve you ever tasted a Golden Pear Punch?
 - I do hope you don't find Skyrim too cold for your taste.
 - The Isles have changed much under Thalmor rule, I fear?
-- I long to return to the isles. But with the Thalmor, I may never will.
+- I long to return to the Isles. But with the Thalmor, I may never will.
 - I hope noone you love was taken to the camps.
+- Ah, I wish you could have seen the Crystal Tower during sunrise. It was sheer beauty.
