@@ -4,7 +4,7 @@
 - Which city do you hail from? Alinor? Shimmerene? Cloudrest?
 - I loved walking through the orchards while the cherries and peaches bloom.
 - Have you ever see the gryphon riders circling around Eton Nir?
-- HAve you ever tasted a Golden Pear Punch?
+- Have you ever tasted a Golden Pear Punch?
 - I do hope you don't find Skyrim too cold for your taste.
 - The Isles have changed much under Thalmor rule, I fear?
 - I long to return to the Isles. But with the Thalmor, I may never will.
