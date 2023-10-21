@@ -39,7 +39,7 @@
 - As long as Ria is considered a whelp, Vilkas would never consider a relationship.
 - Torvar joined the Companions about a year before Ria.
 - I wonder if Torvar mistook Jorrvaskr with a mundane Sovngarde?
-- Torvar is the stereotypic Nord. Drinking, boasting, brandishing his weapons.
+- Torvar is the typical Nord. Drinking, boasting, brandishing his weapons.
 - Farkas may look similar, but he is a good warrior. Not like Torvar.
 - Torvar's people are said to live in Solitude. I heard he had  a lot of money problems.
 - I remember Kodlak's predecessor, Askar. He was more careful around me.
