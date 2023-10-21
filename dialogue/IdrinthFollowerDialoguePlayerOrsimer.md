@@ -1,0 +1,11 @@
+- Most folks might call you Orcs, but I have not forgotten your ancestry, cousin.
+- Maybe you are a descendant of my uncle Sarcessar. He was a priest of Trinimac, when... you know.
+- Have you been to one of the strongholds?
+- Rare to see a female Orsimer outside a stronghold. Good for you.
+- Most people think you're mindless brutes. I do not.
+- A welcome change to fight alongside a follower of Trinimac's Wrath.
+- It's been a long time I enjoyed a pink Zinfandel.
+- Nord food is on the meat side - care for a no-rhubarb salad? With extra garlic?
+- Most people here know Orsimer from the strongholds or the occational bandit.
+- If you want to know more abot the history of Wrothgar - I know quite a bit.
+- Do say if you want me to punish people calling you a giant goblin again.
