@@ -1,0 +1,11 @@
+- It is good to walk with a fellow Altmer.
+- We should sit down and talk about the Isles in the next inn.
+- Do you miss the sunset on the Isles, too?
+- Which city do you hail from? Alinor? Shimmerene? Cloudrest?
+- I loved walking through the orchards while the cherries and peaches bloom.
+- Have you ever see the gryphon riders circling around Eton Nir?
+- HAve you ever tasted a Golden Pear Punch?
+- I do hope you don't find Skyrim too cold for your taste.
+- The Isles have changed much under Thalmor rule, I fear?
+- I long to return to the isles. But with the Thalmor, I may never will.
+- I hope noone you love was taken to the camps.
