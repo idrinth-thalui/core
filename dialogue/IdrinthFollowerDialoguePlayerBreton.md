@@ -1,0 +1,12 @@
+- So, you are from High Rock, I presume?
+- The nobility in High Rock reminds me of the Altmer nobility back in my youth.
+- What is your opinion about the Forsworn?
+- I did see Tiber Septim once, from afar. If he was a Nord, he was a very short one.
+- Did you ever get called pointy ears by a Nord?
+- I think it's a tragedy your Forsworn cousins follow the Daedric Princes their Ayleid masters worshipped.
+- Your people have been though a lot - too elven for most humans, too human for elves.
+- I guess if Skyrim breaks free from the Empire, High Rock will follow suit?
+- You do not have any volcanic reaper peppers with you, by chance?
+- Had a halibut soup in Daggerfall once. I still remember the exquisite taste.
+- I do not need any fancy food like fox or lark tongues. Do you?
+- Which city state are you from?
