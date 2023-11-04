@@ -1,0 +1,10 @@
+- Does it feel strange for you to roam about the "rebel province"?
+- If I may ask: Who would claim the throne after Titus Mede II?
+- I understand why the Concordat was signed. I think it was a mistake.
+- I heard about the horrors Lord Narifiin unleashed upon your people. Filthy servant of the thrice cursed!
+- I saw Tiber Septim once. And the Numidium. It was... terrifying.
+- With all your culinary feats, I'd prefer a roast turkey any day.
+- Are your ancestors more on the Nedic or Colovian side?
+- Which part of Cyrodiil you hail from?
+- What is your opinion on the Civil War?
+- Do you prefer beer or wine?
