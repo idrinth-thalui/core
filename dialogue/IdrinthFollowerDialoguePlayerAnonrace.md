@@ -1,6 +1,6 @@
 - I would be interested in hearing more about your homeland.
 - You may look out of place to most, but you will find your way.
-- Rare to me to be not the one standing out. No offence meant.
+- Rare to me to not be the one standing out. No offence meant.
 - I would love to hear more about your race.
 - Do you follow the revered entities of Tamriel? Or are your gods different from ours?
 - You must feel alone, being the only one of your kind around.
