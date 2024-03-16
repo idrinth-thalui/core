@@ -1,5 +1,5 @@
 - Do you feel the blood of your Atmoran ancestors in your veins?
-- You were born to roam these cold land.
+- You were born to roam these cold lands.
 - A pity neither of us will see the Snow Elven cities of old.
 - If you prefer milk over mead - I won't judge.
 - Be honest: How long did you think I was a Thalmor? You still do?
