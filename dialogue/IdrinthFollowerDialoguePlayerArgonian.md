@@ -1,0 +1,10 @@
+- I would love to hear more about the Hist. If you are willing to share, of course.
+- The enslavement of your people was one thing I never liked about Dunmer.
+- Skyrim must be terrible for you. Too cold for someone with scales.
+- How is Black Marsh? I only roamed at the borders.
+- You must miss the Marsh. We should venture to Morthal more often. It's the closest you can have in Skyrim.
+- So...which butterfly species does taste best to you?
+- I heard your scales needs a regular scrubbing. Is that true?
+- In Eastmarch there are hot springs. Want to visit?
+- I did like the baked bananas with grated cheese.
+- I know you Argonians know a lot of seafood recipes. Care to share?
