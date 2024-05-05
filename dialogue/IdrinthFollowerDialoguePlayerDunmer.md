@@ -1,0 +1,10 @@
+- Did you ever visit Morrowind?
+- Ever rode on a guar?
+- What is your favourite dish? I loved my wife's kwama egg quiche.
+- With any luck we can have a saltrice risotto in the New Gnisis Cornerclub.
+- Which House were you originally from?
+- It still amazes me that most Nords treat you worse than me. After all, many mistake me as a Thalmor on first sight.
+- Been to Morrowind lately? The ash still covering everything?
+- I was in Ald'ruhn shortly after the eruption. It was horrible to behold.
+- Want to share a bottle of sujamma at our next stay?
+- I do hope you mainly follow Azura.
