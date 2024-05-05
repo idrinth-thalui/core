@@ -1,0 +1,10 @@
+- You must miss Valenwood. We should venture through Falkreath more often.
+- I know a few places mushrooms grow in abundance, if you want to eat something else than meat.
+- Do you follow the Green Pact? Even in battle? Do not worry, I will not judge you.
+- We should have some Bosmer bites.
+- Next time we're in Whiterun, let's have a real Bosmer dish. Elrindir would be pleased.
+- A pity Jagga is rare here.
+- Valenwood feels dark under Thalmor rule. At least 70 years ago.
+- I visited Falinesti several times. Last time I had to flee from the Thalmor.
+- If you know how to make You-Know-What whiskey, the Nords would love it.
+- It may be colder than Valenwood, but Skyrim is rich with game, too.
