@@ -1,0 +1,11 @@
+- Skyrim must feel cold compared to Elsweyr. Good you have your fur.
+- I am sorry most of your kind are not allowed in the cities. Not all Khajiit are thieves and smugglers.
+- I do hope you don't feel uneasy around me anymore? The Thalmor treated your people badly, after all.
+- Elsweyr is a beautiful place. Though a bit too sunny for my taste.
+- If you want to eat moon sugar, do it outside a city. The Nords do not understand it's religious meaning.
+- Your kinspeople from the caravans are very brave, keeping up their trade routes in these days.
+- It always amazes me when Nord guards eye you suspiciously and pass me by without any comment.
+- I know stealing is more a pastime for Khajiit than a necessity, but I prefer if you only rob bandits.
+- If you ask me, the Thalmor got intel on when the moons will come back, and lied to you. They always do.
+- I heard about the camps in Elsweyr. The Thalmor have those on the Isles, too.
+- If I happen to find any sweets, do you want them?
