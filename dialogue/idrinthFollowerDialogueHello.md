@@ -20,3 +20,13 @@
 - Hello sister.
 - Hello great-cousin.
 - Hello child of Trinimac!
+- Good morning!
+- Good afternoon!
+- Good day!
+- Good evening!
+- Good night!
+- Blessed morning to you!
+- Blessed afternoon to you!
+- Blessed day to you!
+- Blessed evening to you!
+- Blessed night to you!
