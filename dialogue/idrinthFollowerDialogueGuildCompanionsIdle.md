@@ -1,0 +1,55 @@
+- Farkas and Vilkas were the greatest troublemakers in Whiterun as kids. And the ones always ready to help their Elders.
+- I found Farkas and Vilkas  far out in the woods once. They took turns riding on my shoulders on the way back.
+- Ah, the days when the twins were rallying all other children to hunt me, the "Evil Snow Elf"...
+- I remember when another kid mocked Farkas for being as stupid as a mudcrab...good thing I was there to keep Vilkas back.
+- They always begged me to try out my sword. You should have seen  how proud Farkas was when he could raise it.
+- He doesn't like to hear it, but Vilkas always got in trouble. Too smart for his age, that boy.
+- Farkas always was gentle, but when he got angry or wanted to defend his brother, he'd fight anything.
+- Other kids never stood a chance - the twins were inseparable.
+- When I came back after the Great War, Farkas and Vilkas ran straight up to me and wanted to play with me again.
+- Once some kid stole Vilkas' book...it took Kodlak, Jergen and me to stop the twins taking revenge.
+- I rescued them once out of a troll cave - they wanted to hunt a wumpus. With wooden swords.
+- You do not want to know how often the twins let the old Battle-Born bull run loose.
+- Jergen was a good man. He rescued the twins from necromancers who killed their parents.
+- I think they were six when they killed their first skeever.
+- Heimskr tried to convince the twins they were of Ysgramor's bloodline. They found it funny.
+- Aela and her father lived in a cabin in Falkreath. I saw them sometimes.
+- Aela was always a good archer. Her father trained her well.
+- I guess Aela never had other kids to play with. They were rarely in town.
+- That young girl once shot the deer I was stalking for dinner.
+- Aela went on bear hunts when she was about Braith's age.
+- Athis joined the Companions during the Great War. I never asked him why.
+- Athis is more Nord than many a drunkard claiming to be a true Son of Skyrim.
+- Athis worked hard for this. I saw him struggling not to use his magic several times.
+- Athis always had a hard time fitting in. First the Great War, then the Stormcloaks...
+- Skjor joined after the Great War. He... did not like me at first.
+- It took me years to convince Skjor I am not a thread. I suspect Kodlak had a talk with him.
+- Skjor always was a good teacher. Harsh but fair.
+- When Skjor joined, the twins took him as their new father.
+- I had a few talks with Skjor. We... respected each other.
+- I will not comment on any relationship rumours between Skjor and Aela.
+- Do not fret about Njada's behaviour. She... had a rough life.
+- Njada is an excellent fighter. She is just used to stand alone.
+- Do not take Njada's words too harshly. She likes you, she just can't show it.
+- I trained with Njada a few times. She is one sturdy fighter.
+- Strange how often Njada fights with Athis. Is that her way of saying she likes him?
+- Ria is really new. I hope she keeps her enthusiasm.
+- Ria seems not sure about her fighting style yet.
+- It looks like Ria has her eyes set on Vilkas. I wonder if he even noticed?
+- As long as Ria is considered a whelp, Vilkas would never consider a relationship.
+- Torvar joined the Companions about a year before Ria.
+- I wonder if Torvar mistook Jorrvaskr with a mundane Sovngarde?
+- Torvar is the typical Nord. Drinking, boasting, brandishing his weapons.
+- Farkas may look similar, but he is a good warrior. Not like Torvar.
+- Torvar's people are said to live in Solitude. I heard he had  a lot of money problems.
+- I remember Kodlak's predecessor, Askar. He was more careful around me.
+- Kodlak is a good man. And good at reading other people's intentions.
+- Kodlak looks ill. He wasn't like that a year ago.
+- I worry about Kodlak. He... smells sick, yet tries to hide it.
+- You heard the story about Kodlak and Skjor fighting 101 Orsimer? It was a dozen, but you know how stories grow...
+- I am surprised Tilma is still keeping Jorrvaskr clean. She did that for years when Eorlund was a child.
+- Tilma is a kind soul. Do not make her life harder.
+- I wonder if Tilma has some mer blood in her veins? She must be at least 80.
+- It won't hurt you to clean up your stuff yourself. Tilma is busy enough cooking for the pack.
+- Eorlund is not a great talker. He and Farkas could make a no talk contest.
+- Eorlund is an excellent blacksmith. Honour your weapon.
