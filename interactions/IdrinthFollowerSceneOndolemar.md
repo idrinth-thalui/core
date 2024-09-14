@@ -1,6 +1,6 @@
 ## Scene 1:
 
-O: You! What leads you to Markarth? Make it quick, but mind your tongue.
+O: You ther, Altmer! What leads you to Markarth? Make it quick, but mind your tongue.
 
 I: As charming as ever, Ondolemar. What's a superior bred mer like you doing here?
 
