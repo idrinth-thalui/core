@@ -314,7 +314,7 @@
   {
     "form_id": "0015E36B|IdrinthThalui.esp",
     "type": "LSCR DESC",
-    "string": "Idrinth ist kein Freund von Dieben und Mördern. Vielleicht meldet er es nicht, aber er bleibt vielleicht nicht lang..."
+    "string": "Idrinth ist kein Freund von Dieben und Mördern. Vielleicht meldet er es nicht, aber er bleibt auch nicht lang..."
   }
 ,
   {
@@ -25418,73 +25418,73 @@
   {
     "form_id": "000C62D3|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Shout Handler"
+    "string": "Schreiverarbeitung"
   }
 ,
   {
     "form_id": "0009D9B2|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Combat Reposition"
+    "string": "Kampfpositionierung"
   }
 ,
   {
     "form_id": "000A2AD1|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Trained in Block"
+    "string": "Im Blocken trainiert"
   }
 ,
   {
     "form_id": "000A2AD1|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increased the learning rate for block by <mag>% for <dur>."
+    "string": "Die Lerngeschwindigkeit von Block ist um <mag>% für <dur> erhöht."
   }
 ,
   {
     "form_id": "0004C7A9|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Waiting for Death"
+    "string": "Warten auf den Tod"
   }
 ,
   {
     "form_id": "000C62A2|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Limitless Vitality Voice"
+    "string": "Grenzenlose Vitalitätsstimme"
   }
 ,
   {
     "form_id": "000C62A2|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You have <mag> more health for <dur>."
+    "string": "Ihhr habt <mag> Leben für <dur>."
   }
 ,
   {
     "form_id": "000C62A1|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Limitless Vitality Voice"
+    "string": "Grenzenlose Vitalitätsstimme"
   }
 ,
   {
     "form_id": "000C62A1|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Health regenerates <mag>% faster for <dur>."
+    "string": "Leben regeneriert <mag>% schneller für <dur>."
   }
 ,
   {
     "form_id": "001EC2E4|IdrinthThalui.esp",
     "type": "FACT FULL",
-    "string": "IdrinthThaluiFaction"
+    "string": "IdrinthThaluiFraktion"
   }
 ,
   {
     "form_id": "0000AA0F|IdrinthThalui.esp",
     "type": "FACT FULL",
-    "string": "IdrinthThaluiFaction"
+    "string": "IdrinthThaluiFraktion"
   }
 ,
   {
     "form_id": "001EC2E3|IdrinthThalui.esp",
     "type": "FACT FULL",
-    "string": "IdrinthThaluiFaction"
+    "string": "IdrinthThaluiFraktion"
   }
 ,
   {
