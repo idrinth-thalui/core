@@ -290,7 +290,7 @@
   {
     "form_id": "0007F31D|IdrinthThalui.esp",
     "type": "LSCR DESC",
-    "string": "Ein Altmer Kriegerund Händler patrolliert zwischen Einsamkeit und Rifton. Normalerweise hilft er gern..."
+    "string": "Ein Altmer Krieger und Händler patrolliert zwischen Einsamkeit und Rifton. Normalerweise hilft er gern..."
   }
 ,
   {
@@ -24584,7 +24584,7 @@
   {
     "form_id": "000A7BF2|IdrinthThalui.esp",
     "type": "ARMO DESC",
-    "string": "This uniquely-crafted and specially-enchanted cuirass prevents almost any physical damage from noticeably harming its wearer."
+    "string": "Diese herausragend geschmiedete und verzauberte Rüstung verhindert physischen Schaden an ihrem Träger beinahe vollständig."
   }
 ,
   {
@@ -24596,25 +24596,25 @@
   {
     "form_id": "00065D39|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Hardened Skin"
+    "string": "Gehärtete Haut"
   }
 ,
   {
     "form_id": "0048903F|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Auto-Equip"
+    "string": "Automatisches Ausrüsten"
   }
 ,
   {
     "form_id": "0035E022|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Grand Healing Training"
+    "string": "Training in höherer Heilung"
   }
 ,
   {
     "form_id": "0009D9B3|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Combat Repositioning"
+    "string": "Kampfpositionierung"
   }
 ,
   {
@@ -24626,79 +24626,79 @@
   {
     "form_id": "000C1171|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Watching"
+    "string": "Beobachhtet"
   }
 ,
   {
     "form_id": "004E944A|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Greater Endurance"
+    "string": "Höhere Ausdauer"
   }
 ,
   {
     "form_id": "0009D9B0|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Bats"
+    "string": "Fledermäuse"
   }
 ,
   {
     "form_id": "004E9456|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Greater Speed"
+    "string": "Höhere Geschwindigkeit"
   }
 ,
   {
     "form_id": "004E9454|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lesser Regeneration"
+    "string": "Niedere Regeneration"
   }
 ,
   {
     "form_id": "004E9452|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lesser Regeneration"
+    "string": "Niedere Regeneration"
   }
 ,
   {
     "form_id": "004E9450|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lesser Speed"
+    "string": "Niedere Geschwindigkeit"
   }
 ,
   {
     "form_id": "004E944E|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Strenght of the Ages"
+    "string": "Stärke der Zeitalter"
   }
 ,
   {
     "form_id": "004E944C|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Greater Regeneration"
+    "string": "Höhere Regeneration"
   }
 ,
   {
     "form_id": "004DA12A|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lightning Bolt"
+    "string": "Blitz"
   }
 ,
   {
     "form_id": "004E9448|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lesser Regeneration"
+    "string": "Niedere Regeneration"
   }
 ,
   {
     "form_id": "004E9445|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lesser Endurance"
+    "string": "Niedere Ausdauer"
   }
 ,
   {
     "form_id": "004E9444|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lesser Regeneration"
+    "string": "Niedere Regeneration"
   }
 ,
   {
@@ -24710,31 +24710,31 @@
   {
     "form_id": "004E945C|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lesser Regeneration"
+    "string": "Niedere Regeneration"
   }
 ,
   {
     "form_id": "004E9435|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Alteration Training"
+    "string": "Trainiert in Veränderung"
   }
 ,
   {
     "form_id": "004E9435|IdrinthThalui.esp",
     "type": "SPEL DESC",
-    "string": "Increased the learning rate for alteration by 50% for 1 hour."
+    "string": "Erhöht die Lernrate von Veränderung um 50% für eine Stunde."
   }
 ,
   {
     "form_id": "004E945A|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Lesser Regeneration"
+    "string": "Niedere Regeneration"
   }
 ,
   {
     "form_id": "004E9458|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Sparkof Alinor"
+    "string": "Funke von Alinor"
   }
 ,
   {
@@ -24746,7 +24746,7 @@
   {
     "form_id": "0028E60D|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Watching"
+    "string": "Beobachtet"
   }
 ,
   {
@@ -24758,19 +24758,19 @@
   {
     "form_id": "00060BC1|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Strong Blood"
+    "string": "Mächtiges Blut"
   }
 ,
   {
     "form_id": "00060BC1|IdrinthThalui.esp",
     "type": "SPEL DESC",
-    "string": "Two-Handed Weapons, Light Armor and Restoration are 3% more effective. Your speed is 3% higher."
+    "string": "Zweihändige Waffen, leichte Rüstunf und Wiederherstellung sind 3% effektiver. Die Bewegungsgeschwindigkeit ist um 3% erhöht."
   }
 ,
   {
     "form_id": "0004C7AA|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Waiting for Death"
+    "string": "Todeserwartung"
   }
 ,
   {
@@ -24788,13 +24788,13 @@
   {
     "form_id": "000A2ADA|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Two-Handed Training"
+    "string": "Trainiert in Zweihändern"
   }
 ,
   {
     "form_id": "000A2ADA|IdrinthThalui.esp",
     "type": "SPEL DESC",
-    "string": "Increased the learning rate for two-handed weapons by 50% for 1 hour."
+    "string": "Erhöht die Lernrate von Zweihändern um 50% für 1 Stunde."
   }
 ,
   {
@@ -24806,7 +24806,7 @@
   {
     "form_id": "00019D59|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Call Wolves"
+    "string": "Wolfsruf"
   }
 ,
   {
@@ -24818,13 +24818,13 @@
   {
     "form_id": "000E9A9A|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Alteration Training"
+    "string": "Trainiert in Veränderung"
   }
 ,
   {
     "form_id": "000E9A9A|IdrinthThalui.esp",
     "type": "SPEL DESC",
-    "string": "Increased the learning rate for alteration by 50% for 1 hour."
+    "string": "Erhöht die Lernrate von Veränderung um 50% für 1 Stunde."
   }
 ,
   {
@@ -24848,13 +24848,13 @@
   {
     "form_id": "00065D3A|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Hardened Skin"
+    "string": "Verhärtete Haut"
   }
 ,
   {
     "form_id": "00065D3A|IdrinthThalui.esp",
     "type": "SPEL DESC",
-    "string": "Hardens my skin to protect from weapons."
+    "string": "Härtet meine Haut um vor Waffen zu schützen."
   }
 ,
   {
@@ -24866,25 +24866,25 @@
   {
     "form_id": "000A2AD8|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Restoration Training"
+    "string": "Trainiert in Wiederherstellung"
   }
 ,
   {
     "form_id": "000A2AD8|IdrinthThalui.esp",
     "type": "SPEL DESC",
-    "string": "Increased the learning rate for restoration by 50% for 1 hour."
+    "string": "Erhöht die Lernrate von Wiederherstellung um 50% für 1 Stunde."
   }
 ,
   {
     "form_id": "000A2AD5|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Light Armor Training"
+    "string": "Trainiert in leichter Rüstung"
   }
 ,
   {
     "form_id": "000A2AD5|IdrinthThalui.esp",
     "type": "SPEL DESC",
-    "string": "Increased the learning rate for light armor by 50% for 1 hour."
+    "string": "Erhöht die Lernrate von Leichter Rüstung um 50% für 1 Stunde."
   }
 ,
   {
@@ -24896,13 +24896,13 @@
   {
     "form_id": "000A2AD4|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Block Training"
+    "string": "Trainiert im Blocken"
   }
 ,
   {
     "form_id": "000A2AD4|IdrinthThalui.esp",
     "type": "SPEL DESC",
-    "string": "Increased the learning rate for block by 50% for 1 hour."
+    "string": "Erhöht die Lernrate für Block um 50% für 1 Stunde."
   }
 ,
   {
@@ -24914,25 +24914,25 @@
   {
     "form_id": "000C62CF|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Watching"
+    "string": "Überwacht"
   }
 ,
   {
     "form_id": "000E9A97|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Watching"
+    "string": "Überwacht"
   }
 ,
   {
     "form_id": "00019D67|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Watching"
+    "string": "Überwacht"
   }
 ,
   {
     "form_id": "00019D6C|IdrinthThalui.esp",
     "type": "SPEL FULL",
-    "string": "Watching"
+    "string": "Überwacht"
   }
 ,
   {
@@ -24944,55 +24944,55 @@
   {
     "form_id": "002D032D|IdrinthThalui.esp",
     "type": "ENCH FULL",
-    "string": "Absorb Health and Stamina"
+    "string": "Absorbiert Leben und Ausdauer"
   }
 ,
   {
     "form_id": "0012B859|IdrinthThalui.esp",
     "type": "ENCH FULL",
-    "string": "Blessing of Trinimac"
+    "string": "Trinimacsegen"
   }
 ,
   {
     "form_id": "00065CD7|IdrinthThalui.esp",
     "type": "ENCH FULL",
-    "string": "Idrinth's Blessing of Trinimac"
+    "string": "Idrinths Trinimacsegen"
   }
 ,
   {
     "form_id": "004EE568|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Mind of a Master"
+    "string": "Meisterlicher Geist"
   }
 ,
   {
     "form_id": "004EE568|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increases xp gain by 10% for <dur>s."
+    "string": "Erhöht Lerngeschwindigkeit um 10% für <dur>s."
   }
 ,
   {
     "form_id": "004EE566|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Touch of Light"
+    "string": "Lichtberührung"
   }
 ,
   {
     "form_id": "004EE566|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Damages Undead by <mag> and twice that in stamina."
+    "string": "Schädigt Untote für <mag> und den doppelten Wert an Ausdauer."
   }
 ,
   {
     "form_id": "004EE565|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Speed"
+    "string": "Geschwindigkeit"
   }
 ,
   {
     "form_id": "004EE565|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increases Speed by <mag> for <dur>s."
+    "string": "Erhöht Bewegungsgeschwindigkeit um <mag> für <dur>s."
   }
 ,
   {
@@ -25004,31 +25004,31 @@
   {
     "form_id": "004EE564|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increases StaminaRate by <mag> for <dur>s."
+    "string": "Erhöht Staminaregeneration um <mag> für <dur>s."
   }
 ,
   {
     "form_id": "004EE562|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Strength"
+    "string": "Stärke"
   }
 ,
   {
     "form_id": "004EE562|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increases carry weight by <mag> and damage with muscle using weapons by 5%."
+    "string": "Erhhöht Tragekapazität um <mag> und Schaden mit muskelbetriebenen Waffen um 5%."
   }
 ,
   {
     "form_id": "004EE561|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Sparks"
+    "string": "Funken"
   }
 ,
   {
     "form_id": "004EE561|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Damages by <mag> shock damage."
+    "string": "Verletzt mit <mag> Schockschaden."
   }
 ,
   {
@@ -25040,7 +25040,7 @@
   {
     "form_id": "004EE560|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increases HealRate by <mag> for <dur>s."
+    "string": "Erhöht Lebensregeneration um <mag> für <dur>s."
   }
 ,
   {
@@ -25052,43 +25052,43 @@
   {
     "form_id": "004EE56D|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increases HealRate by <mag> for <dur>s."
+    "string": "Erhöht Lebensregeneration um <mag> für <dur>s."
   }
 ,
   {
     "form_id": "004EE56C|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Speed"
+    "string": "Geschwindigkeit"
   }
 ,
   {
     "form_id": "004EE56C|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increases Speed by <mag> for <dur>s."
+    "string": "Bewegungsgeschwindigkeit um <mag> für <dur>s erhöht."
   }
 ,
   {
     "form_id": "004EE56B|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Better Food"
+    "string": "Besseres Essen"
   }
 ,
   {
     "form_id": "004EE56B|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increases food effects gain by 50% for <dur>s."
+    "string": "Erhöht die Stärke von Essenseffekten um 50% für <dur>s."
   }
 ,
   {
     "form_id": "004E9434|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Trained in Destruction"
+    "string": "In zerstörung trainiert"
   }
 ,
   {
     "form_id": "004E9434|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increased the learning rate for destruction by <mag>% for <dur>."
+    "string": "Lerngeschwindigkeit für Zerstörung um <mag>% für <dur> erhöht."
   }
 ,
   {
@@ -25100,7 +25100,7 @@
   {
     "form_id": "000C1191|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You have <mag> more health for <dur>."
+    "string": "Leben um <mag> erhöht für <dur>."
   }
 ,
   {
@@ -25112,61 +25112,61 @@
   {
     "form_id": "000C1190|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Health regenerates <mag>% faster for <dur>."
+    "string": "Leben regeneriert <mag>% schneller für <dur>."
   }
 ,
   {
     "form_id": "00060BC0|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Idrinth's Blood"
+    "string": "Idrinths Blut"
   }
 ,
   {
     "form_id": "00060BC0|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You are <mag>% faster."
+    "string": "Bewegungsgeschwindigkeit um <mag>% erhöht."
   }
 ,
   {
     "form_id": "0009D9AF|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Bats Effect"
+    "string": "Fledermauseffekt"
   }
 ,
   {
     "form_id": "000A7BEF|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Bat's speed"
+    "string": "Fledermausgeschwindigkeit"
   }
 ,
   {
     "form_id": "000A7BEF|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You are <mag>% faster."
+    "string": "Bewegungsgeschwindigkeit um <mag>% erhöht."
   }
 ,
   {
     "form_id": "000A7BEC|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Night blessed"
+    "string": "Nachtgesegnet"
   }
 ,
   {
     "form_id": "000A7BEC|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You are <mag>% faster."
+    "string": "Bewegungsgeschwindigkeit um <mag>% erhöht."
   }
 ,
   {
     "form_id": "00065CC3|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Idrinth's Blood"
+    "string": "Idrinths Blut"
   }
 ,
   {
     "form_id": "00065CC3|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Two-Handed Weapons, Light Armor and Restoration are <mag>% more effective. Your speed is <mag>% higher."
+    "string": "Zweihändige Waffen, Leichte Rüstung und Wiederherstellung sind <mag>% effektiver. Die Bewegungsgeschwindigkeit ist um <mag>% erhöht."
   }
 ,
   {
