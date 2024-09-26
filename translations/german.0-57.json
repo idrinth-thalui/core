@@ -320,19 +320,19 @@
   {
     "form_id": "0015E36C|IdrinthThalui.esp",
     "type": "LSCR DESC",
-    "string": "Keep the murder and assault to a minimum in the company of Idrinth. If he hears something straight from the horse's mouth, he may leave you."
+    "string": "Angreifen und ermorden von Unschuldigen ist keine Gute Idee wenn Idrinth dir folgt, bekommt er es mit, kann er dich verlassen."
   }
 ,
   {
     "form_id": "00149EC1|IdrinthThalui.esp",
     "type": "LSCR DESC",
-    "string": "Long ago, the Altmeri gods walked among the Elves. However, some of their gods were excluded from the eight Divines when they were organised."
+    "string": "Vor langer Zeit lebten die Altmeri Götter unter den Elfen. Allerdings wurden einige dieser Götter nicht ins imperiale Pantheon übernommen."
   }
 ,
   {
     "form_id": "00084457|IdrinthThalui.esp",
     "type": "LSCR DESC",
-    "string": "If you've incurred a bounty in one of the holds, an Altmer by the name of Idrinth Thalui or Riften's Thieves Guild can help bolt it from the books."
+    "string": "Sollte ein Kopfgeld auf dich ausgesetzt sein, können ein Altmer mit dem Namen Idrinth Thalui oder Riftons Diebesgilde dieses begleichen."
   }
 ,
   {
@@ -344,82 +344,82 @@
   {
     "form_id": "0015E378|IdrinthThalui.esp",
     "type": "LSCR DESC",
-    "string": "You intend to kill for the Mother of the Night? Idrinth likely won't approve of such a choice... and neither will his blade."
+    "string": "Du willst für die Mutter der Nacht morden? Idrinth wird das nicht gefallen...und seiner Klinge noch weniger."
   }
 ,
   {
     "form_id": "0007F31E|IdrinthThalui.esp",
     "type": "LSCR DESC",
-    "string": "Some Vampires hide their nature to fit in, while others are more open about what they are. Make sure you know what you sign up for when neglecting Sanguinare Vampiris."
+    "string": "Einige Vampire verbergen ihre wahre Natur, währen Andere sehr offen mit dieser umgehen. Stell sicher, dass du weist, was dich erwartet wenn du Sanguinare Vampiris vernachlässigst."
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST FULL",
-    "string": "Idrinth's Tasks"
+    "string": "Idrinths Aufgaben"
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "100",
-    "string": "Retrieve orders from Thalmor"
+    "string": "Finde Thalmorbefehle"
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "200",
-    "string": "Give Idrinth time to figure out the Thalmor's orders"
+    "string": "Gib Idrinth Zeit um die Thalmorbefehle zu verstehen."
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "300",
-    "string": "Return to Idrinth to ask about the next step"
+    "string": "Kehr zu Idrinth zurück um den nächsten Schritt zu erfahren."
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "400",
-    "string": "Kill the Thalmor in the Lunar Forge"
+    "string": "Töte alle Thalmor in der Mondschmiede"
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "500",
-    "string": "Talk to Idrinth about a reward"
+    "string": "Rede mit Idrinth über eine Belohnung"
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "600",
-    "string": "Inform a Whiterun Guard about the Forge"
+    "string": "Informiere ein Weisslaufwache über die Schmiede"
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "700",
-    "string": "Get Idrinth's reward"
+    "string": "Hole idrinths Belohnung ab"
   }
 ,
   {
     "form_id": "00000827|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "800",
-    "string": "Wait for Idrinth's next task"
+    "string": "Warte auf Idrinths nächste Aufgabe"
   }
 ,
   {
     "form_id": "001A535F|IdrinthThalui.esp",
     "type": "QUST NNAM",
     "index": "10",
-    "string": "Idrinth can be found here!"
+    "string": "Idrinth ist hier!"
   }
 ,
   {
