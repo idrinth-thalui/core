@@ -25172,217 +25172,217 @@
   {
     "form_id": "000C62A3|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Limitless Vitality Voice"
+    "string": "Stimme der Unbegrenzten Vitalität"
   }
 ,
   {
     "form_id": "000C62A3|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You heal rate is increased by <mag>% for <dur>."
+    "string": "Erhöht die Heilrate um <mag>% für <dur>."
   }
 ,
   {
     "form_id": "000A2AD2|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Trained in Restoration"
+    "string": "In Wiederherstellung trainiert"
   }
 ,
   {
     "form_id": "000A2AD2|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increased the learning rate for restoration by <mag>% for <dur>."
+    "string": "Erhhöht die Lernrate für Wiederherstellung um <mag>% für <dur>."
   }
 ,
   {
     "form_id": "0009D9B6|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Regenerate Health"
+    "string": "Lebensregeneration"
   }
 ,
   {
     "form_id": "0009D9B6|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Health regenerates <mag>% faster for <dur> seconds."
+    "string": "Leben regeneriert <mag>% schneller für <dur> sekunden."
   }
 ,
   {
     "form_id": "00019D6B|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Alchemical Process"
+    "string": "Alchemischer Prozess"
   }
 ,
   {
     "form_id": "00060BBE|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Idrinth's Blood"
+    "string": "Idrinths Blut"
   }
 ,
   {
     "form_id": "00060BBE|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Two-Handed Weapons are <mag>% more effective."
+    "string": "Zweihändige Waffen sind <mag>% effektiver."
   }
 ,
   {
     "form_id": "00060BBD|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Idrinth's Blood"
+    "string": "Idrinths Blut"
   }
 ,
   {
     "form_id": "00060BBD|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Light armor is <mag>% more effective."
+    "string": "Leichte Rüstung ist um <mag>% effektiver."
   }
 ,
   {
     "form_id": "000E9A99|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Trained in Alteration"
+    "string": "In Veränderung trainiert"
   }
 ,
   {
     "form_id": "000E9A99|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increased the learning rate for alteration by <mag>% for <dur>."
+    "string": "Erhöht die Lernrate für Veränderung um <mag>% für <dur>."
   }
 ,
   {
     "form_id": "00060BBF|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Idrinth's Blood"
+    "string": "Idrinths Blut"
   }
 ,
   {
     "form_id": "00060BBF|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Restoration is <mag>% more effective."
+    "string": "Wiederherstellung ist <mag>% effektiver."
   }
 ,
   {
     "form_id": "000C115F|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Sleep Tracker"
+    "string": "Slafüberwacher"
   }
 ,
   {
     "form_id": "00019D5A|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Vampirism Summon Wolf"
+    "string": "Vampirismus Wolfsbeschwörung"
   }
 ,
   {
     "form_id": "00019D5A|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Vampire howls for companions."
+    "string": "Vampir heult nach Begleitern."
   }
 ,
   {
     "form_id": "0008442A|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Does he like you?"
+    "string": "Mag er dich?"
   }
 ,
   {
     "form_id": "0007A207|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Idrinth is watching"
+    "string": "Idrinth beobachtet"
   }
 ,
   {
     "form_id": "000A2AD0|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Trained in Two-Handed"
+    "string": "In Zweihändern trainiert"
   }
 ,
   {
     "form_id": "000A2AD0|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increased the learning rate for two-handed by <mag>% for <dur>."
+    "string": "Lernrate für zweihändige Waffen um <mag>% für <dur> erhöht."
   }
 ,
   {
     "form_id": "000C62CE|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Shout Listening"
+    "string": "Schreihörer"
   }
 ,
   {
     "form_id": "0006AE76|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Blood Drinker"
+    "string": "Bluttrinker"
   }
 ,
   {
     "form_id": "00065D3C|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Hardened Skin"
+    "string": "Gehärtete Haut"
   }
 ,
   {
     "form_id": "00065D38|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Hardened Skin"
+    "string": "Gehärtete Haut"
   }
 ,
   {
     "form_id": "00065CC4|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Idrinth's Blood"
+    "string": "Idrinths Blut"
   }
 ,
   {
     "form_id": "00065CC4|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You are <mag>% faster."
+    "string": "Bewegungsgeschwindigkeit um <mag>% erhöhht."
   }
 ,
   {
     "form_id": "00121654|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Force Equip"
+    "string": "Ausrüsten erzwingen"
   }
 ,
   {
     "form_id": "000A7BED|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Night blessed"
+    "string": "Nachtgesegnet"
   }
 ,
   {
     "form_id": "000A7BED|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You are <mag>% faster."
+    "string": "Bewegungsgeschwindigkeit um <mag>% erhöht."
   }
 ,
   {
     "form_id": "000A2AD3|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Trained in Light Armor"
+    "string": "In leichter Rüstung trainiert"
   }
 ,
   {
     "form_id": "000A2AD3|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Increased the learning rate for light armor by <mag>% for <dur>."
+    "string": "Erhöht die Lernrate für leichte Rüstung um <mag>% für <dur>."
   }
 ,
   {
     "form_id": "000E9A96|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "SkillupTracker"
+    "string": "FähigkeintenLernÜberwachung"
   }
 ,
   {
     "form_id": "0002E18A|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Reduced Health"
+    "string": "Reduziertes Leben"
   }
 ,
   {
     "form_id": "0002E18A|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Reduces Health by <mag>. Progresses to Vampirism."
+    "string": "Reduziert Leben um <mag>. Entwickelt sich zu Vampirismus."
   }
 ,
   {
@@ -25394,25 +25394,25 @@
   {
     "form_id": "000C1192|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "You heal rate is increased by <mag>% for <dur>."
+    "string": "Heilrate is um <mag>% für <dur> erhöht."
   }
 ,
   {
     "form_id": "004EE569|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Thunder"
+    "string": "Donner"
   }
 ,
   {
     "form_id": "004EE569|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Damages everyone in an area of 100 by <mag> magical damage."
+    "string": "Schädigt jeden im Umkreis von 100 mit <mag> magischem Schaden."
   }
 ,
   {
     "form_id": "0028E60C|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "OnCellChange"
+    "string": "BeiZellÄnderung"
   }
 ,
   {
@@ -25454,13 +25454,13 @@
   {
     "form_id": "000C62A2|IdrinthThalui.esp",
     "type": "MGEF DNAM",
-    "string": "Ihhr habt <mag> Leben für <dur>."
+    "string": "Ihr habt <mag> Leben für <dur>."
   }
 ,
   {
     "form_id": "000C62A1|IdrinthThalui.esp",
     "type": "MGEF FULL",
-    "string": "Grenzenlose Vitalitätsstimme"
+    "string": "Stimme der Unbegrenzten Vitalität"
   }
 ,
   {
