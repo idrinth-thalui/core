@@ -1,1 +1,19 @@
-
+-  Are you sure you want to mix those?
+-  I am not going to taste this.
+-  That stench can't be normal....
+-  I never seen that colour in a potion.
+-  Trinimac preserve me, what a stench!
+-  Are you sure that potion is safe to drink later?
+-  Is that a potion or a poison?
+-  You managed to brew an actual potion.
+-  Interesting combination. I didn't think it would work.
+-  At least you know the basics.
+-  Not bad.
+-  You clearly got better.
+-  Now that is something new...
+-  You are well versed in alchemy.
+-  When you sell those potions, you'll make cood coin.
+-  Those potions will surely help us.
+-  That is truly a dangerous poison.
+-  Can you make more of these fire resistance potions?
+-  Excellent work!
