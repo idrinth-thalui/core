@@ -1,1 +1,5 @@
-
+- Good practice!
+- That enchantment will be useful for a bit...
+- You are pretty good!
+- Not useful for long, but well...
+- Closing in on mastery I see.
