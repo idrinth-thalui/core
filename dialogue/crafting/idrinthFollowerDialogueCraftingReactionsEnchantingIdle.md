@@ -3,3 +3,8 @@
 - You are pretty good!
 - Not useful for long, but well...
 - Closing in on mastery I see.
+- I have seen one like that before, good work!
+- That looked strange, did you hurt yourself?
+- What a waste of a soulgem...
+- You may want to learn a bit from a trainer first.
+- Looks decent, well done!
