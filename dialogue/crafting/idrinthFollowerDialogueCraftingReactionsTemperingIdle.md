@@ -1,1 +1,14 @@
-
+- Are you sure you know what you are doing?
+- Next time heat the metal properly.
+- Careful!  Don't lose your grip on the hammer!
+- Smithing clearly is not one of your best skills.
+- Maybe try a nail first.
+- Well, that looks solid enough.
+- You start to improve.
+- Better than a random bandit.
+- Ah, I see your effords bear fruit.
+- Well done!
+- If you want to settle down, you could take over a smithy.
+- You are better than Eorlund!
+- Now that is a piece of craftsmanship!
+- Amazingly done.
