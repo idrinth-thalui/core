@@ -6,7 +6,7 @@
 - Well, that looks solid enough.
 - You start to improve.
 - Better than a random bandit.
-- Ah, I see your effords bear fruit.
+- Ah, I see your efforts bear fruit.
 - Looks better than before.
 - Well done!
 - If you want to settle down, you could take over a smithy.
