@@ -12,7 +12,7 @@
 - Nice weapon.
 - Nice armour.
 - YOu're getting pretty good at this.
-- Admireable.
+- Admirable.
 - You are good enough to be a good apprentice.
 - There are not many smiths left to teach you.
 - Keep up, and you'll surpass Eorlund.
