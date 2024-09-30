@@ -1,1 +1,21 @@
-
+- Are you sure you want to hold the hammer this way?
+- You should start with something easier first...
+- Let me take a few steps back...
+- Don't hit yourself!
+- Hm, at least that one is in one piece.
+- You got a long way ahead, but you got better.
+- It's something...
+- At least you know how to smith iron.
+- You sure you're up to smith elven metals?
+- Oh, a wonderful iron dagger. Again.
+- You do love iron daggers, don't you?
+- Nice weapon.
+- Nice armour.
+- YOu're getting pretty good at this.
+- Admireable.
+- You are good enough to be a good apprentice.
+- There are not many smiths left to teach you.
+- Keep up, and you'll surpass Eorlund.
+- Now that is craftsmanship!
+- Ah, beautiful to behold.
+- You could become Eorlund's successor.
