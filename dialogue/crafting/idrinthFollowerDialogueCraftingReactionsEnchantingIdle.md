@@ -1,0 +1,19 @@
+- Good practice!
+- That enchantment will be useful for a bit...
+- You are pretty good!
+- Not useful for long, but well...
+- Closing in on mastery I see.
+- I have seen one like that before, good work!
+- That looked strange, did you hurt yourself?
+- What a waste of a soulgem...
+- You may want to learn a bit from a trainer first.
+- Looks decent, well done!
+- You sure you want to spend this big soul gem?
+- Hm, interesting choice...
+- Have patience - you'll get better with time.
+- Maybe use the weaker soulgems first for practicing...
+- At least you can make some money with that.
+- Armor with resistances are always sellable.
+- You sure you want to use this for enchanting?
+- Ah, you are on the road to alaxon.
+- That is a weird choice...
