@@ -1,1 +1,2 @@
-
+- Glad to have you by my side, Thogra! I value your skill.
+- I assume you follow Malacath's tenets?
