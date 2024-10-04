@@ -1,3 +1,4 @@
 - I'm so glad, that you are following the green pact!
 - Would you mind sharing some of our enemies?
 - You make a dangerous enemy, your bow is deadly!
+- I must say, your interpretation of the Green Pact reminds me of my own set of rules.
