@@ -1,0 +1,3 @@
+- You are an interesting creature, Artigun.
+- I'm happy to see you also prefer greatswords!
+- Sometimes I wonder how you know of all those treasures...
