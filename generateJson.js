@@ -4,7 +4,7 @@ const path = require('path');
 // Directories to exclude
 const excludedDirs = ['.git', '.github', '_layout', 'angular-idrinth', 'assets'];
 
-// Function to recursively get file structure, only including .md files
+// Function to recursively get file structure, including .md file contents
 function getFileStructure(dirPath) {
     const files = fs.readdirSync(dirPath);
     const structure = {};
@@ -21,9 +21,10 @@ function getFileStructure(dirPath) {
                 structure[file] = subStructure;
             }
         } 
-        // Include only .md files
+        // Include .md files and read their contents
         else if (stats.isFile() && path.extname(file) === '.md') {
-            structure[file] = 'file'; // Only include .md files
+            const fileContents = fs.readFileSync(filePath, 'utf8'); // Read file content
+            structure[file] = fileContents; // Store the actual content of the file
         }
     });
 
@@ -45,7 +46,7 @@ if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
 }
 
-// Write the file structure to fileStructure.json
+// Write the file structure with file contents to fileStructure.json
 fs.writeFileSync(outputFile, JSON.stringify(fileStructure, null, 2), 'utf8');
 
-console.log(`File structure has been saved to ${outputFile}`);
+console.log(`File structure and contents have been saved to ${outputFile}`);
