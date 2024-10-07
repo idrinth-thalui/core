@@ -1,10 +1,12 @@
 <div class="container" [class.is-mobile]="mobileQuery.matches">
   <mat-toolbar>
     <button mat-icon-button (click)="snav.toggle()"><mat-icon>menu</mat-icon></button>
+    <div class="logo-wrapper">
       <a class="logo" routerLink="/">
         <img src="/images/logo_small.png" alt="">
         <h1 class="app-name">{{title}}</h1>
       </a>
+    </div>
   </mat-toolbar>
 
   <mat-sidenav-container [style.marginTop.px]="mobileQuery.matches ? 56 : 0">
@@ -21,4 +23,5 @@
       <router-outlet></router-outlet>
     </mat-sidenav-content>
   </mat-sidenav-container>
+  <app-footer></app-footer>
 </div>

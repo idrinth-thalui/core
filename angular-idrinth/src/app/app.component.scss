@@ -22,44 +22,56 @@
   }
 
   mat-toolbar {
-    background: linear-gradient(#646464, #494949, #171717);
+    background: linear-gradient(to bottom, #060606, #252525, #000000);
+    justify-content: space-between;
 
     mat-icon {
       color: #fff;
 
       &:hover {
-        color: #929292;
+        color: #a5a5a5;;
       }
     }
 
-    .logo {
-      position: relative;
-      color: #fff;
+    .logo-wrapper {
       display: flex;
-      gap: 0.5rem;
+      align-items: center;
+      justify-content: center;
+      flex-grow: 1;
 
+      .logo {
+        position: relative;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
 
-      &:hover {
-        color: #929292;
-      }
+        &:hover {
+          color: #a5a5a5;
+          img {
+            filter: brightness(0.8);
+          }
+        }
 
-      img {
-        position: absolute;
-        height: 4rem;
-        top: -0.5rem;
-        z-index: 5;
-      }
+        img {
+          position: absolute;
+          height: 4rem;
+          top: -0.5rem;
+          left: -1rem;
+          z-index: 5;
+        }
 
-      h1 {
-        padding-left: 2rem;
+        h1 {
+          padding-left: 1rem;
+        }
       }
     }
   }
 
   mat-sidenav-container {
-    /* When the sidenav is not fixed, stretch the sidenav container to fill the available space. This
-       causes `<mat-sidenav-content>` to act as our scrolling element for desktop layouts. */
     flex: 1;
+    padding: 1rem 2rem;
   }
 
 }
