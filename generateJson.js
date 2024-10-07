@@ -1,7 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-// Function to recursively get file structure
+// Directories to exclude
+const excludedDirs = ['.git', '.github', '_layout', 'angular-idrinth', 'assets'];
+
+// Function to recursively get file structure, only including .md files
 function getFileStructure(dirPath) {
     const files = fs.readdirSync(dirPath);
     const structure = {};
@@ -10,10 +13,17 @@ function getFileStructure(dirPath) {
         const filePath = path.join(dirPath, file);
         const stats = fs.statSync(filePath);
 
-        if (stats.isDirectory()) {
-            structure[file] = getFileStructure(filePath); // Recursively get directory content
-        } else {
-            structure[file] = 'file'; // Mark as file
+        // Check if it's a directory and not in the excluded list
+        if (stats.isDirectory() && !excludedDirs.includes(file)) {
+            const subStructure = getFileStructure(filePath);
+            // Only include the directory if it contains files or subdirectories
+            if (Object.keys(subStructure).length > 0) {
+                structure[file] = subStructure;
+            }
+        } 
+        // Include only .md files
+        else if (stats.isFile() && path.extname(file) === '.md') {
+            structure[file] = 'file'; // Only include .md files
         }
     });
 
