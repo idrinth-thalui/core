@@ -36,9 +36,6 @@ export class AppComponent implements OnDestroy {
   route = inject(ActivatedRoute);
   markdownService = inject(MarkdownService);
 
-
-	fillerNav = Array.from({ length: 50 }, (_, i) => `Nav Item ${i + 1}`);
-
 	private _mobileQueryListener: () => void;
 
 	constructor() {
