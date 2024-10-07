@@ -1,1 +1,14 @@
 <p>display works!</p>
+
+@if (content) {
+<pre>{{ content }}</pre>
+} @else {
+<h3>Available files:</h3>
+<ul>
+  @for (file of subFiles; track file) {
+  <li>
+    <a [routerLink]="[currentPath, file]">{{ file }}</a>
+  </li>
+  }
+</ul>
+}

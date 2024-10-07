@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 export class MarkdownService {
   http = inject(HttpClient);
 
-   getMarkdownFile(): Observable<Object> {
+  getFileStructure(): Observable<Object> {
     return this.http.get("/data/fileStructure.json");
   }
 }
