@@ -13,8 +13,9 @@
     <mat-sidenav #snav [mode]="mobileQuery.matches ? 'over' : 'side'" [fixedInViewport]="mobileQuery.matches"
       fixedTopGap="56">
       <mat-nav-list>
-        @for (nav of fillerNav; track nav) {
-        <a mat-list-item routerLink=".">{{nav}}</a>
+        @for (file of subFiles; track file) {
+        <!-- <a mat-list-item routerLink=".">{{nav}}</a> -->
+        <a mat-list-item [routerLink]="[currentPath, file]">{{ file }}</a>
         }
       </mat-nav-list>
     </mat-sidenav>
