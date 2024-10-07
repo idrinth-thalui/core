@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  .is-mobile {
+
+    mat-toolbar {
+      position: fixed;
+      z-index: 2;
+    }
+
+    mat-sidenav-container {
+      /* When the sidenav is fixed, don't constrain the height of the sidenav container. This allows the
+         `<body>` to be our scrolling element for mobile layouts. */
+      flex: 1 0 auto;
+    }
+  }
+
+  mat-toolbar {
+    background: linear-gradient(#646464, #494949, #171717);
+
+    mat-icon {
+      color: #fff;
+
+      &:hover {
+        color: #929292;
+      }
+    }
+
+    .logo {
+      position: relative;
+      color: #fff;
+      display: flex;
+      gap: 0.5rem;
+
+
+      &:hover {
+        color: #929292;
+      }
+
+      img {
+        position: absolute;
+        height: 4rem;
+        top: -0.5rem;
+        z-index: 5;
+      }
+
+      h1 {
+        padding-left: 2rem;
+      }
+    }
+  }
+
+  mat-sidenav-container {
+    /* When the sidenav is not fixed, stretch the sidenav container to fill the available space. This
+       causes `<mat-sidenav-content>` to act as our scrolling element for desktop layouts. */
+    flex: 1;
+  }
+
+}

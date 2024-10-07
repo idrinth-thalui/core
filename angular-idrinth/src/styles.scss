@@ -1,0 +1,28 @@
+@use '@angular/material' as mat;
+
+$theme: mat.define-theme((
+  color: (
+    theme-type: light,
+    primary: mat.$azure-palette,
+    tertiary: mat.$blue-palette,
+  )
+));
+
+body {
+  margin: 0;
+  height: 100%;
+
+  @include mat.all-component-themes($theme);
+}
+
+html {
+  height: 100%;
+}
+
+@include mat.core();
+@include mat.color-variants-backwards-compatibility($theme);
+
+
+a {
+  text-decoration: none;
+}
