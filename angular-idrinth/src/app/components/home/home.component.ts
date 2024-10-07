@@ -14,8 +14,8 @@ export class HomeComponent implements OnInit{
   markdownService = inject(MarkdownService);
 
   ngOnInit(): void {
-    this.markdownService.getMarkdownFile(this.filePath).subscribe((content) => {
-      this.readmeContent = content;
-    });
+    // this.markdownService.getMarkdownFile(this.filePath).subscribe((content) => {
+    //   this.readmeContent = content;
+    // });
   }
 }
