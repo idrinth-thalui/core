@@ -1,1 +1,2 @@
-
+- A sailor of some kind? Curious how you ended up here.
+- A pirate? I guessed as much, but didn't guess you're a captain.
