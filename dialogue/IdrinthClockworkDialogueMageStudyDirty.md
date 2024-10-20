@@ -1,0 +1,6 @@
+- Shame about the dirt everywhere. It looks very well organised.
+- Books sorted alphabetically. A rare sight for a private library.
+- Logical storage system. Pity about the dust.
+- This book shelve was infested by book worms. Looks like the spiders won the war. Yeech!
+- This room filled would be the dream of many a mage.
+- Spider webs. Why is it always spider webs?
