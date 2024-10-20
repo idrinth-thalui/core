@@ -2,3 +2,10 @@
 - My blade will end you!
 - Back to your grave!
 - I'll throw your bones to the dogs!
+- I'll grind you into bone meal!
+- Another bloodless target!
+- Should have stayed dead!
+- Oblivion take you!
+- Die for good!
+- TRINIMAC!
+- Stop pestering me!
