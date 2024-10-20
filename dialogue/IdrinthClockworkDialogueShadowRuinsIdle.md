@@ -1,0 +1,15 @@
+- Careful, she's getting close!
+- Better move again!
+- She's behind you!
+- Stay clear of her!
+- I can't stop her! Move!
+- By the stars!
+- Trinimac guide us!
+- Xarxes' backside!
+- She's coming for you!
+- Look out!
+- Move away from her!
+- She's out for you!
+- Auri-El's hand!
+- Stay back from her!
+- Don't let her touch you!
