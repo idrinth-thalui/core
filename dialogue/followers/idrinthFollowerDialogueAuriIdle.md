@@ -1,7 +1,15 @@
-- I'm so glad, that you are following the green pact!
+- I'm so glad, that you are following the Green Pact!
 - Would you mind sharing some of our enemies?
 - You make a dangerous enemy, your bow is deadly!
 - I must say, your interpretation of the Green Pact reminds me of my own set of rules.
 - In your eyes, Auri, what would be the best target for us to hunt next?
 - Wounderful, stuck between two wood elves...
 - Poor Auri, she'll risk her neck looking up to us...
+- It must be hard for you to be  far away from home.
+- What is your favourite prey?
+- I could try to make some Bosmer Bites, if you want.
+- Your home woods are beautiful. I miss them, too.
+- You may be small in size, but a giant in ferociousness.
+- I hope you do not join the Wild Hunt while we are near?
+- Have you ever met the Silvenar?
+- Your Thistlefoot is a fine antelope.
