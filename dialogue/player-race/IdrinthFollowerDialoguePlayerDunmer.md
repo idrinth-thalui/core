@@ -1,4 +1,3 @@
-- Did you ever visit Morrowind?
 - Ever rode on a guar?
 - What is your favourite dish? I loved my wife's kwama egg quiche.
 - With any luck we can have a saltrice risotto in the New Gnisis Cornerclub.
@@ -8,3 +7,4 @@
 - I was in Ald'ruhn shortly after the eruption. It was horrible to behold.
 - Want to share a bottle of sujamma at our next stay?
 - I do hope you mainly follow Azura.
+- I am sorry about the recent decline. Your people will recover for sure!
