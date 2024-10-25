@@ -7,3 +7,4 @@
 - I was in Ald'ruhn shortly after the eruption. It was horrible to behold.
 - Want to share a bottle of sujamma at our next stay?
 - I do hope you mainly follow Azura.
+- I am sorry about the recent decline. Your people will recover for sure!
