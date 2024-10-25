@@ -122,7 +122,7 @@
 - Some werewolves can control themselves. Most are rabid beasts, though.
 - With the Civil War raging, necromancers have an abundance of unclaimed corpses. Filthy thrice-cursed!
 - So many orphans left to fend for themselves. I wish I could do more to help them.
-- Stars above, I wish the Vigilants would refrain on hunting real dangers instead of me.
+- Stars above, I wish the Vigilants would refrain on hunting me instead of real dangers.
 - I understand the fervour of the first Vigilants, shortly after the Oblivion Crisis. But these children do not know what they are talking about.
 - Vigilants... hunting the vampire who hunts down other vampires. Stendarr have mercy with them...
 - Trinimac, another Vigilant?
