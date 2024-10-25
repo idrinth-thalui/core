@@ -1,4 +1,3 @@
-- Did you ever visit Morrowind?
 - Ever rode on a guar?
 - What is your favourite dish? I loved my wife's kwama egg quiche.
 - With any luck we can have a saltrice risotto in the New Gnisis Cornerclub.
