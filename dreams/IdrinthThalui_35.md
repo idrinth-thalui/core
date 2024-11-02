@@ -1,0 +1,1 @@
+The first thing you notice is the smell. It smells of sickness. Opening your eyes you see beds standing next to each other full of Khajiit with Altmer treating them. Before you is a tall Altmer kneeling next to a bed casting healing magic on the sick Kajiit in front of him before moving on to the next with sadness in his eyes.
