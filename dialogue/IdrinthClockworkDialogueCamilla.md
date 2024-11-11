@@ -1,0 +1,1 @@
+I guess this is Camilla. Looks like our mysterious watcher got her first. Wonder how exactly how she died? Anyway, her friend Isidor had a better end.
