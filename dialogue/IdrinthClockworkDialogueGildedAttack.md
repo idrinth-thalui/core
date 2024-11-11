@@ -1,0 +1,23 @@
+- I'll hack the armour from your bones!
+- Just brass and bones!
+- I'll weld you into a cube!
+- Trinimac, I'll beat some sense into you!
+- You want to bite me? Me!?
+- Gilded? You're just skeletons wearing armour!
+- Why don't you have any blood left!
+- Aah! I dented my sword, you graxifalas!
+- Stop repeating yourself!
+- You're dumber than a coral crab!
+- You accursed bloodless mechanical madmen!
+- I hate this Dwemer ruin!
+- Trust? Trust me to end you!
+- I'll beat you blue!
+- Is there a whole swarm of you?
+- Useless brass bones!
+- Thrice cursed brassheads!
+- Another one? I'll end you too!
+- You dare to hit me, slek?
+- Lorkhan take you!
+- Xarxes' backside, another one?
+- By Trinimac!
+- Lorkhan take all Dwemer!!
