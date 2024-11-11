@@ -1,0 +1,11 @@
+- Cobwebs everywhere... with my luck we have a nest of frostbite spiders lurking in one room.
+- The dust is piling up everywhere.
+- Another part of the tapestries getting loose.
+- When was the last time someone swept the floor?
+- Guess Lahar just stood there in darkness for some time.
+- *cough* So much dust!
+- Spider webs. Again. I hate spider webs.
+- Those paintings would look beautiful without the coat of dust on them.
+- With the lights on it looks even more desolate.
+- Peeling wallpaper everywhere... this place is slowly falling apart.
+- Great. Peeling wallpaper covered in cobwebs.
