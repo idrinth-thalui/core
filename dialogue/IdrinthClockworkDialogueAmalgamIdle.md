@@ -1,0 +1,6 @@
+- Great, he sounds even more mad than the other Gilded.
+- A mad spirit enclosed in the body of a Dwemer centurion. Trinimac truly tests us today.
+- Sounds like he is more than one spirit...Stars above, did he do more than merely taking their soul gem hearts?
+- The others may be totally crazy, but this Amalgam is truly the Sheogorath of this place.
+- I would not be surprised finding a portal to the Shimmering Isles somewhere in these halls.
+- I hope after this short excursion into the deeper waters of Dwemer madness Lamashtu will become sane again. At least sane enough to answer some questions.
