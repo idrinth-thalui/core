@@ -16,11 +16,11 @@
 - I appreciate the gesture, thank you!
 - I hope you didn't kill an innocent to get the blood!
 
-## Alto Vine
+## Alto Wine
 
-- Thank you for the vine, I'll enjoy it.
+- Thank you for the wine, I'll enjoy it.
 - It's weird that you would part with a good vintage like this!
-- Are you certain you want to part with vine?
+- Are you certain you want to part with wine?
 
 ## Healing Potion
 
