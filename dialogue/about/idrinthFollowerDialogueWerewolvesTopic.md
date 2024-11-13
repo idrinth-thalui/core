@@ -1,4 +1,4 @@
-# What do you think about Werewolves?
+# What do you think of Werewolves?
 
 - Very fluffy usually, I like running with them in wolf form.
 - Formidable fighters, there is a reason my sword is silvered.
