@@ -1,4 +1,4 @@
-# What do you think about Vampires?
+# What do you think of Vampires?
 
 - The thirst is strong, but you can live with it.
 - Like everything else, it's a two-edged blade.
