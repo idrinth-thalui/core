@@ -23,7 +23,7 @@
 - Athis worked hard for this. I saw him struggling not to use his magic several times.
 - Athis always had a hard time fitting in. First the Great War, then the Stormcloaks...
 - Skjor joined after the Great War. He... did not like me at first.
-- It took me years to convince Skjor I am not a thread. I suspect Kodlak had a talk with him.
+- It took me years to convince Skjor I am not a threat. I suspect Kodlak had a talk with him.
 - Skjor always was a good teacher. Harsh but fair.
 - When Skjor joined, the twins took him as their new father.
 - I had a few talks with Skjor. We... respected each other.
